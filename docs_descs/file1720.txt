@@ -1,0 +1,5 @@
+http://www.mcprogramming.org
+http://www.essentialcscourses.com
+
+Java multidimensional arrays - How to create multidimensional arrays in java
+Also how to loop through a multidimensional array with nested for loops

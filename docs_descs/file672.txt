@@ -1,0 +1,28 @@
+Java Interview Question And Answer Explain Java Class and Object Java Interview
+
+Difference between 'Class' and 'Object' in Java ? Java Interview Question and Answer ?
+
+The terms 'class' and 'object' are absolutely related to one another, but each term holds its own distinct meaning. 
+
+The term 'class' refers to the actual written piece of code in which the class is defined. A class is a static piece of code that consists of attributes which don't change during the execution of a program -- like the method definitions within a class.
+
+Please remember  - "An object is an instance of a class ".
+
+Every object must belong to a class. Objects are created and eventually destroyed -- so they only live in the program for a limited time.
+
+An instance of the Animal class would be a specific animal -- like a lion, a cat, or a camel. These instances of the Animal class would be called objects.
+
+
+A Job Portal
+http://www.InterviewDot.com http://www.InterviewDot.com http://www.InterviewDot.com
+One Click Dream Job - http://www.interviewdot.com/upload-resume/uploadresume.htm
+
+Other Top Job Portals
+www.Naukri.com
+www.MonsterIndia.com
+www.TimesJobs.com
+
+Are you looking for a new Job ?
+InterviewDot.com - A Job Portal
+http://www.InterviewDot.com http://www.InterviewDot.com http://www.InterviewDot.com
+One Click Dream Job - http://www.interviewdot.com/upload-resume/uploadresume.htm

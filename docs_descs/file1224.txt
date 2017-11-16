@@ -1,0 +1,1 @@
+Cuando se redactan programas, pronto resulta evidente la utilidad de repetir una sucesión de instrucciones para la repetición de instrucciones, específicamente hablando de los ciclos "Do While" y "For".

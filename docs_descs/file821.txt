@@ -1,0 +1,1 @@
+O básico de um ArrayList Java. Inserindo, removendo itens e percorrendo todos os elementos da lista.

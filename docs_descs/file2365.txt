@@ -1,0 +1,12 @@
+This lecture gives examples on using multidimensional arrays in java. To know more about multidimensional arrays, see this lecture. To know more about java follow us at:
+==================================
+Youtube: http://www.youtube.com/omdasharkawy
+Facebook: http://www.facebook.com/prog.vid.tut
+Gmail: omda.sharkawy@gmail.com
+==================================
+تتكلم هذه المحاضرة عن امثلة المصفوفات متعددة الأبعاد في لغة الجافا للمزيد تابعونا على 
+====================================
+Youtube: http://www.youtube.com/omdasharkawy
+Facebook: http://www.facebook.com/prog.vid.tut
+Gmail: omda.sharkawy@gmail.com
+====================================

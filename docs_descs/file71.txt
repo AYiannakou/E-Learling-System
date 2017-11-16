@@ -1,0 +1,4 @@
+Anyone can use the video to amuse themselves and review the basics of the pointers -- but only for about 3 minutes! A more likely use of the video is as a fun little segment integrated in to a first or second lecture on pointers.
+
+Redistribution
+As with all materials in the CS Education Library, you have almost unlimited rights to copy and redistribute this content. The only restriction is that the material must be reproduced with its copyright legend: "This is document 104 in the Stanford CS Education Library. Please see http://cslibrary.stanford.edu/  for this and other free educational materials. Copyright Nick Parlante 1999."

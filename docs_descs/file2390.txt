@@ -1,0 +1,7 @@
+Google Tech Talks
+February, 28 2008
+
+
+
+Speaker: Ola Bini
+I work for ThoughtWorks Studios, and recently published the book Practical JRuby on Rails at APress. I'm very interested in Artificial Intelligence, Lisp, Ruby and the fuzzy lines between languages...

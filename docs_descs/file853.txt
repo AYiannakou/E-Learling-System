@@ -1,0 +1,1 @@
+When writing code in a managed bean you might want to access attribute values or execute method calls.  This ADF Insider Essentials show you how you can access ADF bindings from a managed bean

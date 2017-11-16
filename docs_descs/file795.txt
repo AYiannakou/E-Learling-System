@@ -1,0 +1,4 @@
+Hola que ta nuevo video donde veremos:
+Crear objetos ArrayList
+Tipos de datos que requiere un ArrayList.
+Metodos para la extraccion de un ArrayList

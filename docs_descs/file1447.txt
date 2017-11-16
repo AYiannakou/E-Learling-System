@@ -1,0 +1,1 @@
+Java Interview Preparation HashMap Collection , Top 8 questions asked in a typical java interview about the Hashmap API in the java programming language.

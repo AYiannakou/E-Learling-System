@@ -1,0 +1,10 @@
+In this tutorial, we talk about accessor and mutator methods (also known as setter and getter methods), which can be used to access data that has been encapsulated within a class.
+
+TechnicalCafe Blog:
+http://TechnicalCafe.com
+
+TechnicalCafe Twitter:
+http://Twitter.com/TechnicalCafe
+
+Jamie's Twitter:
+http://Twitter.com/Jamiemcg

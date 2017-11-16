@@ -1,0 +1,1 @@
+In this lesson we introduce objects, classes, properties and methods. We'll only use objects and classes at this time as we will learn to create classes in a future lesson. Along the way we'll learn how to use various classes found in the JDK and discover how useful JavaDocs can be for figuring how how to use a class.

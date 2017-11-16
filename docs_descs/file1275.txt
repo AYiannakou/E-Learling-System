@@ -1,0 +1,45 @@
+===========================
+WELCOME TO H2K INFOSYS
+IT Staff Augmentation, Job placement assistance, Tech Support
+IT Training for corporate & Individuals,
+Fast track IT Training & Job placement assistance for OPT / MS graduates in USA
+Software Design, Development, QA Testing, Performance Testing & Support
+H2K Infosys is a one stop global online software training institution that offers a huge portfolio of software online training and onsite training in technological areas such as Software QA Testing (QA), Business Analysis (BA), HP QTP, HP LoadRunner, WebServices, Java, J2EE, Microsoft C# and ASP .NET, Oracle DBA to name a few. These online software training courses are designed for Individuals, and employees of forward thinking companies and other organizations to acquire, maintain, optimize and validate their IT skills.
+
+"With the changing trends in the market, innovation is the key to stay ahead" - H2Kinfosys provides software training with latest technologies to meet the current job market. H2Kinfosys is developing software projects for the current and future generations in Education, Healthcare, Finance, Supply chain, CRM, Hospitality, Cloud and Telecom domains.
+
+Why H2K..?
+
+100% Job Oriented Instructor Led Face2Face True Live online Software Training with Cloud Test Lab to practice on Software Tools and Live Project work.
+Resume Prep & Review, Mock Interviews and Job Placement assistance.
+More interaction with student to faculty and student to student.
+Detailed presentations. Soft copy of Materiel to refer any time.
+Practical oriented / Job oriented Training. Practice on Software Tools & Real Time project scenarios.
+Weekly mock interviews / group discussions / interview related questions.
+Test Lab is in Cloud Technology - to practice on software tools.
+Pay onetime fee & repeat / re attending classes multiple times until student is comfortable with every topic. This feature is helpful to students who are new to I.T. Field. Depends on the batch schedule and student convenient, Student can repeat Weekend or Weekday batches and review the topic multiple times.
+QA Testing training is 80+ hours.
+We discuss about the real time project domains in Banking/Financial, Telecom, Supply Chain Management, CRM, Health care and other domains.
+We provide Recorded Videos for every class to review before and after the live class.
+The teaching methods / tools / topics we chosen are based on the current competitive job market. Visit http://www.h2kinfosys.com/advantages.
+
+QA Testing Training Course Highlights
+Module 1:Manual Testing
+Software Testing Life Cycle,SDLC,Waterfall vs. Agile
+QA Tester Role,Test Metrics,Types of Testing
+Software Testing Life Cycle,STLC,Defect Life Cycle
+Testing Methodologies,Software Testing process
+Test case,Test plan,RTM,Defect tracking
+Home works,Telecom,Banking,HealthCare,Supply chain domains.
+Role of QA,BA,Developer,Technical Architects etc.
+Module 2:HP Quality Center - ALM for Test management/ Defect Tracking
+Module 3:SQL (Database/Back End Testing)
+Module 4:UNIX / Linux Operating System/Backend Testing
+Module 5:HP QTP (Quick Test Professional) for Automation Testing
+Module 6:HP Loadrunner for Performance Testing
+Module 7:Review & questions on all topics,Configuration Management,CMMI,Six Sigma principles,Requirement (e.g. Sarbanes Oxley,HIPPA-Medical related),Interview Questions. How to prepare professional resume?
+Module 8: IBM Mainframe Testing
+Module 9: SAP Testing (Sales & Distribution (SD),Production Planning or CRM Or any one of the SAP)
+Module 10: WebServices (SOA) Testing using SoapUI tool
+Module 11: ETL and Data warehouse Testing
+Module 12: IBM Rational Quality Manager (RQM) Tool (It was Rational Test Manager)

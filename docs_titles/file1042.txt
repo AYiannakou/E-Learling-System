@@ -1,0 +1,1 @@
+5  Oracle ADF - Generating & working with Java class for Entity Objects

@@ -1,0 +1,1 @@
+Videotutorial de Javascript sobre los arrays multidimensionales donde se explciarán varias maneras de crear arrays multidimensionales y acceder a sus casillas, así como recorridos por arrays de más de una dimensión por medio de bucles anidados.

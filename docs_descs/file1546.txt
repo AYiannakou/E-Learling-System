@@ -1,0 +1,21 @@
+COMPUTER APPLICATIONS(Grade 9)
+OPERATORS IN JAVA
+
+What is Operators,
+Arithmetic Operators,
+Additive Operators,
+Subtraction Operators,
+Multiplicative Operators,
+Division Operators,
+Remainder Operators,
+
+Relational Operators,
+Logical Operators,
+Assignment Operators,
+Increment and Decrement Operators,
+Conditional Operators
+Bitwise operators,
+Some special operators,
+Operators Precedence and its use,
+Video by Edupedia World (www.edupediaworld.com), Online Education,
+All Right Reserved.

@@ -1,0 +1,1 @@
+we all know about the main method's properties of being public, static, void. but why were they defined so ? All answers explained in a very basic manner in this video

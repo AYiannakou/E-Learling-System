@@ -1,0 +1,6 @@
+http://www.video2brain.com/de/products-949.htm 
+
+Dieses Video ist ein Auszug aus Michael Kullas Video-Training "Neu in Java 7. Alle wichtigen Neuerungen sehen und verstehen!" von video2brain.
+
+Sie lernen in diesem Video:
+In diesem Video sehen Sie, wie Sie in switch-Anweisungen nun auch Strings verwenden können. Der Film zeigt Ihnen anschaulich den Unterschied und die Vereinfachung bei der Anwendung von Strings.

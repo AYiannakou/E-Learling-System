@@ -1,0 +1,1 @@
+Hier ein Beispiel wie man einen "String" zu einem "double" umwandelt. Diese konvertierung erfolgt mit Hilfe der sogenannten Wrapper-Klasse "Double" und deren Methode "parseDouble(...)".

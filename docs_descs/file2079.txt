@@ -1,0 +1,7 @@
+Nessa vídeo aula mostraremos como utilizar algumas funcionalidades da classe ArryList no Java, e para ilustrar construiremos uma pequena aplicação gráfica com uma tela para cadastrar contatos.
+
++++ DICA DO PROFESSOR DESSA AULA +++
+
+APRENDA COMO GANHO DINHEIRO APENAS COM CONHECIMENTOS BÁSICOS DE INTERNET.
+
+VEJA: http://amaquinadevendasonline2.com.br/sistema-amvo2/?ref=W3924671P

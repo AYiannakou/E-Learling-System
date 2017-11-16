@@ -1,0 +1,10 @@
+Interesantes video tutoriales para aprender java de una forma rápida y amena.
+En este video tutorial se explica el control de flujo de un programa a través de la instrucción for y los arrays.
+
+Para más tutoriales sobre java para principiantes ver; http://www.edu4java.com/es/progbasica.html
+
+En ; http://www.edu4java.com enseñamos java, android, sql, juegos, swing, spring,servlet, jsp y mucho más!!! 
+
+También pueden visitar el canal de youtube; http://www.youtube.com/user/edu4java
+
+Y suscribirse ; http://www.youtube.com/channel/UCsxGELCoTMFXD3PX0hzxZAQ?sub_confirmation=1

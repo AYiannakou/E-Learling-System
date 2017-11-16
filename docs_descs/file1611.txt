@@ -1,0 +1,2 @@
+Shows you how to convert an integer to a binary number using actual math, not functions. Written in Java within the IDE Eclipse, but the concept and method is universal, and can be done very easily in other programming languages. 
+Convert Binary back to Int: http://www.youtube.com/watch?v=42lWBnTLjr4

@@ -1,0 +1,1 @@
+The video looks at the process of Concatenation in programming.  It shows how the plus operator is used to concatenate.

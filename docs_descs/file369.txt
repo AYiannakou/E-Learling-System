@@ -1,0 +1,1 @@
+Java Öğreniyorum serisinin 4. videosu. Bu videoda boolean, char ve String değişken türlerini öğreniyoruz. Ayrıca String değişkenleri kullanarak bazı fonksiyonların örneklerini yapıyoruz.

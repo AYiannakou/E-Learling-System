@@ -1,0 +1,2 @@
+http://www.gcreddy.com/2016/02/java-variables-and-operators.html
+Java Variables and Operators tutorial explains Java Modifiers, Java Variables and Operators in Java. Types of Variables, Declaration of Variables, Naming restrictions and Assigning values to variables. Java Arithmetic, Relational, Assignment and Logical Operators. Java Access and Non Access Modifiers. Java Fundamentals for Selenium.

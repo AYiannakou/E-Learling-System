@@ -1,0 +1,1 @@
+This is a part of lecture presented by Ms Deepti Gupta Asst. professor of BIYANI GROUP OF COLLEGES. The video is about the basics of  "Bitwise  operators"  in java.

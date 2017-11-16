@@ -1,0 +1,14 @@
+In this beginners video tutorial you will learn how to pass an array as a parameter to a method and how to return an array from a method in java programming language in detail with example.
+
+This video lecture teaches about the the methods which will receive arrays as the parameters and how to call a method with them as argument, how to return themfrom a method in detail with example.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

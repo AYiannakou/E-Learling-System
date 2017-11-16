@@ -1,0 +1,2 @@
+Lesson Code: http://www.developphp.com/video/JavaScript/Multidimensional-Array-Programming-Tutorial
+Learn to write and process multidimensional arrays using JavaScript. They are arrays that contain one or more arrays to provide a deeper level of data nesting and processing than normal basic arrays.

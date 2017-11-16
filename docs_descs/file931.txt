@@ -1,0 +1,21 @@
+Launch Your First Android app with our TOP course at 82% OFF (24 hrs ONLY) HERE https://goo.gl/7veBXc
+"Learn How To Design + Code A Complete App From Scratch To Playstore" 
+âž¨ https://www.youtube.com/watch?v=aWGGZCOHZ1k
+-~-~~-~~~-~~-~-
+
+This Java Tutorial video talks about static methods in Java, what are static methods, why do we need them, how can we access them from non static members and how ordinary methods can access static variables and static methods.
+
+RELATED VIDEOS
+Static Variables in Java
+http://www.youtube.com/watch?v=3c9SrLaMFGY&list=PLonJJ3BVjZW6_q8gh7XoLUIhRIyBcYJLP&index=41
+
+OUR WEBSITE
+http://slidenerd.com
+
+OUR SOCIAL LINKS
+https://www.facebook.com/groups/AndroidProgramming/
+Follow us on
+http://google.com/+slidenerd
+http://facebook.com/slidenerd
+https://twitter.com/slidenerdtech
+http://pinterest.com/slidenerd

@@ -1,0 +1,9 @@
+The Star7 (*7) was a prototype for a SPARC based, handheld wireless PDA, with a 5" color LCD with touchscreen input, a new 16 bit --5:6:5 color hardware double buffered NTSC framebuffer, 900MHz wireless networking, PCMCIA bus interfaces, multi-media audio codec, a new power supply/battery interface, radical industrial design and packaging/process technology, a version of Unix that runs in under a megabyte, including drivers for PCMCIA, radio networking, touchscreen, display, flash RAM file system, execute-in-place, split I/D cache, with cached framebuffer support, a new small, safe, secure, distributed, robust, interpreted, garbage collected, multi-threaded, architecture neutral, high performance, dynamic programming language, a new small, fast, true-color alpha channel compositing, sprite graphics library, a set of classes that implement a spatial user interface metaphor, a user interface methodology which uses animation, audio, spatial cues, gestures, agency, color, and fun, a set of applications which show all of the features of the *7 hardware and software combination, including a TV guide, a fully functioning television remote control, a ShowMe style distributed whiteboard which allows active objects to be transmitted over a wireless network, and an on-screen agent which makes the whole experience fun and engaging. 
+
+All of this, in 1992! While the Star7 may have never entered commercial production, Oak, the language behind it all, became the very popular Java programming language. 
+
+Copyright (c) Sun Microsystems.
+
+For more information see:
+https://duke.dev.java.net/green/
+http://blogs.sun.com/jag/entry/the_green_ui

@@ -1,0 +1,13 @@
+¿Qué es un Array en Java?
+
+Un array es una estructura de datos que nos permite almacenar una gran cantidad de datos de un mismo tipo. El tamaño de los arrays se declara en un primer momento y no puede cambiar en tiempo de ejecución como puede producirse en otros lenguajes.
+
+Tamaño del array: .length
+
+Esta variable nos devuelve el número de elementos que posee el array. Hay que tener en cuenta que es una variable de solo lectura, es por ello que no podremos realizar una asignación a dicha variable.
+
+ Inicializacion de Arrays
+
+Existe una forma de inicializar un array con el contenido, amoldándose su tamaño al número de elementos a los que le inicialicemos. Para inicializar un array utilizaremos las llaves de la siguiente forma:
+
+tipo_dato array[] = {elemento1,elemento2,...,elementoN};

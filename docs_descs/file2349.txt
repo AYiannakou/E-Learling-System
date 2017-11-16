@@ -1,0 +1,1 @@
+Passing arguments to methods is essential for the methods to be able to use the data that is relevant to our program.

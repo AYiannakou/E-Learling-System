@@ -1,0 +1,12 @@
+This video covers the basics of working with arrays in Processing.  Additional resources:
+
+Array tutorial: https://processing.org/tutorials/arrays/
+Images and pixels tutorial: https://processing.org/tutorials/pixels/
+
+More videos about arrays (with objects and more): https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bO9RKxHObluh-aPgrrvb4a
+
+More videos about images and pixels: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9
+
+Help us caption & translate this video!
+
+http://amara.org/v/Qbu0/

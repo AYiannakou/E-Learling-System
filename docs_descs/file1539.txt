@@ -1,0 +1,1 @@
+In Java, short-circuit operators compare two or more logical expressions and return either true or false. This tutorial will cover the conditional and operator (&&), and the conditional or (||) operator.

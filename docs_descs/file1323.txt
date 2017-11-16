@@ -1,0 +1,1 @@
+You might be thinking that a generic method is just a method contained inside of a generic class. To a limited extent, that is sort of true. A true generic method will have its own type parameters that are independent of the class type parameters. A generic method does not have to be contained inside of a generic class, a generic method can be in a regular run-of-the-mill class.

@@ -1,0 +1,7 @@
+Get the Code Here: http://goo.gl/O8184l
+
+Welcome to my Java sort algorithm tutorial. Here I will cover all of the elementary sorting algorithms : Bubble, Selection and Insertion sort.
+
+I also created a new method we can use to analyze the arrays so we can learn how the sorts work. I want this video to be very interactive so that you really understand the sort algorithms.
+
+I also cover the linear and binary search algorithms. The code above will help you learn these algorithms perfectly.

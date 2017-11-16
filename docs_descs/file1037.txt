@@ -1,0 +1,14 @@
+In this beginners object oriented java programming video tutorial you will learn how to pass objects as method arguments / parameters in detail with example.
+
+This video lecture teaches how to define a method which can take an object as parameter, how to pass object as argument, how to access objects elements/members inside that method in detail with example.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

@@ -1,0 +1,1 @@
+In this lesson we show you how to create your own object by firstly making a new class, then making an object from that class. We then show you how to call a method on that object.

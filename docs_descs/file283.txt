@@ -1,0 +1,1 @@
+While visiting JavaPolis, Juggy, the Java User Groups Mascot, tries to get hold of important Java personalities. Here, he interviews Mark Wielaard, the leader and mainteiner of the GNU Classpath Project

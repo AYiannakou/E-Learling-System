@@ -1,0 +1,6 @@
+This video elaborates,
+1. what is class in java
+2. what is object in java
+3. Java class example
+4. java object example
+5. java constructor

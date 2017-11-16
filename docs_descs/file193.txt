@@ -1,0 +1,6 @@
+Oklahoma City Java User Group Mtg.
+Held on Tuesday Sept. 11th, 2007
+Hello Java topic:  Very Basic Threading
+by:  Brett Shuchert (Objectmentor)
+The night's sponsor:
+Objectmentor (www.objectmentor.com)

@@ -1,0 +1,1 @@
+The video looks at the String data type in Java.  It shows different examples on how to use the String data type.  It also looks at how a String is created and assigned much like a primitive data type.

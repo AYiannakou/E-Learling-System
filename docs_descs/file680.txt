@@ -1,0 +1,2 @@
+A tutorial covering how to create our own Classes and how to instantiate our own Objects from those classes. Details cover the standard naming conventions, the use of Constructors, Instantiation process for creating instances of objects from our Class file blueprints, understanding "scope" and an explanation of the "this" keyword in Java.
+Also an explanation of the "final" keyword and a proper way to use it.

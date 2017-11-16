@@ -1,0 +1,1 @@
+August 2007 Meeting of the Bay Area Python Interest Group; Python Newbies night, featuring the second half of Alex Martelli's talk on "Python for Programmers."

@@ -1,0 +1,65 @@
+http://java9s.com
+ String is the most widely used object type in Java.
+Because of this, String Objects enjoy some extra privilege from JVM
+Just like any other object, we can use a new operator to create a String.
+There are around thirteen different constructors provided by String class.
+We can just use the quotes to create a String object.
+Remember that all the strings in Java are maintained as a character array in the background.
+String object wraps this array and provides some additional functionality to edit, search and work with text.
+All string objects are maintained in a separate heap called String constant pool.
+String class is declared as final which makes it not possible to be extended.
+
+References:
+https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+
+Other Java Tutorials:
+
+ Complete Generics Tutorials playlist
+ https://www.youtube.com/playlist?list=PLkiVxfkxAYd2TAn--1BH1ERvYbHxh11Qs
+
+ Complete Java Beginners Tutorials:
+ https://www.youtube.com/playlist?list=PLkiVxfkxAYd1Typb8x-2nbzgsxdMQesKg
+
+ Multithreading in Java tutorial:
+ https://www.youtube.com/playlist?list=PLkiVxfkxAYd1i9eX9X74eoTjKZXzvITMX
+
+ Spring 3 MVC Framework tutorials:
+ https://www.youtube.com/playlist?list=PLA3AD4211EBE70E86
+
+ Spring Framework Tutorials:
+ https://www.youtube.com/playlist?list=PL2882729612B70122
+ 
+ Design Patterns in Java:
+ https://www.youtube.com/playlist?list=PLkiVxfkxAYd1xWYj9aOWoTevqok0VoYe7
+
+Follow us on:
+Facebook: fb.com/java9s
+twitter: @java9s
+
+Search terms:
+strings in java
+java string
+string in java
+array java
+java compare strings
+compare strings
+array of strings
+java list
+array in java
+java string array
+java compare string
+java if
+java comparing strings
+comparing strings
+compare two strings
+arraylist java
+java concatenate strings
+java arrays
+java split
+arraylist in java
+split string java
+string class java
+java case
+substring java
+arrays in java
+java equals

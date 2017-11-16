@@ -1,0 +1,30 @@
+Java Collection frame | Hash set | Tree set | Hash map | tree Map | Java Tutorial for Beginners | J2EE Tutorial for Beginners | Core JAVA Tutorial for Beginners | JAVA Online Training Videos 
+
+Java Online Training Course from JAVA certified people with live projects and mock interview sessions. JAVA/J2EE online training and placement from h2kinfosys.
+
+H2Kinfsoys Java Online Training Course Advantages:
+100% Job Oriented Training
+Live Online Java Training
+Recorded Videos of each Session
+Live Projects on Different sectors
+Resume Review and preparation by experts.
+Unlimited Mock Interviews
+Job Placement Assistance
+
+Java Online Training by Certified Professionals
+ 
+This is one of our live Java class recording video, in this Java Video Tutorial will cover multi threading and the sleep method.
+ 
+Second session of the video the difference versions of the java differed. Explained how to the threads works on the instruction of the user and also gives the use of the sleep method.
+ 
+Register for Our Java Live Online Training Free Demo class
+ 
+To know more about Java job oriented Training Course details, please visit http://www.h2kinfosys.com/courses/java-online-training-course-details
+
+Contact Us:
+H2Kinfosys.com
+US: 770 777 1269
+UK: 020 3371 7615
+Email: h2kinfosys@gmail.com
+
+H2kinfosys offering Live Online Training in fallowing Software courses: Quality Assurance (QA) Business/Systems Analysis (BA) ISTQB Advanced QTP Java/J2EE Web Services Automation ETL Testing Mobile Apps Testing JUNIT Testing IBM COGNOS Business Objects (BO) Informatica LoadRunner - Advanced Project Management (PM) BOXI R3 Ruby / Rails/ Watir / Selenium SAP - Human Resource SAP - FI/CO SAP - BI Microsoft .Net IBM AIX Training Linux System Administration Veritas Volume Manager Oracle Solaris System Admin AB-INITIO Training HP Service Test

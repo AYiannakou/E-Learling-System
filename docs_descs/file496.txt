@@ -1,0 +1,7 @@
+This video continues discussing Strings, spending time with the Java API documentation.
+
+This video is part of a 20 hour Introduction to Java Programming online training course.  To watch the first few hours of the series free on YouTube, access our playlist at: http://www.youtube.com/playlist?list=PLZon9z32m_RhzpuA-LSEslX-vs4gTLqE-
+
+If you wish to purchase the remainder of this online Java training course, you can do so at Udemy.com.  Use this link to get 10% off your purchase: https://www.udemy.com/introduction-to-java-programming/?couponCode=LBTB10OFF.
+
+Finally, we would love it if you would subscribe to our channel or comment on our Java training videos.

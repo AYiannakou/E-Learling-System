@@ -1,0 +1,22 @@
+Next Video: http://youtu.be/t3tcwdjMTKY
+
+Previous Video: http://youtu.be/jKCBlOj-ifc
+
+Best Java Books: https://www.youtube.com/watch?v=vJXZrCZ8Ib4
+
+Download my games here: http://bit.ly/flappyredball
+
+Video Description:
+In this video we will learn about logical operators in java. We'll learn about different logical operators, the and operator, the or operator and the not logical operator in java. We'll also take a look at how to check for multiple conditions using logical operators in java.
+
+If you have any questions, make sure to write those in comments. 
+
+Subscribe to get notified for all the future tutorials. Like , comment and share.
+
+Thank you very much, for watching my video, Have a great day.
+
+If you loved my tutorials, please consider Donating a little money via Paypal on my Paypal email:
+ 
+rbsupercool@gmail.com . 
+
+It will help me to continue doing free tutorials, god bless you. :)

@@ -1,0 +1,4 @@
+This code will show the basic way of how to compare strings alphabetically using compareTo method and more to that - we`re going to implement Comparable interface so we can simply sort arraylist of objects of this class.
+=====================================
+SUBSCRIBE FOR MORE: http://goo.gl/bMexAI
+=====================================

@@ -1,0 +1,26 @@
+Arrays Multidimensionais são estruturas de dados que possuem duas ou mais dimensões. Em suma, temos que um Array que contém uma única dimensão funciona internamente como um Array multidimensional. A diferença está na quantidade de índices que cada elemento da nossa estrutura terá como identificador.
+
+A seguir, temos a definição de um Array de uma dimensão e a seguir, definimos um segundo Array, porém, com 2 dimensões.
+
+int[] lista = new int[3];
+
+int[][] duas_dimensoes = new int[8][8];
+
+Acima, na segunda declaração, temos um Array de duas dimensões, e cada dimensão, possui oito elementos. Logo, temos uma estrutura 8x8, capaz de armazenar 64 números inteiros distintos.
+
+É importante observar que todas as variáveis do tipo inteiro são inicializadas, por definição da linguagem, com o valor igual a zero, caso não façamos nenhuma atribuição no momento da declaração. Logo, numa estrutura Array não será diferente, até porque, cada posição do nosso Array é de fato uma variável do tipo inteiro e assim, o valor de inicialização da mesma será igual a 0.
+
+
+
+
+
+
++ Curso de Java: http://excript.com/curso-de-java.html
+
++ DÚVIDAS? https://goo.gl/ApYFMC
++ PlayList do Curso de Java: https://www.youtube.com/playlist?list=PLesCEcYj003Rfzs39Y4Bs_chpkE276-gD
++ SITE: http://excript.com/
++ FACE: http://www.facebook.com/excript
++ MEU PERFIL PÚBLICO: https://goo.gl/4SPRVf
++ G+: https://plus.google.com/+excriptvideo
++ E-MAIL: excriptbrasil@gmail.com

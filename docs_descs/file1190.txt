@@ -1,0 +1,3 @@
+Continuamos viendo los ArrayList. Vemos cómo acceder a un elemento en concreto dentro de un ArrayList y cómo copiar un ArrayList en un Array convencional.
+
+Para más cursos, ejercicios y manuales visita: http://www.pildorasinformaticas.com

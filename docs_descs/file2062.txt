@@ -1,0 +1,12 @@
+Java Software Solutions: Foundation of Program Design Using Classes and Objects
+Programming Challenge 4.2 - Creating Dog Class (Java Classes, Objects, Methods)
+
+Design and implement a class called Dog that contains instance data that represents the dog's name and age.
+Define the Dog constructor to accept and initialize instance data. 
+Include a method to compute and return the age of the dog in "person years" (multiply by 7).
+Include a toString method that returns a one-line description of the dog.
+Create a driver class called Kennel, whose main method instantiates and updates several Dog objects.
+
+Learning to code? Follow my Java tutorials for beginners. I do a lot of Java programming challenges and Java projects as part of my homework - every day!
+If you are learning to program, nothing beats solving real programming exercises and coding challenges.
+So don't forget to subscribe, as I release new programming videos every day!

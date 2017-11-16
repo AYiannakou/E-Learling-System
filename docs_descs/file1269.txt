@@ -1,0 +1,12 @@
+En este tutorial se explica lo que es la sentencia while y la sentencia do/while en php, se realizan algunos ejemplos para demostrar su uso.
+
+Suscribete y ve toda la serie de tutoriales PHP, también puedes encontrar en mi canal tutoriales de programación en java y otros tips de informatica y programación.
+
+Para aprender mas de PHP visita mi sitio web en:
+http://codigoprogramacion.com/curso-php.html
+
+No olvides visitar a los integrantes del team ReactivePlus para mas tutoriales de todo tipo.
+http://www.youtube.com/ReactiveTeam
+
+Patrocinio por OkHosting:
+http://www.youtube.com/okhosting

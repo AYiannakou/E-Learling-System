@@ -1,0 +1,5 @@
+This is a brief tutorial on how to do the bubblesort algorithm. 
+It's a very simple algorithm, less than 25 lines, but it is a bit advanced until you get
+into data structures unless you're already familiar with whiles, fors, and if statements.
+
+Please feel free to leave your questions in the comments, I will probably address them!

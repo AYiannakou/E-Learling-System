@@ -1,0 +1,13 @@
+Sleepwalker is a additive action-puzzle mobile game.
+
+Sleepy is a sleepwalker and you are his guardian elf. ¡Help him! Any accident can be fatal during his night walk. Do not allow him to be injured.
+
+To download it, visit with your phone:
+http://play2me.mobi
+
+More info:
+http://www.exelweiss.com/desarrollo/videojuegos/movil/java/sleepwalker-mobile.php
+
+[ES] Sleepy es sonámbulo y tu eres su duende de la suerte. ¡Ayúdale! Cualquier accidente puede ser fatal. No dejes que se haga daño.
+
+[DE] Sleepy ist Schlafwandler und du bist sein Glückskobold. Hilf ihm! Jeder Unfall könnte fatal sein. Lass nicht zu, dass ihm etwas passiert.

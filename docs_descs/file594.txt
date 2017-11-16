@@ -1,0 +1,15 @@
+Ecco il terzo episodio della rubrica "Programmare in Java".
+
+In questo episodio spiegherò :
+- 00:15 Cos'è un array
+- 01:13 Array monodimensionali
+- 11:09 Array bidimensionali
+- 18:46 Array multidimensionali
+
+CODICE SORGENTE :
+https://dl.dropboxusercontent.com/u/88221856/PlanetGeeks/programmareinjava/Episodio%203%20-%20Codice%20sorgente.zip
+
+MUSICHE UTILIZZATE :
+1) London Grammar - Wasting my young years ( Sound Remedy Remix )
+2) ShockOne - Light Cycles
+3) Jonas Mantey Stille Nacht

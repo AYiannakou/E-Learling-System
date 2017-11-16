@@ -1,0 +1,1 @@
+The video looks at converting one data type into another using type casting.  It is important to note that the conversion is temporary.  It shows how boolean data cannot be type casted and String data cannot be converted using type casting.  It  also looks at the char data type and shows that when converting into a char a cast is required.

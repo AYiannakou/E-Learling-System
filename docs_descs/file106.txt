@@ -1,0 +1,1 @@
+Not a big deal but I've noticed the last couple versions of JDeveloper have a bug when auto-completing anonymous inner classes.

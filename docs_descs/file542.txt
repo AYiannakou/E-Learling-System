@@ -1,0 +1,20 @@
+This Java tutorial discusses how to extend custom classes from superclasses to subclasses. Watch more at http://www.lynda.com/Java-tutorials/Essential-Training/86005-2.html?utm_medium=viral&utm_source=youtube&utm_campaign=videoupload-86005-1002
+
+This specific tutorial is just a single movie from chapter ten of the Java Essential Training course presented by lynda.com author David Gassner. The complete Java Essential Training course has a total duration of 7 hours and 17 minutes, and explains the fundamentals of Java, from creating simple variables, assigning values, and declaring methods to working with strings, arrays, and subclasses, and much more
+
+Java Essential Training table of contents:
+
+Introduction
+1. What is Java?
+2. Installing the Software 
+3. Getting Started
+4. Using Primitive Data Types 
+5. Exploring Syntax and Flow   
+6. Working with Complex Objects
+7. Exception Handling and Debugging 
+8. Using Data Collections
+9. Creating Custom Classes
+10. Working with Inheritance and Polymorphism 
+11. Working with Files
+12. Preparing an Application for Deployment
+Conclusion

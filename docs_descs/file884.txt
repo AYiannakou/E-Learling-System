@@ -1,0 +1,1 @@
+What is the difference between Arrays and ArrayLists in Java? Advantages of array vs arrayList, performance comparison.

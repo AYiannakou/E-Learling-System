@@ -1,0 +1,11 @@
+In this beginners video tutorial you will learn about object oriented programming in java, the concept of classes, objects, methods in java programming language in detail with example.
+
+This video lecture teaches about what is oops, what is the need of it, how to implement oops in java, how to create a class with properties and methods, how to create an object from a class and access the class members in detail with example.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

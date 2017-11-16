@@ -1,0 +1,47 @@
+HOW you know something in Science is just as important as WHAT you know. This video is a brief introduction explaining how we know how far away the stars and galaxies are.
+
+The length of 1 Parsec is 3.262 light-years.
+
+Please take care when copying the following links. YouTube adds extra spaces for some reason.
+
+Sources:
+(http://www.physics.hku.hk/~nature/CD/regular_e/lectures/chap12.html)
+(http://www.aoc.nrao.edu/~smyers/courses/astro12/index.html)
+(http://www.astro.ucla.edu/~wright/distance.htm)
+(http://www.astronomynotes.com/starprop/s11.htm)
+(http://www.physics.sfasu.edu/astro/ebstar/ebstar.html)
+
+In case you need a refresher on the trigonometry:
+(http://en.wikipedia.org/wiki/Trigonometry)
+
+Detailed explanation of the Cepheid graph used:
+(http://www.institute-of-brilliant-failures.com/section3.htm)
+
+Explanation of the Doppler shift:
+(http://en.wikipedia.org/wiki/Doppler_effect)
+
+Video detailing how a supernova ring can be used to calculate distance:
+(http://www.youtube.com/watch?v=nRmJbP25m-Y)
+
+Excellent explanation of parallax:
+(http://instruct1.cit.cornell.edu/courses/astro101/java/parallax/parallax.html)
+
+Cepheid calibration:
+(http://adsabs.harvard.edu/abs/1968ApJ...151..531S)
+
+Supernovae calibration:
+(http://adsabs.harvard.edu/abs/1979ApJ...232..404C)
+
+Tully-Fischer:
+(http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1977A%26A....54..661T&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf) 
+
+An example of using Hipparcos;
+http://xxx.lanl.gov/abs/astro-ph/9707253
+
+Using eclipsing binaries:
+(http://arxiv.org/abs/astro-ph/0610923)
+(http://www.cfa.harvard.edu/%7Ejdevor/MECI/paper/ms.pdf)
+(http://arxiv.org/abs/astro-ph/9712053)
+
+Different methods yielding similar results for the LMC:
+(http://arxiv.org/abs/astro-ph/0310673)

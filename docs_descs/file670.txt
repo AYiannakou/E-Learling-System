@@ -1,0 +1,5 @@
+In this episode of my java programming tutorials i will explain a small portion of concepts of Object Orientated Programming
+Objects and Classes.
+
+All the source code i use in my videos are all at my website:
+www.entoxikateducation.weebly.com

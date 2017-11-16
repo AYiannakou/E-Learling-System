@@ -1,0 +1,6 @@
+ArrayList:
+ArrayList is a growable array. This is a ordered list(ordered by index position) but not sorted. This gives us faster iteration and faster random access.
+Website: http://javaknowledge.info
+                 http://www.trainingwithliveproject.com
+FB Page: https://www.facebook.com/javaknowledgeshare
+FB Group: https://www.facebook.com/groups/PBPTBD

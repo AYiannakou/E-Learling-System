@@ -1,0 +1,1 @@
+My Java programming series. This lesson is on setting up Eclipse (if you haven't already), and object (representations of other classes), as well as an intro into what static methods really mean. Thanks for watching and please subscribe!

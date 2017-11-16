@@ -1,0 +1,3 @@
+Different Integer Data types: short, byte, int, long anf Floating Point Variables: int and long, are discussed.
+
+Visit us on http://facebook.com/unacademy

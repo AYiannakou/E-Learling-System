@@ -1,0 +1,5 @@
+In this java exercise I`m going to solve one of project Euler`s exercises - finding largest palindrome integer that is produced from multiplying two two-digit numbers.
+=====================================
+SUBSCRIBE FOR MORE:
+http://www.youtube.com/subscription_center?add_user=UC4_BmI7ztL9eJC4liCp0qjQ
+=====================================

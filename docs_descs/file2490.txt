@@ -1,0 +1,10 @@
+Java Tutorial Programmieren für Anfänger 3 -- Strings und Typecasting
+http://panjutorials.de/tutorials/java-tutorial-programmieren-lernen-fuer-anfaenger/10926-string-und-typecasting
+
+
+Check doch meinen noch umfangreicheren und aktuelleren Java Kurs http://panjutorials.de/courses/der-ultimative-java-kurs/
+Extra Übungen, Extra Inhalt, Extra Quizes!
+
+http://panjutorials.de/
+
+In diesem Tutorial werden wir uns mit dem Thema String und Typecasting in Java beschäftigen. Im letzten Java Tutorial haben wir ja bereits unseren ersten Variabletypen kennengelernt. In diesem Java Tutorial lernen wir den nächste Datentypen kennen. Und zwar String. Strings sind Zeichenketten. Also quasi geschriebener Text.

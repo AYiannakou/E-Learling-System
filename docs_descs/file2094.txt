@@ -1,0 +1,20 @@
+Array vs ArrayList is one of the very common Java interview Questions.  In this tutorial learn the major differences between  Array and ArrayList.
+
+         Arrays Points
+
+Array size is fixed during declaration.
+Array can access using array name & index
+Array can store primitives and objects.
+Array has length field for finding total elements.
+Array allows multidimensional data
+Arrays only allow homogeneous data
+
+       
+  ArrayList  Point
+
+ArrayList size is not fixed and growable.
+ArrayList accesses data using get method and index
+ArrayList can only store objects.  Wrapper needed for primitives.
+ArrayList uses size() method to find the total elements.
+ArrayList can only handle single dimensional data
+ArrayLists without type parameter  allow all types of objects

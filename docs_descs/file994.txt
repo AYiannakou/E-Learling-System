@@ -1,0 +1,1 @@
+Arithmetic means math. Also, I made a little mistake in this video. You have to show that integers like 5 are doubles by putting a -d- after the number (5d) or putting a -.0- (5.0).

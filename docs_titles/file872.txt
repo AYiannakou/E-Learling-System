@@ -1,0 +1,1 @@
+Java Training | How use Managed Beans with Java Server Faces | JSF Tutorial

@@ -1,0 +1,1 @@
+This video shows how to read and write text files using array lists.  Two programs are used to demonstrate each of these techniques.

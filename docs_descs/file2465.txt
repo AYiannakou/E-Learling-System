@@ -1,0 +1,2 @@
+Download the PPT and example code at http://java9s.com/core-java/java-data-types-and-type-conversions
+This tutorial explains about the java primitive data types like byte, short, int, long, float, double, char, boolean. In this video tutorial i have explained the memory allocated to each data type and the range of numbers it can hold.  This tutorial also explains how the two complement will be used to represent the negative numbers in java.

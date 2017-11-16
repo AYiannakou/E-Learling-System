@@ -1,0 +1,1 @@
+This video is mainly for students of class X ICSE who have attended a class room session on Java programming using BlueJ and wish to quickly revise some of the concepts. This video does does not intend to cover a detailed explanation of concepts.

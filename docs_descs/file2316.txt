@@ -1,0 +1,34 @@
+In this Java programming tutorial we're going to look at bit manipulation using the Java Integer class. Bit manipulation is used in error correction, compression, encryption and optimization algorithms. It's one of those things that's really important, or you won't see it at all. But it's really important.
+
+There are many operators we use to manipulate bits, but as we saw in previous Integer class tutorials they don't work for instances. The operators are meant for primitives. To fix this, Java provides several methods for manipulating bits in the Integer class.
+
+#java #programming #tutorial
+
+▼
+Like the video? Don't forget to subscribe! ➜ http://www.deegeu.com/subscribe
+
+▼
+Keep up to date with the newsletter! ➜ http://www.deegeu.com/newsletter/
+
+▼
+Transcript ➜  http://www.deegeu.com/java-bit-manipulation-using-the-java-integer-class
+
+Concepts: Java Number classes, Java bit manipulation
+
+Social Links: Don't hesitate to contact me if you have any further questions.
+WEBSITE : dj@deegeu.com
+TWITTER : http://www.twitter.com/deege
+FACEBOOK: https://www.facebook.com/deegeu.programming.tutorials
+GOOGLE+ : http://google.com/+Deegeu-programming-tutorials
+
+About Me: http://www.deegeu.com/about-programming-tutorial-videos/
+
+Related Videos:
+https://www.youtube.com/watch?v=yxwdKX7ErJ4&list=PLZlGOBonMjFVq9FF0eiS_emcFmP-0fSBe
+
+Media credits:  All images are owned by DJ Spiess or used under CC0 unless listed below
+
+Music:
+Talky Beat by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Source: http://www.twinmusicom.org/song/265/talky-beat
+Artist: http://www.twinmusicom.org

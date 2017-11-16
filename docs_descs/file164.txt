@@ -1,0 +1,3 @@
+Hogyan tudjuk együtt dolgoztatni a JBuildert és a MySQL adatbáziskezelőt?
+http://kiccsigezuka.extra.hu
+www.eurosuli.hu

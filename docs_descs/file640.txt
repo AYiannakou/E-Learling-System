@@ -1,0 +1,1 @@
+This lecture reviews how to create and use Queues, Stacks, Collections, Comparators, Iterators, Lists, Maps, ArrayList, LinkedList, and the java.util.* functionality in general.

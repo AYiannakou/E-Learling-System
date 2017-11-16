@@ -1,0 +1,1 @@
+La creación de variables en JAVA es muy sencillo, en este video veremos como crear variables del tipo string y como se pueden concatenar, usando NetBeans

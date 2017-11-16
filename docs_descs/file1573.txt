@@ -1,0 +1,5 @@
+The new Java keyword and operator is essential to creating objects and calling a class constructor. There are basically three steps to create an object.
+
+    Declaration · Declare a reference variable of object data type.
+    Instantiation · The new operator allocates the object in memory and returns a reference to that object.
+    Initialization · The new operator then invokes the appropriate constructor based on the argument list.

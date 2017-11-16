@@ -1,0 +1,4 @@
+In this tutorial, I show you how to save and retrieve data using identifiers, backed by ArrayList Strings. Have a question? Feel free to ask!
+
+Source code for this project:
+theopeneffect.com/Tutorials/Tutorial19.zip

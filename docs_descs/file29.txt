@@ -1,0 +1,3 @@
+The basics of exception handling.
+
+Sorry for the delay (Of 7 months...).

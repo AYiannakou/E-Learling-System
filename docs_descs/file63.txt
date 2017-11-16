@@ -1,0 +1,5 @@
+Oklahoma City JAVA User Group's "Hello JAVA"
+P2 Intro to the JAVA api for RESTful Web Services
+by Mitch Blevins (Intl Enviromental Corp)
+Sponsored by:  Valtech.com
+okcjug.org

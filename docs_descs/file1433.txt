@@ -1,0 +1,2 @@
+Java : Collection Framework : HashMap (Put Return).
+JavaEE Tutorials and Sample code - Click here : http://ramj2ee.blogspot.in/

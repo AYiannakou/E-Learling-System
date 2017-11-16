@@ -1,0 +1,12 @@
+For more: http://redstagdigital.com/
+Next Video: http://youtu.be/e9uWo-TbV4s
+Java API- For Loop: http://bit.ly/1nxeJ4g
+StackOverflow Methods: http://bit.ly/1wgqNrc
+Java API equals method: http://bit.ly/1wmsjr1
+Java API If then else: http://bit.ly/1x1T3Nm
+
+Write a method that takes one paramater s a string and returns true if the given 
+string contains between 1 and 3 'e' characters
+hasSeveral(hello) true
+hasSeveral(Heelle) true
+hasSeveral(heelele) false

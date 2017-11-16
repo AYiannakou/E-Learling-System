@@ -1,0 +1,11 @@
+هذا الدرس يتناول الواجهة البرمجية 
+Interfaces List
+بالإضافة إلى العنصر البرمجي
+ArrayList
+لإضافة قدرة تحديد لمواقع داخل هيكل البيانات و إمكانية تكرار العناصر البرمجية في نفس الهيكل
+و يجب الإطلاع على درس 
+Collection Interface And Iterator
+قبل مطالعة هذا الدرس ، كما و أن جميع الوثائق متوفرة على الموقع
+http://www.fadelk.com
+JavaResources
+Java252ProjectDevelopment

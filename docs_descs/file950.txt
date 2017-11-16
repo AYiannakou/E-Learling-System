@@ -1,0 +1,3 @@
+Introduction to methods and attributes; the building blocks of a Java program.
+
+Recorded June 2012 for Programming Mobile Devices at the University of Cincinnati, College of Education, Criminal Justice, Human Services, Department of Information Technology

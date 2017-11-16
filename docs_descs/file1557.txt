@@ -1,0 +1,3 @@
+Java tutorial showing you how to use comparison operators in an expression to return a boolean true to false value.
+
+Step by Step java tutorial for more check out my java tutorial playlist here: https://www.youtube.com/playlist?list=PLrTXCzXE7TKITfD3dHkrnjlTWF5MiYwgO

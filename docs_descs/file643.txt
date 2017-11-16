@@ -1,0 +1,23 @@
+This video series will show you how to make Java apps. This is an introduction to the series. The series will consist of 20 or so videos consisting of a wide range of subvideos videos. Each of these 20 sections will be broken down into their own videos.The videos include a - 
+
+Introduction to Object Oriented Programming
+Primitive Data Types
+Object Behavior
+Designing and Using Classes
+Libraries and APIs
+Simple I/O
+Control Structures
+Recursions
+Strings
+Inheritance
+Iterations
+Exceptions and File I/O
+Boolean Algebra and Loop Boundaries
+Array List
+Single Dimensional Array
+Quadratic Sorting Algorithm
+Merge and Merge Sort
+Sequential and Binary Searches
+Inheritance Polymorphism and Abstract Classes
+Number Systems
+More Advanced Material

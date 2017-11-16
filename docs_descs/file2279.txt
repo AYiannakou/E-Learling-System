@@ -1,0 +1,1 @@
+Describes the basics of creating a class in Java with attributes and methods.

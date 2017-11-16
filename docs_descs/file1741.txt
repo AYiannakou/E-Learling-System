@@ -1,0 +1,8 @@
+Lessons covered here:
+I. Array Basics
+II. Going Beyond The Array Subscript
+III. Single Dimensional Arrays
+IV. Two Dimensional Arrays
+V. Three Dimensional Arrays
+VI. Jagged Arrays
+VII. Foreach In Arrays

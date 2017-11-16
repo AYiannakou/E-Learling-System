@@ -1,0 +1,1 @@
+In this Java online training tutorial from https://www.fireboxtraining.com/java-training Firebox Training demonstrates the concepts of Java primitives - byte, short, int, long, char, float, double, and boolean. We also cover the concept of the Java wrapper data types, as well as the autoboxing feature introduced in Java 5.

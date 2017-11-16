@@ -1,0 +1,1 @@
+In this tutorial, I show you the basics of creating and using arrays, I introduce you to loops and "if" conditional logic, and demonstrate one form of user input and output.

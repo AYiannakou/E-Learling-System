@@ -1,0 +1,1 @@
+Brief introduction to the do-while loop followed by a code example that uses a do-while loop to provide the user with a menu and to print the user selected trigonometric function

@@ -1,0 +1,3 @@
+In today's tutorial we will see the while and do-while loops. We'll see them in action as well in a demo in a restaurant calculation program where a user enters a number of items purchased, enters a tip percentage and it returns the tip amount, tax and the grand total. 
+
+We'll also see the difference between the while and do-while loop and how each works differently.

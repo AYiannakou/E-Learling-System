@@ -1,0 +1,5 @@
+This tutorial is an introduction to hash tables. A hash table is a data structure that is used to implement an associative array. This video explains some of the basic concepts regarding hash tables, and also discusses one method (chaining) that can be used to avoid collisions.
+
+Wan't to learn C++? I highly recommend this book http://amzn.to/1PftaSt
+
+Donate http://bit.ly/17vCDFx

@@ -1,0 +1,13 @@
+Dieses Tutorial behandelt die (eindimensionalen) Arrays in Java. Die Verwendung von Arrays in Verbindung mit Schleifen sowie die for-each-Schleife bzw. erweiterte for-Schleife werden auch erklärt.
+
+Link zu den Code-Conventions:
+http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
+
+Link zu der Java-API:
+http://docs.oracle.com/javase/7/docs/api/
+
+Link zu dem Skript von Prof. Dr. de Vries:
+http://www4.fh-swf.de/media/java.pdf
+
+Link zum Facebook-Profil von Alen:
+https://www.facebook.com/alen.talash?fref=ts

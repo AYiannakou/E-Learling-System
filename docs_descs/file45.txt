@@ -1,0 +1,11 @@
+This is my very first java lesson. Java is a programming language that was created in the 90's that is very powerful and very useful. These lessons are aimed at people who like computers and understand at lease what a programming language is. I will have more java tutorials, as well as other programming language tutorials, like QBasic and HTML, in the future.
+
+Note: If you ever want to learn java, I recommend "Beginning Programming with Java for Dummies" by Barry Burd, and when you feel like being advanced, "Java all in one desk reference" by Doug Lowe.
+
+Java Explanation:
+
+Here is an explanation of that jumble of java code: "class WilsJavaLessonOne" defines a java class named 'WilsJavaLessonOne', and everything between the { and the } is the body of the class. Remember, these are basic lessons. I'm not going to describe everything to you. But a class is pretty much the main unit of java code. Everything is in a class. 
+
+The "public static void main(String[] args)" is a little hard to explain. Just know that at the beginning of the first java class in the program, you have to type that. It is the beginning of a method, which is pretty much a step down from the main unit of classes. Classes are made up of methods. The 'main' keyword marks the spot where the computer starts to process your code. Everything between the { and the } is the body of the method. 
+
+Now for "System.out.println("Hello World!");" Methods are made up of statements. Statements usually end in semicolons. When you code java, you are actually using other people's code. But to understand that, you have to know what the java API is. It is the main library of java code. It is organized like this: Classes have objects which have methods. For example, "System" is a java class. "out" is an object of "System". "println" is a method of the "out" object. So "System.out.println("Hello World!");" displays "Hello World!" on the computer screen. I know, it's hard to understand. But just look at the code and just memorize the layout and the statements.

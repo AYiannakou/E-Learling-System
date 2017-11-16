@@ -1,0 +1,1 @@
+User input with integer values: basics

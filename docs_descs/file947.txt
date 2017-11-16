@@ -1,0 +1,2 @@
+More videos like this online at http://www.theurbanpenguin.com
+We have seen so far how we can call methods on objects that we have defined though reference variables and how that has an effect on the life-cycle of the object. If we only need to object for one task we may call methods on anonymous objects and we see how. With no reference variable it may be cleared by the garbage collection as soon as it is run. If we need access to more than one method or filed though we would create the reference variable to make life easier as well as more efficient.

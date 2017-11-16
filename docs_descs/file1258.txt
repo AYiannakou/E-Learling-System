@@ -1,0 +1,5 @@
+Here we take a look at basic addition, subtraction, multiplication, division and modulo (remainder) division as well as a grand reveal of the String class!
+
+For more on ASCII codes, here's a table and converter for quick converting if you didn't try just S.o.p-ing the actual characters individually to see their values:
+
+http://slayeroffice.com/tools/ascii/

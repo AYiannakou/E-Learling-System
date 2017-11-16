@@ -1,0 +1,1 @@
+This is the third tutorial in the FAvids java tutorials demonstrating manipulation of integer based variables in conjunction with double based variables. Typecasting is also covered.

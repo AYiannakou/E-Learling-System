@@ -1,0 +1,7 @@
+This is a simple grading program to collect test scores from the users input.
+
+Java Programming Video
+
+Tutorials start October 8th, 2012!
+
+Request a tutorial!

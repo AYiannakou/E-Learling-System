@@ -1,0 +1,3 @@
+In the "Tricks in Java" playlist, We will be doing short, simple videos on how to perform cool and useful commands in Java.
+
+IN THIS EPISODE - we talk about how to compare integers and strings

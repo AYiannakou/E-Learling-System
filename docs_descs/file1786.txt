@@ -1,0 +1,1 @@
+In episode 8 of my free Java Beginner Tutorial, I am talking about the for, while and do while loop. Go to http://java8course.com for additional material like the slides, a pdf, exercises and other videos.

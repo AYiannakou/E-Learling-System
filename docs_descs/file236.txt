@@ -1,0 +1,5 @@
+The Center for Collaborative Control of Unmanned Vehicles (C3UV) at the University of California, Berkeley is an interdisciplinary group focusing on the fundamental theoretical developments necessary to allow teams of unmanned vehicles to operate autonomously, without extensive monitoring and intervention by human operators.
+
+http://calccit.org/c3uv/
+
+Edited video from ground and on-board cameras with narration. Includes aircraft hardware, vision-based canal following, and user interfaces.

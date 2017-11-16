@@ -1,0 +1,2 @@
+El video muestra el uso basico de ArrayList en Java
+Video realizado por: Luis Fernando Gomez Ortega

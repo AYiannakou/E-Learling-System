@@ -1,0 +1,1 @@
+This video will explain use of command line arguments. In java there is concept of var args which can also be used in command line arguments.

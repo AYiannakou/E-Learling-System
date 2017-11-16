@@ -1,0 +1,1 @@
+This video looks at how the methods next() and nextLine() are used in the Scanner Class.

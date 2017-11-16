@@ -1,0 +1,2 @@
+Descarga Cursos completos y códigos de prácticas en http://videotutoriales.com
+VideoTutorial Nº 9 del Curso de Java para principiantes en el que vemos sistemas complejos de almacenamiento de información con el uso de Arrays. Crear Arrays; Métodos para poblar Arrays; Uso de Arrays; El método toCharArray( ); Uso de Arrays multidimensionales; Ordenar Arrays; Uso de métodos de la Clase Arrays; Taller de trabajo: Trabajo con Arrays de caracteres. 39 minutos.

@@ -1,0 +1,8 @@
+Powerpoint from the video:
+http://www.mediafire.com/?1x080svncus4gh3
+Source code from the video:
+http://www.mediafire.com/?tz03g8fblvyw496
+------------------------------------------------
+Short video discussing basic for loops in Java. If you have any questions or comments feel free to post them in the comments section below. Also be sure to like the video if it's helped you at all and remember to subscribe if you'd like to be notified when a new video is posted.
+
+Also, I'm looking for new topics to make videos on. If you're struggling with a concept in Java or C++ (or any other language) send me a message or comment and I'll do my best to get a video out about it!

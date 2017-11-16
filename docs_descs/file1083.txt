@@ -1,0 +1,8 @@
+In this video, I shall teach you the wonders of HashMaps! ArrayLists with *two* values :o
+
+Check out my friend lenno649's channel!
+http://www.youtube.com/user/Cruketube
+
+Code:
+Tag.java ~ http://pastebin.com/CQAXpENa
+plugin.yml ~ http://pastebin.com/a0P2Jm9H

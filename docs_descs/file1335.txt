@@ -1,0 +1,1 @@
+Here I explain factory method design pattern as defined in GoF's famous design pattern's book. There is a practical example which I hope will make the concept clear. Any comments, let me know.

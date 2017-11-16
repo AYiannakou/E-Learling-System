@@ -1,0 +1,1 @@
+This is a quick tutorial on how to create a simple array with Java. Hope you all find this very useful!

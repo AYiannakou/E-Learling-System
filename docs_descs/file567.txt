@@ -1,0 +1,1 @@
+This video shows techniques which allow you to sort an array, find an item in an array, select part of an array and manipulate the array by the item indexes.  You will see how the Arrays helper class can used to make the life of a Java programmer easier.

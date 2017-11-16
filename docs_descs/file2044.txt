@@ -1,0 +1,4 @@
+Vemos en este vídeo el bucle for mejorado para leer los valores de un Array, también denominado bucle for-each.
+Elaboramos un ejemplo en el que se rellena una matriz utilizando la clase JOptionPane y tambiñen otro ejemplo donde rellenamos una matriz con números aleatorios.
+
+Para más cursos, ejercicios y manuales visita: http://www.pildorasinformaticas.com

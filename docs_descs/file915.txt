@@ -1,0 +1,2 @@
+Na aula de hoje vamos focar um pouco mais nos Arrays de referência .
+Ou seja, aqueles Arrays que armazenam não tipos primitivos, como: (int, long, double), mas sim fazem referência ou apontam para objetos.

@@ -1,0 +1,15 @@
+Assignment Operators in Java
+In this video the assignment operators in java is explained with a program where all the operators are implemented.
+
+Thank you for watching. Please like the video and subscribe to the channel.
+
+Facebook: facebook.com/webdevmentors
+Twitter:twitter.com/webdevmentors
+Google+:https://plus.google.com/u/0/b/113758214343280360750/113758214343280360750
+
+
+by
+Vasandkumar
+Google+: https://plus.google.com/u/vasandkumar
+Facebook: https://www.facebook.com/kvasandkumar
+Twitter: https://www.twitter.com/vasandkumar

@@ -1,0 +1,4 @@
+For Loop 是程式設計中非常重要的一個元素，今集就和大家詳細分析 For Loop 的特性。
+
+Facebook 教學主頁：
+https://www.facebook.com/SoftwareSurfing

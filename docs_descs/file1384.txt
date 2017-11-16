@@ -1,0 +1,1 @@
+A look at how to loop through stacks using the empty() method of the Stack class.  The video also looks at how the Stack's superclass methods can violate the definition of a stack.

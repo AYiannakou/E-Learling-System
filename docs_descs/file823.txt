@@ -1,0 +1,5 @@
+You guys have made it far, but the journey is far from over. Today, we make a freeze plugin using an ArrayList.
+
+Code:
+Freeze.java ~ http://pastebin.com/2se1vey1
+plugin.yml ~ http://pastebin.com/deqaEKRP

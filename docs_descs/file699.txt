@@ -1,0 +1,1 @@
+java.lang.String is a very special class in java. There are a lot of special characterstics associated with String. This makes it a favorite core java interview question topic. Here I discuss some interesting facts about java.lang.String

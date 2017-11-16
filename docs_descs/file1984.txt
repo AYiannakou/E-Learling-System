@@ -1,0 +1,1 @@
+2D arrays, which use a special syntax form. A for-loop iterates over the elements of these array, EXAMPLE -2

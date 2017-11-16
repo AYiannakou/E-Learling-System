@@ -1,0 +1,2 @@
+Get complete courses at http://courses.caveofprogramming.com
+This is a tutorial on the important toString() method in Java, which allows you to create a text representation of your object. Highly useful for debugging and much used in the Swing framework for example.

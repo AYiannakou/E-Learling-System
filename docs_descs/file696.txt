@@ -1,0 +1,8 @@
+Hello and welcome to our Java series for beginners. We now get down to decoding the application that we coded. We devote this tutorial entirely to the concept of classes and objects. As an object-oriented programming language, the essence of Java are objects. Unless one knows what a class is and what is meant by its instance, it is impossible to really know one's way around Java. So over here we look to understand a concept which, despite being the essence of OOP, is often left alone till pretty late.
+
+About this series:
+This series covers the basics of Java, all the way from downloading and installing Java to coding and decoding a Java application that involves some of the most basic but important concepts and ideas of Java's object-oriented programming.
+
+We hope you will enjoy this series of tutorials -- we intend to make them easy to assimilate and for this we assume absolutely no familiarity with programming. This particular series is ideal for Java beginners as well as for those who just need to make sure that they have the basics right, and you will see that we have gone to lengths to explain concepts which are often not treated quite so thoroughly.
+
+Do let us know if you have suggestions to improve or enhance the content or material -- we are all ears for ideas.

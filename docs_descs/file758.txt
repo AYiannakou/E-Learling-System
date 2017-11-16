@@ -1,0 +1,3 @@
+This tutorial will help the user understand how to create methods in Java.  It will also help the user understand how to write an algorithm for determining if a number is a palindrome.
+
+If you are interested in personalized training videos, contact Cyberpipeline today! Heidi will be happy to develop customized training to support your needs! Contact http://www.cyberpipeline.com today!

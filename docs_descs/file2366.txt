@@ -1,0 +1,1 @@
+This tutorial provides and introduction to arrays for the java language.  It covers single-dimension arrays and multi-dimensional arrays.  It answers questions like, how do I declare an array? or how do I loop through an array?  or how can I sort an array.  It also demonstrates creating an array from the String operator .split().

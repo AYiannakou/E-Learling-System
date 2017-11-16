@@ -1,0 +1,14 @@
+Learn Java Tutorial 1.48- Getters and Setters
+
+In this Java tutorial we will learn about getters and setters.  These are standard methods that give us access to our private variables of a certain class.
+
+
+If you have any programming questions, or just want to make some new friends, check out our forum at http://www.mybringback.com/forum.
+
+All of our tutorials are also located at http://www.mybringback.com/tutorials
+
+Also, if you want some other things to do, like us on facebook, and follow us on twitter @mybringback. .
+
+Visit Our Friends @ Stone River E-Learning for Additional Tutorials - http://bit.ly/1fjsXTn
+
+Coupon 20% Off HTML & CSS for Beginners - http://bit.ly/1MmuYfw

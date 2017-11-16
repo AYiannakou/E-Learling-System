@@ -1,0 +1,6 @@
+Launch Your First Android app with our TOP course at 82% OFF (24 hrs ONLY) HERE https://goo.gl/7veBXc
+"Learn How To Design + Code A Complete App From Scratch To Playstore" 
+âž¨ https://www.youtube.com/watch?v=aWGGZCOHZ1k
+-~-~~-~~~-~~-~-
+
+A small java program to show how many positive negative and zeroes are entered by the user when the program asks 5 numbers using for loop and java if statement

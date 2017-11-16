@@ -1,0 +1,13 @@
+This tutorial is made for learning about the Classes and Object with example of Java Programming Language in Hindi.
+
+So basically an object is created from a class. In Java, the new key word is used to create new objects. There are three steps when creating an object from a class: Declaration: A variable declaration with a variable name with an object type.
+
+With the knowledge you now have of the basics of the Java programming language, you can learn to write your own classes. In this lesson, you will find information about defining your own classes, including declaring member variables, methods, and constructors.
+
+A class can contain any of the following variable types.
+
+Local variables: Variables defined inside methods, constructors or blocks are called local variables. The variable will be declared and initialized within the method and the variable will be destroyed when the method has completed.
+
+Instance variables: Instance variables are variables within a class but outside any method. These variables are instantiated when the class is loaded. Instance variables can be accessed from inside any method, constructor or blocks of that particular class.
+
+Class variables: Class variables are variables declared with in a class, outside any method, with the static keyword.

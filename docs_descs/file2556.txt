@@ -1,0 +1,3 @@
+This video is intended for students of King Faisal University - College of Computer Science and Information Technology (CCSIT).
+
+Students will continue learning arrays with multi-dimension which he/she will apply in 3 projects/programs.

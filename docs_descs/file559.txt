@@ -1,0 +1,2 @@
+Introduction to two-dimensional arrays.
+This video explains how two-dimensional arrays work. It shows the memory allocation, includes examples that demonstrate how to create two-dimensioal arrays, how to access elements and it has a code demo that shows how to print arrays.

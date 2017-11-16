@@ -1,0 +1,1 @@
+Simple example of using HashMap object and storing some "key-value" pairs.

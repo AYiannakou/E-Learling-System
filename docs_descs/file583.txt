@@ -1,0 +1,1 @@
+In this lesson we take a look at multidimensional arrays. You'll see how to declare, index, and enumerate multidimensional arrays, and no doubt notice they''re not much more difficult than traditional arrays. We'll introduce an implementation of the classic game Tic-Tac-Toe as a sample program.

@@ -1,0 +1,11 @@
+Java Abstract Classes
+java - What are abstract classes and abstract methods
+Verwandte Suchanfragen zu java abstract classes
+abstract class
+abstrakte klasse java
+java abstrakte klassen beispiel
+java interface example
+java interface extends
+java interface inheritance
+wozu benötigt man abstrakte klassen
+abstrakte klasse konstruktor

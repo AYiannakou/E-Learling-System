@@ -1,0 +1,1 @@
+In this video, we learn how to use assign values to our numerical variables while also doing some simple arithmetic all in 4 characters (not counting spaces of course)! The operators we see are +=, -=, *=, /=, %=, ++, and --.

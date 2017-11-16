@@ -1,0 +1,14 @@
+In this video tutorial for beginners you will learn how to copy an  array and its elements in java programming in detail with example.
+
+You will learn how to use a loop to copy the  elements individually, what happens if we change the array elements values in detail with example.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

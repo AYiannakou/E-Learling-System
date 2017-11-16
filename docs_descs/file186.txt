@@ -1,0 +1,9 @@
+Unix is a standard "operating system" for today's computers. It was originally written as a system for a single user, which ran on a computer of only a few kilobytes. Ken Thompson wrote the first version in 1969 in assembly language. He began to rewrite it in Fortran, but gave up after a day or a week, and used C - which was derived from B, a language by Martin Richards of Cambridge University. B  is still available as a free download.
+
+Unix shell commands allow systems consisting of multiple processes to be described easily. (The same can be done today, using other methods - e.g. the Java language. Such methods existed even in the 1960's, e.g. PL/I - but were not available for small computers).
+
+Presumably it would be fairly easy today to implement Unix in Fortran or in Java. In fact, we could probably find free software which would allow us to convert a C implementation of Unix to Fortran and also to Java.
+
+Does C have any lasting advantages over Fortran, or is C simply an aberration of the 1970's that came to be implemented on many computers for which a Fortran compiler did not exist?
+
+My reason for doubting that there is much difference between implementing in Fortran, Java, or C is that it should be fairly easy to bootstrap C or Java from Fortran. By "fairly easy" I mean that the job should be doable by one person in say 12 months. If the job is not yet "fairly easy" to do, could not we write general tools which would make the job "fairly easy" to do? Could we not write further tools that would make the job "easy" (doable in a month) or "very easy" (doable in a day or a week).

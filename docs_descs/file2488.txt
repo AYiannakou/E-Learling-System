@@ -1,0 +1,1 @@
+This video shows how to use a loop structure to traverse a string in Java.

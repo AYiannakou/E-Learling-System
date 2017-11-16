@@ -1,0 +1,3 @@
+This Java Server Faces tutorial from https://www.fireboxtraining.com/java, demonstrates how to use JSF managed beans to pass information from one JSF page to another. It uses a JSF managed bean on the request scope object using a Java String property
+
+Learn more about JSF in our Java Server Faces training class, 2-day. https://www.fireboxtraining.com/jsf-training

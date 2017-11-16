@@ -1,0 +1,23 @@
+Launch Your First Android app with our TOP course at 82% OFF (24 hrs ONLY) HERE https://goo.gl/7veBXc
+"Learn How To Design + Code A Complete App From Scratch To Playstore" 
+âž¨ https://www.youtube.com/watch?v=aWGGZCOHZ1k
+-~-~~-~~~-~~-~-
+
+In this Java Tutorial For beginners video, we discuss about Java methods and classes by defining the three types of methods. Plain methods that do not take any parameters and do not return any results, Java methods with parameters that accept certain parameters from the caller and generate some result and methods that return a value to the caller.
+
+RELATED VIDEOS 
+Java Methods and Classes Part 2
+https://www.youtube.com/watch?v=2hniTWxjOwM&list=PLonJJ3BVjZW6_q8gh7XoLUIhRIyBcYJLP&index=3
+
+Object Oriented Java Tutorials
+https://www.youtube.com/playlist?list=PLonJJ3BVjZW6_q8gh7XoLUIhRIyBcYJLP&feature=edit_ok
+
+OUR WEBSITE
+http://slidenerd.com
+
+OUR SOCIAL LINKS
+http://facebook.com/slidenerd
+http://google.com/+slidenerd
+http://twitter.com/slidenerdtech
+http://pinterest.com/slidenerd
+http://github.com/slidenerd

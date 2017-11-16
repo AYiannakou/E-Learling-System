@@ -1,0 +1,7 @@
+Problem solving using array list. Going over filling a array list using a loops and searching a array list using a loops. Also creating a array list using objects. Using these 2 methods you can modify them and do pretty much anything you want with an array list.
+
+Ask Questions on Forum or Email me at:
+legittechtutorials@gmail.com
+
+Highly recommended book used as a reference for this Java tutorial series:
+http://www.amazon.com/gp/product/0137081898/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0137081898&linkCode=as2&tag=thlepc-20

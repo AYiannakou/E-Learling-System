@@ -1,0 +1,1 @@
+In diesem Video zeige ich euch wie man einen Array aufsteigend sortiert, also wie man einen Bubblesort programmiert.

@@ -1,0 +1,23 @@
+In this video we cover the equality operators, logical operators, and bit operators. Then we'll take a final look at operator precedence.
+
+Transcript and code: http://www.deegeu.com/java-operators-tutorial-video-part-2
+
+This video is part of a larger free online class called Free Java Course Online.  You can find more information about this class on http://www.deegeu.com/free-java-course-online/.
+
+Concepts: Java, Programming, operators, logical operators, bitwise operators, shift operators, operator precedence
+
+Next Video: "Java Blocks" on DeegeU.com
+
+Social Links: Don't hesitate to contact me if you have any further questions.
+WEBSITE : dj@deegeu.com
+TWITTER : http://www.twitter.com/deege
+FACEBOOK: https://www.facebook.com/deegeu.programming.tutorials
+GOOGLE+ : http://google.com/+Deegeu-programming-tutorials
+
+About Me: http://www.deegeu.com/about-programming-tutorial-videos/
+
+Related Videos:
+https://www.youtube.com/watch?v=yxwdKX7ErJ4&list=PLZlGOBonMjFVq9FF0eiS_emcFmP-0fSBe
+http://www.deegeu.com/java-operators-tutorial-video/
+
+Media credits:  All images are owned by DJ Spiess unless listed below

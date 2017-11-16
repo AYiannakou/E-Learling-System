@@ -1,0 +1,5 @@
+By: Netbeanstutorials.com
+This tutorial shows you how to call your own method in Netbeans.
+Very simple stuff that leads to next level coding complexity.
+Very attractive to learn!
+For more tutorials, go to netbeanstutorials.com!

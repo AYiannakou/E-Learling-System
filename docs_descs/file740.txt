@@ -1,0 +1,11 @@
+ICSE Java Programming Tutorials : 
+#4. Functions/Methods in Java
+
+The fourth in a series of tutorials being made to help those studying the ICSE Computer Applications curriculum.
+
+In this tutorial you will learn :
+a. Functions/Methods in Java
+b. Access specifiers and return types
+
+I  hope this helps anyone in need.
+Do subscribe/thumbs up/and all that good stuff. :)

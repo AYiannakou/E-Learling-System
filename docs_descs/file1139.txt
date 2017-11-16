@@ -1,0 +1,1 @@
+In this video, we implement a method called "size", which returns the number of nodes in the given linked list.

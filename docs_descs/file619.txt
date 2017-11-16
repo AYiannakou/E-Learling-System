@@ -1,0 +1,18 @@
+En este video vemos:
+
+1.- Creación de un ArrayList
+2.- Genéricos
+3.- Métodos del API ArrayList
+
+Más información en:
+Java APIs: http://java.sun.com
+
+IDE utilizado:
+BlueJ: http://www.bluej.org
+
+
+PARTE 2:
+http://www.youtube.com/watch?v=q1b-q_XRLfU
+
+Saludos.
+Darío

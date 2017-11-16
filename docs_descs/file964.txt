@@ -1,0 +1,3 @@
+Introduction to fields, getters, and setters.
+This video introduces the different variable types, differences betweeen local variables and fields, access modifiers public and private, data hiding and the use of getters and setters to expose private fields.
+It includes two exercises to test your understanding of the concepts introduced.

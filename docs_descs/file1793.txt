@@ -1,0 +1,6 @@
+Belajar Pemrograman Java ga Susah kok :D
+
+Tutorial kali ini membahas tentang membuat Multi Class pada Java, di vidio sebelum nya https://youtu.be/yOlibmNZfWo yang membahas tentang cara membuat aplikasi kalkulator sederhana pada java
+
+jika kalian ingin belajar melalui catatan atau tulisan saya di blog,
+silahakan kunjungi blog saya di  https://rudiartastory.wordpress.com/2017/03/23/belajar-pemrograman-java-membuat-looping-while-for-do-while/

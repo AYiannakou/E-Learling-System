@@ -1,0 +1,1 @@
+This video looks at how you might create a two-dimensional array in Java.  This has many uses, but the one shown here calculates the inverse of a matrix.  The same technique can be used for more than two dimensions.

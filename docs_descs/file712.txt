@@ -1,0 +1,1 @@
+The video examines the substring method of the String class.

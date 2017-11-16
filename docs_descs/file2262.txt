@@ -1,0 +1,1 @@
+We create a simulation program that rolls two dice until we get "box Cars" (double sixes).  We show two ways to use random numbers in java and the post test indefinite do..while loop.

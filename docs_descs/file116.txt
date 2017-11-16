@@ -1,0 +1,3 @@
+The only way of making this programming class interesting was making source code "art" with my programs in C.
+
+Luis was the name of the teacher yelling off screen, by the way.

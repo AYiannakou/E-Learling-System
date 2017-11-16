@@ -1,0 +1,5 @@
+Here we have the latest revision of the Tetris in Javascript game, with with graphics updated to something a bit smoother. All the blocks are now the right color (according to the standard), the next piece shows, and the Tetris-style "Random Generator" is implemented.
+
+While some of the features follow the Tetris guidelines, others do not. For example, there will be no "infinite spin". The game also uses the NES-style scoring routine.
+
+A demo of this game can be played by pointing your Wii at http://java.dnsalias.com/tetris/. Enjoy!

@@ -1,0 +1,1 @@
+The video looks at using for loops with strings.  It shows why there is a close relationship between Strings and for loops.  It also prepares a programmer for the idea of arrays.

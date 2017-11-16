@@ -1,0 +1,1 @@
+This lecture covers Interfaces and Abstract classes. It also covers the Java.util.* functionality and the concept of Collections, LinkedLists, ArrayLists, Lists, Stacks and Queues. How they are implemented in Java is covered with a brief description of what these data structures are.

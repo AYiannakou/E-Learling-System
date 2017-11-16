@@ -1,0 +1,18 @@
+In this tutorial, We'll learn what are objects, classes, methods and instance variables.
+
+Next Part :
+Java 04 : Types of Variables, constructors, object creation - https://youtu.be/xv1uAG7KtD8
+
+
+Previous Parts - 
+Java 01 : Java Introduction - https://youtu.be/zhKkKBGdILY
+
+Java 02 : Download JDK & First Java Pogram - https://youtu.be/cKILojyi67c
+
+
+
+Find me here :
+
+Google+ : https://plus.google.com/u/0/b/105970252005982916681/105970252005982916681/posts
+Twitter : https://twitter.com/AndroidAcademy1
+Facebook : https://www.facebook.com/AndroidAcademy8?ref=hl

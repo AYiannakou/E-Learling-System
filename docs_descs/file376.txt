@@ -1,0 +1,4 @@
+Este tutorial java mostra como converter Doubel para String, para ser exibido em uma tela, e como fechar uma tela sem fechar todo o 
+projeto ou como fechar todo projeto, exemplo que mostra a diferença de This.dispose() para System.exit(0); aonde são utilizados em muitas
+aplicações graficas no jFrame, esse tutorial java é feito na IDE netbeans 6.9.1 e tambem pode ser feita em qualquer versão inclusive 
+o netbeans 7.0 beta.

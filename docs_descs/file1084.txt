@@ -1,0 +1,6 @@
+In this episode, I'll show you guys how to save HashMaps. We add saving to the Steps plugin so the number of steps will be persistent through reloads.
+
+Code:
+Steps.java ~ http://pastebin.com/6JBQyFxm
+config.yml ~ http://pastebin.com/mGCy99Ve
+plugin.yml ~ http://pastebin.com/f556gYsQ

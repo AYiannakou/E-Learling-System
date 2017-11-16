@@ -1,0 +1,2 @@
+Get complete courses at http://courses.caveofprogramming.com
+A basic tutorial on using classes and objects in Java, plus some discussion of what classes and objects actually are. This tutorial focuses on classes containing only data; next time I'll look at "methods".

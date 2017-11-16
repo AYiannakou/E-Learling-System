@@ -1,0 +1,20 @@
+This video will show you how to draw a UML sequence diagram in 5 steps.
+
+We will walk through an example of withdrawing money from an ATM.
+
+The sequence diagram will visually describe the object interactions and the order in which they occur during the process.
+
+Draw Sequence Diagram Create Message
+http://youtu.be/rE6s02_cD7E
+
+Visual Paradigm
+http://www.visual-paradigm.com/
+
+Sequence Diagram
+http://www.visual-paradigm.com/features/uml-and-sysml-modeling/#sequence-diagram
+
+Reversing Java code to sequence diagram
+http://www.visual-paradigm.com/features/code-engineering/#reverse-sequence-diagram
+
+When reversing Java code to sequence diagram, why can't I select an operation?
+http://knowhow.visual-paradigm.com/?p=2936

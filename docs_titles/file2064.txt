@@ -1,0 +1,1 @@
+Java Programming with Eclipse lesson 6 - Create your own class and object

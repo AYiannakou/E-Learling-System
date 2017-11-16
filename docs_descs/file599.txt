@@ -1,0 +1,13 @@
+See complete series on data structures here:
+http://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
+
+In this lesson, we have described array based implementation of  queue data structure. 
+
+Source Code in C++:
+https://gist.github.com/mycodeschool/7331785
+
+For practice problems and more, visit: http://www.mycodeschool.com 
+
+Like us on Facebook: https://www.facebook.com/MyCodeSchool
+
+Follow us on twitter: https://twitter.com/mycodeschool

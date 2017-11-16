@@ -1,0 +1,5 @@
+Tim O'Reilly
+11/13/06
+
+Founder, CEO, O'Reilly Media
+Commenting on the advantages of open-sourcing Java technology implementations under GPL for Linux developers. 'There are communities who feel really strongly about Free and Open Source licenses are are going to take another look at Java.'

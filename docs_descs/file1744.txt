@@ -1,0 +1,6 @@
+In this lesson, we have discussed algorithm to print a 2-D array in spiral order. This is a famous programming interview question.
+
+Feel free to drop your questions, comments and feedback. 
+
+You may also like us on Facebook:
+http://www.facebook.com/MyCodeSchool

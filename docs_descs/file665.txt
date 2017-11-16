@@ -1,0 +1,17 @@
+Launch Your First Android app with our TOP course at 82% OFF (24 hrs ONLY) HERE https://goo.gl/7veBXc
+"Learn How To Design + Code A Complete App From Scratch To Playstore" 
+âž¨ https://www.youtube.com/watch?v=aWGGZCOHZ1k
+-~-~~-~~~-~~-~-
+
+This Java Tutorial video talks about static variables in Java that are maintained as a single copy across all objects, in other words, when one object modifies the static variable, every other object that will be created can see that change, static variables belong to a class rather than an individual object. static blocks are used to initialize static variables and get called before any constructor or before any object has been created.
+
+OUR WEBSITE
+http://slidenerd.com
+
+OUR SOCIAL LINKS
+https://www.facebook.com/groups/AndroidProgramming/
+Follow us on
+http://google.com/+slidenerd
+http://facebook.com/slidenerd
+https://twitter.com/slidenerdtech
+http://pinterest.com/slidenerd

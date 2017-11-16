@@ -1,0 +1,21 @@
+This video covers the basic theory behind object-oriented programming in Processing/Java and discusses the difference between a "class" and an "object" instance.
+
+Accompanies Chapter 8 from Learning Processing A Beginner's Guide to Programming, Images,Animation, and Interaction
+
+Official book website: http://learningprocessing.com/
+
+Twitter: https://twitter.com/shiffman
+
+Link to examples : http://learningprocessing.com/
+
+Contact: https://twitter.com/shiffman
+
+Next video: https://youtu.be/lmgcMPRa1qw?list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i
+
+Complete Chapter: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i
+
+(Note this video was shot in Fall 2012.)
+
+Help us caption & translate this video!
+
+http://amara.org/v/QbxM/

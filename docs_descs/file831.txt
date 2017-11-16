@@ -1,0 +1,1 @@
+This tutorial contains arraylist features and when should we use arraylist in java.

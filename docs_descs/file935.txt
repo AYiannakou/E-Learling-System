@@ -1,0 +1,12 @@
+In this lesson you learn some math methods such as math.pow() and math,random(). Future lessons will be including the others so stay tuned!
+
+Check out these books if you are serious about learning Java!
+
+Beginning Programming with Java for Dummies
+http://amzn.to/1bHK1hh
+
+Core Java, Volume II -- Advance Features (9th Edition) (Most up to date)
+http://amzn.to/1fTPZ24
+
+Java, A Beginner's Guide, 5th Edition
+http://amzn.to/1alUH6A

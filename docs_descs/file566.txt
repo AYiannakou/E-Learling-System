@@ -1,0 +1,6 @@
+In diesem Kapitel zeigen wir, was Arrays und ArrayLists sind und wie man sie in Java verwendet.
+
+http://skylapse.de/?p=310
+
+Unsere Website: http://skylapse.de
+Twitter: http://twitter.com/skylapse

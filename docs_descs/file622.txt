@@ -1,0 +1,1 @@
+Sehr einfaches Beispiel für die Nutzung einer ArrayList in Java mit Eclipse.

@@ -1,0 +1,2 @@
+In this programming video tutorial you will learn how to create class and object .
+In this program we calculate sum of two number after assigning value in it

@@ -1,0 +1,1 @@
+Unary operators act directly on an operand (a variable, a number, etc). The -++- is where C++ gets its name, if you didn't know.

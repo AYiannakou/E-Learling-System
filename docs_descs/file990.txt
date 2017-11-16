@@ -1,0 +1,1 @@
+Today we will be learning about Extended Assignment operators and Increments and Decrements in java. We will be implementing the Lucky Magic Tutorial

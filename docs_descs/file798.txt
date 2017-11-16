@@ -1,0 +1,1 @@
+Hier zeige ich euch Hashmaps und Arraylists wie sie funktionieren und nenne dabei ein Beispiel. Falls euch etwas unklar ist schreibt es einfach in die Kommentare

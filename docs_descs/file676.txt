@@ -1,0 +1,17 @@
+This object-oriented design tutorial discusses how to identify an inheritance situation and recognize the shared attributes and behaviors of programming objects. Watch more at http://www.lynda.com/Java-tutorials/Foundations-Programming-Object-Oriented-Design/96949-2.html?utm_medium=viral&utm_source=youtube&utm_campaign=videoupload-96949-0601
+
+This specific tutorial is just a single movie from chapter six of the Foundations of Programming: Object-Oriented Design course presented by lynda.com author Simon Allardice. The complete Foundations of Programming: Object-Oriented Design course has a total duration of 3 hours and 1 minute, discusses the concepts of object-oriented design, and explores creating conceptual models of your program with design patterns, class and sequence diagrams, and unified modeling language tools
+
+Foundations of Programming: Object-Oriented Design table of contents:
+
+Introduction
+1. Core Concepts
+2. Object-Oriented Analysis and Design
+3. Utilizing Use Cases
+4. Domain Modeling (Modeling the App)
+5. Creating Classes
+6. Inheritance and Composition
+7. Advanced Concepts
+8. Object-Oriented Design Patterns  
+9. Object-Oriented Design Principles  
+Conclusion

@@ -1,0 +1,5 @@
+Anhand des Beispiels "WordCount" wird gezeigt, wie man eine HashMap zum Zählen von Worthäufigkeiten verwenden kann. Man sollte bereits wissen, was eine Wrapperklasse ist.
+
+Das Video ist Teil der Veranstaltung "Softwareentwicklung und Programmierung 1" (WiSe 2012/13) von Prof. Michael Kipp an der Hochschule Augsburg.
+
+http://michaelkipp.de

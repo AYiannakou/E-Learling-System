@@ -1,0 +1,4 @@
+Courtesy of Programmers Institute
+This video covers using the do-while loop in C++. It shows how the loop code will run at least once and then multiple times if the condition is right. It also shows how a miscalculation can be made in the number of times the loop will run.
+http://www.ProgrammersInstitute.com
+See also http://www.VideoMindMeld.com

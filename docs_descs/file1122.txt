@@ -1,0 +1,1 @@
+We write a program that asks the user for some numbers and then prints out the sum of these numbers.

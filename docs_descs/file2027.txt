@@ -1,0 +1,3 @@
+Comenzamos en este vídeo a ver el tema de los Arrays, (matrices o arreglos). Vemos qué son exactamente y cuál es su sintaxis.
+
+Para más cursos, ejercicios y manuales visita: http://www.pildorasinformaticas.com

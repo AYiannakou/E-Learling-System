@@ -1,0 +1,3 @@
+This screencast is an introduction to a real-life Rich Internet Application that plots markers on a Google Map retrieving data from a database. The detailed steps to reproduce this application are described at: http://blogs.sun.com/arungupta/entry/screencast_web11_travel_map_another
+
+NetBeans IDE is used to build the application and it's deployed on GlassFish.

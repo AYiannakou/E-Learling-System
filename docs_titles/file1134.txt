@@ -1,0 +1,1 @@
+Iterators 4:  the remove method, and the enhanced for-each loop

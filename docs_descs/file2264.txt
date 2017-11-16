@@ -1,0 +1,15 @@
+Do While Loop in Java
+In this video the do... while loop in java explained with a program to print the numbers from 10 to 20 and to print numbers from 20 to 1 in reverse order.
+
+Thank you for watching. Please like the video and subscribe to the channel.
+
+Facebook: facebook.com/webdevmentors
+Twitter:twitter.com/webdevmentors
+Google+:https://plus.google.com/u/0/b/113758214343280360750/113758214343280360750
+
+
+by
+Vasandkumar
+Google+: https://plus.google.com/u/vasandkumar
+Facebook: https://www.facebook.com/kvasandkumar
+Twitter: https://www.twitter.com/vasandkumar

@@ -1,0 +1,1 @@
+Core Java Tutorials:Differences between Array and ArrayList in java

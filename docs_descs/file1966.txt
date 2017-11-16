@@ -1,0 +1,13 @@
+ايه هى الـ multidimensional array
+ازاى اعملها print باستخدام الـ for loop
+
+Assignment 4 :-
+You are in mobile shop, write the program to take from user 5 models, 5 names and 5 colors, then show these information as in table like:
+Model Name Color
+Samsung S3 red
+Samsung S3 red
+Samsung S3 red
+Samsung S3 red
+Samsung S3 red
+
+** الـ assignments يا ريت تحلوها و تنقلوا الكود ف ملف word و تبعتوها لبشمهندس Ahmed Usama : على http://bit.ly/Java-Assignments-Ahmed_Usama

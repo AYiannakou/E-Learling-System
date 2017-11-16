@@ -1,0 +1,2 @@
+ALL 125 PERL VIDEOS ARE NOW AVAILABLE TO STREAM AT: http://www.ScriptSocket.com/videos.php 
+Part 5 of the Perl Tutorial covers more array functions. How to push, pop, shift and unshift an array.

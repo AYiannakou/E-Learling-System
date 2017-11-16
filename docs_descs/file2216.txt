@@ -1,0 +1,1 @@
+In this tutorial we talk about while loops.  We talk about why they are useful and how they are different from For Loops.  We also look at the Scanner class again to get user input.

@@ -1,0 +1,1 @@
+This video guide to the java programming language covers Object Oriented Programming ,calculations, applets, loops, arrays, strings, graphics, files, programming strategies, and the development of swing applications

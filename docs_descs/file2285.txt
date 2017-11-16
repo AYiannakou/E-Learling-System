@@ -1,0 +1,1 @@
+This is just an unscripted video (part of a series of videos) showing an example of how to work with objects and classes in Java. It is a very superficial example to give the novice an understanding of how to work with classes.

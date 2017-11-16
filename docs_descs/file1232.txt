@@ -1,0 +1,2 @@
+In this tutorial I will discuss the incremental and decremental operators as well
+as operator precedence,

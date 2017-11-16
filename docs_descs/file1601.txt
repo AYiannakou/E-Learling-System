@@ -1,0 +1,1 @@
+The video takes a close look at integer division.  It gives examples with variables, literals and type casting.

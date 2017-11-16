@@ -1,0 +1,2 @@
+More videos like this online at http://www.theurbanpenguin.com
+We do quite a lot in this video so if you are new to Java you will get a lot out of this. First we revisit StringBuilder and the reverse method. Then looking at how we can assign non-string values to strings with concatenation and the valueOf method. Finally we wlook at testing Strings by using toLowerCase and equals()

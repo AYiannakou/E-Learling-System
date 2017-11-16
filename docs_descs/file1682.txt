@@ -1,0 +1,17 @@
+Today we go over the very basics of threading and create our game loop.
+The source (please don't just copy, actually learn!): https://github.com/BossLetsPlays/Firestorm/tree/d90406e8a4e096c0fd04cb0e3665e08b970f992e
+
+Stay connected with me!
+My dev team: http://redthirddivision.com
+Twitter: https://www.twitter.com/bossletsplays
+Watch my livestreams: http://www.twitch.tv/bossletsplays
+My source on GitHub: http://www.github.com/BossLetsPlays
+
+Partner your channel: http://dashboard.bentpixels.com/vultra/apply?referral_code=wVobhF19Wcv0GtwLaDJm5g
+
+Share this video with your friends, family, and pets!
+
+-~-~~-~~~-~~-~-
+Find out how to look like a BOSS! And submit your design for a chance to win MONEY! http://bit.ly/1NQ7jFa 
+➨ https://www.youtube.com/watch?v=YzCQU-ih1XI
+-~-~~-~~~-~~-~-

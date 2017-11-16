@@ -1,0 +1,9 @@
+java static keyword is to create class specific methods and properties. We can use static at following places:
+
+1. static variable - useful to create constants
+2. static method - useful to create utility methods
+3. static block - useful to initialize static variables and load other resources before instance creation. We can access only class static variables and methods in static block.
+4. static inner class - it's almost same as variable, we can create instance just like using static variable.
+5. static method in interfaces - this was introduced in Java 8, so make sure you are on Java 8 or higher version otherwise you will get compile time error.
+
+Source: http://www.journaldev.com/1365/static-in-java-methods-variables-block-class

@@ -1,0 +1,1 @@
+Se muestra la funcionalidad de las estructuras de repetición, para simplificar algunas tareas repetitivas, principalmente el recorrido de colecciones de datos.

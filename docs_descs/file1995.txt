@@ -1,0 +1,2 @@
+Get the full course at: http://www.MathTutorDVD.com
+In this lesson, you will learn how to create a string in Java and print the contents to the screen.

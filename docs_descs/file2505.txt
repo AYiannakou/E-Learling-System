@@ -1,0 +1,2 @@
+Buy the complete Java programming tutorial at http://www.patrickvideos.com or the sister site stepjava.com
+Easy way to understand the concept of class and object in object oriented programming. Compares a database table to class and records to objects.

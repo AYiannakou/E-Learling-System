@@ -1,0 +1,1 @@
+Flags Code is a small, usefull mobile software written in java that will help you to learn the Flags Signaling and the meaning of flags in the International Code of Signals. You will learn about Alpha, Bravo, Charlie, Delta, Echo and so on untill Xray, Yankee and Zulu. by www.javaphone.it

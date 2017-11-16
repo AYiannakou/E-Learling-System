@@ -1,0 +1,2 @@
+Java Strings Tutorial explains creating strings, Array of strings, handling strings.
+String concatenation, Comparing strings using relational operator, equals method and using compareTo method. Find length of a string.

@@ -1,0 +1,1 @@
+This tutorial present how to use the HashMap and the HashSet Collections and also that yuo need to override the equals and to oimplement the Comparable interface if you use the Set interface and the hashCode method if you use the Hash interface. Also the static block is presented.

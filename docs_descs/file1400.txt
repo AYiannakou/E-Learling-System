@@ -1,0 +1,7 @@
+THis is a really basic tutorial for getting prime numbers in java using a simple method with for loops. This will be fine for your homework since it doesn't have the "best permormance" but it'll work just fine.
+__________________
+Thank you for watching this video, if you like it please don't forget to like it, 
+or subscribe to my channel for more programming tutorials
+---
+also visit my website for more content
+http://betacoding.net

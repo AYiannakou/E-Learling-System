@@ -1,0 +1,1 @@
+Difference between length properties and length() method.

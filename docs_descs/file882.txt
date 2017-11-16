@@ -1,0 +1,14 @@
+In this beginners object oriented java programming video tutorial you will learn about array of objects in detail with example.
+
+This video lecture teaches how to create array of objects, how to store objects in arrays, how to access objects from the array in detail with example.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

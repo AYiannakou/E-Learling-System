@@ -1,0 +1,3 @@
+A program I wrote in java. Can display a picture (that has been converted into a special file format) as part of the matrix code. First part is made of CJK ideographs, second part is just squares.
+Please see my work here:
+http://www.planet-source-code.com/vb/scripts/BrowseCategoryOrSearchResults.asp?lngWId=2&blnAuthorSearch=TRUE&lngAuthorId=33156459392&strAuthorName=Ilia%20Baranov&txtMaxNumberOfEntriesPerPage=25

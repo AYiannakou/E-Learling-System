@@ -1,0 +1,1 @@
+A two-dimensional irregular array is basically an array of single-dimensional arrays of varying sizes. This tutorial will build on my Two-Dimensional Arrays Tutorial. Arrays are objects, so when you declare an array, you are creating a reference variable. After we declare the reference variable, we then assign it to an array object of specified length.

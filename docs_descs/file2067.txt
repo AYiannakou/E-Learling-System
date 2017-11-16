@@ -1,0 +1,1 @@
+In this video, I discuss the difference between the imperative and object oriented programming paradigms, how classes and objects are used in Java, and how to make a working Java program.

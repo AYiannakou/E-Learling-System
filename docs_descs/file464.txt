@@ -1,0 +1,20 @@
+Das Tutorial behandelt einfache Eingabedialoge. Darüber hinaus wird erklärt, wie man in Java mit Texten umgeht.  
+
+Diese Tutorial-Reihe zum Programmieren lernen mit Java ist im Rahmen der Veranstaltung "Grundlagen der Informatik" für die Wirtschaftsingenieure (1. Semester) der Fachhochschule Südwestfalen in Hagen entstanden.
+
+Inhaltsverzeichnis
+------------------------
+Texte in Java 00:06
+Escape-Sequenzen 17:37
+Kommandozeilenargumente 35:12
+Grafischer Eingabedialog (JOptionPane) 41:26
+Mehrere Textfelder in einem Eingabedialog 51:14
+
+Link zu den Code-Conventions:
+http://www.oracle.com/technetwork/java/codeconv-138413.html
+
+Link zu der Java-API:
+http://docs.oracle.com/javase/7/docs/api/
+
+Link zum Skript von Prof. de Vries:
+http://www4.fh-swf.de/media/java.pdf

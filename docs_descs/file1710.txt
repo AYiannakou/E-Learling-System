@@ -1,0 +1,29 @@
+Hello guys! this shawn koon here, I hope you enjoyed this video..!
+If you guys liked my videos, please subscribe for more future videos :) Thank you
+
+Whats up guys! it's me Shawn here for another java tutorial. In this tutorial, we are going to look at how to
+use for loop with Standard Array Traversal loop / Enhanced for loop, to touch all the elements in the array 
+instead of writing multiple lines of code. We are going to use For loop and for each loop for this tutorial, 
+so it will be fun!
+
+
+1. Standard array traversal for loop
+
+int[] ara = {1,2,3,4,5};
+
+for(int i = 0; i ( ara.length; i++)
+{
+ System.out.println("The item is : " + ara[i]);
+}
+
+
+//comment it out.
+
+
+
+2. Enhanced for loop 
+
+for ( int copy : ara )
+{
+ System.out.println("The item is : " + copy);
+}

@@ -1,0 +1,16 @@
+http://www.uberpulse.com/us/2007/10/sun_clarifies_java_strategy_on_a_collision_course_with_adobe_microsoft_and_nokia.php
+
+Yesterday evening, Sun's VP of Software, Rich Greene, and James Gosling, the father of Java, gave an update on JavaFX: the new Java platform introduced earlier this year at JavaOne. This session was indeed needed because in a typical fashion, Sun's naming/branding is quite confusing and JavaFX is no different! 
+
+
+
+Anyway, JavaFX is a set of NEW multimedia rich functions (video, graphics...) added to the CURRENT version of Java for the desktop aka Java SE 6 aka Java virtual machine.
+"It's a direct competitor to Adobe's Flash/Flex platform", Gosling confirmed.
+Sun also indistinguishably uses the JavaFX name for its Java platform that targets desktops, smartphones and set-top boxes. The idea is that in the long run, JavaFX will become the default/common Java platform for all these devices. Today, each of these devices run a different version of Java, making the "write once, run anywhere" motto impossible to achieve. 
+But wait, there's more. JavaFX script is a new scripting language targeting the "designers" making it easy for the "right brains" to create multimedia rich applications in Java. Not to confuse with the Java language targeted to the "left brains"/developers! 
+And there's also a new JavaFX integrated development environment (IDE) targeted to designers, that hasn't got a name yet but my guess is that it'll probably start with... you guessed... JavaFX! 
+Finally, there's JavaFX mobile which is a complete operating systems for mobile phones and builds on the assets of now defunct start-up SavaJE (bought by Sun in May). It has a Linux kernel, low level codecs, custom C librairies, several engines (HTML rendering, media framework, database), Java SE (desktop), Java ME (for lower end phones) and JavaFX script.
+"And JavaFX mobile is a competitor to all the other OSes for mobile phones like Windows Mobile, Motorola's or Symbian", added Gosling.
+
+Confused? You're not alone... another reason why you shouldn't let engineers run your marketing organisation!
+http://www.uberpulse.com/us/2007/10/sun_clarifies_java_strategy_on_a_collision_course_with_adobe_microsoft_and_nokia.php

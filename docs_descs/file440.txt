@@ -1,0 +1,1 @@
+Welcome to my video tutorial for Java for beginners. in this I show you how to use arrays and loops to make your program more efficient and easier to make. if you have any feedback please tell me as this is a school project and I need a good grade :D

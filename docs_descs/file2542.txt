@@ -1,0 +1,1 @@
+While ve Do While arasındaki farklar, Do While'in çalışma şekli ve 9. videodaki Hesap Maknesi örneğini Do While ile yapılmasını içerir.

@@ -1,0 +1,1 @@
+Primeros pasos en el uso de las colecciones o agregados con índice en Java. Declaración e inicialización de arrays y List.

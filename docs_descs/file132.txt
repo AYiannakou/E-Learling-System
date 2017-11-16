@@ -1,0 +1,5 @@
+Object Oriented Programming for Hardware Verification Demystified.
+
+Presentation of Open Source Hardware Verification libraries TEAL and TRUSS as well as demystified (straight forward) approach to hardware verification using OOP. 
+
+For download of open source libraries TEAL and TRUSS, this presentation (as slides) as well as many more examples please visit http://www.trusster.com

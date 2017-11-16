@@ -1,0 +1,1 @@
+This video is part 1 of a series of lessons on Object Oriented Programming through Java. This part explains the basic object oriented programming (OOPS) concepts such as Object, Class, Encapsulation, Abstraction etc. The illustration assumes no prior knowledge in this area. Your feedback is much appreciated which will help improve future videos. Have a great day!

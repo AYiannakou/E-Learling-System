@@ -1,0 +1,1 @@
+This tutorial teaches you what are static methods, value and non-value returning static methods and how to call them.

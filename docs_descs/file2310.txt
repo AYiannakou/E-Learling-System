@@ -1,0 +1,18 @@
+Lecture by Professor Mehran Sahami for the Stanford Computer Science Department (CS106A). Professor Sahami wraps up arrays and introduces array lists. 
+
+CS106A is an Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language. 
+
+Complete Playlist for the Course:
+http://www.youtube.com/view_play_list?p=84A56BC7F4A1F852
+
+CS106A at Stanford Unversity:
+http://www.stanford.edu/class/cs106a/
+
+Stanford Center for Professional Development:
+http://scpd.stanford.edu/
+
+Stanford University:
+http://www.stanford.edu
+
+Stanford University Channel on YouTube:
+http://www.youtube.com/stanford

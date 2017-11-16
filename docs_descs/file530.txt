@@ -1,0 +1,18 @@
+ICSE Java Programming Tutorials : 
+#1. An introduction to Java
+
+The first in a series of tutorials being made to help those studying the ICSE Computer Applications curriculum.
+
+In this tutorial you will learn :
+a. Why Java is useful
+b. Classes and Objects - what are they?
+
+
+Get the tools required for ICSE Java development here :
+Java Development Kit (JDK) - http://www.oracle.com/technetwork/java/javase/downloads/jdk-6u25-download-346242.html
+ 
+BlueJ - http://bluej.org/download/download.html
+
+
+I hope this helps anyone in need.
+Do subscribe/thumbs up/and all that good stuff. :)

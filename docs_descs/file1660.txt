@@ -1,0 +1,24 @@
+Our goals are to understand the while and do-while statements and the difference between the two. We’ll touch upon infinite loops, and we will learn the difference between the keywords break and continue.
+
+Transcript and code: http://www.deegeu.com/java-while-loop-break-continue/
+
+This video is part of a larger free online class called Free Java Course Online.  You can find more information about this class on http://www.deegeu.com/free-java-course-online/.
+
+Concepts: Java, Programming, java while loop break continue, java while loop, control flow, Java control statements
+
+Next Video: "For loops" on DeegeU.com
+
+Tools Used:  http://deegeu.com/java-tools
+
+Social Links: Don't hesitate to contact me if you have any further questions.
+WEBSITE : dj@deegeu.com
+TWITTER : http://www.twitter.com/deege
+FACEBOOK: https://www.facebook.com/deegeu.programming.tutorials
+GOOGLE+ : http://google.com/+Deegeu-programming-tutorials
+
+About Me: http://www.deegeu.com/about-programming-tutorial-videos/
+
+Related Videos:
+https://www.youtube.com/watch?v=yxwdKX7ErJ4&list=PLZlGOBonMjFVq9FF0eiS_emcFmP-0fSBe
+
+Media credits:  All images are owned by DJ Spiess unless listed below

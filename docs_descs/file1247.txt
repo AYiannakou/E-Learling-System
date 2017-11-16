@@ -1,0 +1,1 @@
+http://javavideotutorials.net This video talks about the difference between the == operator and the equals method within Java.  One will compare memory locations and the other will compare the values inside of the objects (so long as the equals method has been overridden)

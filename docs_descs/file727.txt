@@ -1,0 +1,1 @@
+We explain what the 'static' keyword does and how to define static variables and methods.

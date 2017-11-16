@@ -1,0 +1,65 @@
+Support me on Patreon: 
+https://www.patreon.com/joshmiller
+
+This video will teach you how to use for loops in Java. I will also show you how to iterate through an array or list by using the for loop.
+http://truemiller.com - Comment, Like & Subscribe! 
+
+Content in this Java tutorial:
+ 0:45 Start a new .java file
+ 1:04 The beginning of writing a for loop in java
+ 1:20 Initialisation, termination and incremation within the for loop
+ 2:36 The for loop prints to the command line
+ 3:04 Changing the increment value in a for loop
+ 3:25 Inclusive "less-than" for loop
+ 3:45 How to print odd numbers using a for loop in java
+ 4:14 Using a for loop inside a for loop (nested for loops, quadratic algorithm)
+ 4:30 Printing a box using nested for loops
+ 6:47 Iterating through a list of numbers
+ 7:00 How make a list of integers in Java
+ 7:18 For item in list/Print each item in a list (in Java)
+
+"The for statement provides a compact way to iterate over a range of values. Programmers often refer to it as the "for loop" because of the way in which it repeatedly loops until a particular condition is satisfied. The general form of the for statement can be expressed as follows:
+
+for (initialization; termination; increment){statement(s)}" 
+☆ VISIT MY WEBSITE FOR MORE AMAZING CONTENT ☆
+http://truemiller.com
+
+☆ MY TUTORIAL PLAYLISTS ☆
+Internet Marketing: https://www.youtube.com/playlist?list=PLF9y9_TUNU1cCE3xtvkTYkSgsvkZTx6Or
+CPA Marketing:   https://www.youtube.com/playlist?list=PLF9y9_TUNU1cJ4Q7S1IdWWsbtAKbc1ccg
+CPA & PPD Niches:  https://www.youtube.com/playlist?list=PLF9y9_TUNU1cZ1Q38gp9QUPhHHTnCXW0j
+SEO & Social Media: https://www.youtube.com/playlist?list=PLF9y9_TUNU1fQ2YAqqFOywKx6V65rWAt3
+Java:     https://www.youtube.com/playlist?list=PLF9y9_TUNU1dq-zE32BmfIZtkzSh5KNo0
+
+☆ LETS CONNECT! ☆
+Facebook:  https://facebook.com/TrueMillerBlog
+Twitter:  https://twitter.com/joshamiller
+LinkedIn:  https://uk.linkedin.com/in/truemiller
+Google+:  https://plus.google.com/+MakeMoneyOnlineWithJoshblogspot
+Instagram:  https://instagram.com/joshmilleruk 
+True Miller:  https://truemiller.com
+LifeHack:  http://www.lifehack.org/author/josh-miller
+
+☆ DON'T MISS THESE OFFERS ☆
+Hostgator:  http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=joshmiller
+➥ Hostgator Coupon Code for $0.01 Hosting: TRUEMILLER
+SEOClerks:  http://truemiller.com/recommended/SEOClerks
+➥ Best Place To Buy SEO & Social Media Services
+
+☆ GREAT SITES TO MAKE MONEY WITH ☆
+CPAGrip:  http://truemiller.com/recommended/CPAGrip
+➥ The Best Content Locking Network
+MaxBounty:  http://truemiller.com/recommended/MaxBounty
+➥ The Best CPA Network
+iWriter:  http://truemiller.com/recommended/iWriter
+➥ Get Paid $$$ To Write Articles
+FreeLancer:  http://truemiller.com/recommended/FreeLancer
+➥ Get Paid $$$ For Your Skills
+
+☆ CONTACT ☆
+Use any social media to contact me!
+
+☆ BUSINESS ENQUIRIES ☆
+Strictly for business. 
+joshmillerenterprises[at]gmail.com Support me on Patreon: 
+https://www.patreon.com/joshmiller

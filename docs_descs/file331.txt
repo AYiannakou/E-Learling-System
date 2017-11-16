@@ -1,0 +1,29 @@
+Download the patch here: 
+http://milkcrate.com.au/_other/downloads/max_patches/bitwise.rhythm/
+
+More Info: 
+http://little-scale.blogspot.com/2007/12/bitwiserhythm-generator-update.html
+and
+http://little-scale.blogspot.com/2007/12/bitwiserhythm-generator.html
+
+The bitwise rhythm machine has received a number of new features. These include:
+
+    * New whole-note rhythmic divisions of 1/6, 1/12 and 1/24 (ie. triplets)
+    * Mute all gates
+    * Set all gates to the same logic rule
+    * Set the length of each gate's loop to between 1 and 16 beat events
+    * Four modes of controlling the A and B data sources, namely: NONE, INTERNAL, MIDI and SOUND.
+          o NONE: The user controls the bytes of data directly using the mouse and keyboard.
+          o INTERNAL: The bytes are arranged in a user-defined sequence and played through in sets of four-bar phrases. The length of the sequence (ie. the number of phrases played before repeating) can be set from 1 to 8.
+          o MIDI: Pitch bytes from monophonic MIDI data from 8 channels of a device sets the 4 bytes A high, A low, B high and B low.
+          o SOUND: The average amplitude level over the last beat of a bar from the incoming signal into the analog to digital input on the chosen sound device will set the 16-bit integers. The left side will set A and the right side will set B.
+                + This opens the opportunity for data / sound feedback driven musical structures by routing the audio output of a MIDI device that is being controlled by the program back into the program
+    * Three component waves:
+          o These waves add control data output to the system, for an extra element of control.
+          o The data int the waves are made up of the vertical addition and subtraction of the bits from all eight gates at any given point in time.
+          o The first component wave (on the left) is a + type wave in that it adds all of the data bits from the gates to each other to form a value between 0 and 8.
+          o The second component wave (middle) is a - type wave in that it subtracts all of the data bits from the gates from one another to form a value between -8 and 0.
+          o The third component wave (on the right) is a +/- type wave in that every second gate is a negative and every first gate is a positive. This results in a data value from -4 to 4.
+                + So, for example, if gate 1 has a high bit in the current subdivision and gate 2 has a high bit in the current subdivision but none of the other gates are high, then the + wave will be at 2 (= 1+ 1), the - wave will be at -2 (= -1 - 1) and the +/- wave will be at 0 (= 1 -1).
+          o These waves can then be scaled to values in the range of 0 to 127 and sent via a desired MIDI continuous controller number and channel to a MIDI device.
+          o Each wave can be individually muted to assist with easy MIDI mapping using the learn function of a MIDI device.

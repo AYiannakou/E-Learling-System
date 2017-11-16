@@ -1,0 +1,5 @@
+Code: https://github.com/a-r-d/java-1-class-demos/blob/master/collections-and-generics/week10/CountWordInstances.java
+
+How to use a HashMap to find the number of word occurrences in a file and then find the most frequently used word.
+
+Also a pretty good and basic java hashmap interview problem.

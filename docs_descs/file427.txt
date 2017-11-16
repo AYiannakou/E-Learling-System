@@ -1,0 +1,1 @@
+Just showing what arrays are and how they are different from variables. Remember, an array is like a list.

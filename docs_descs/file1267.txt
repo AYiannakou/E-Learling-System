@@ -1,0 +1,1 @@
+A video about where bitwise operators fit in Java's order of operations framework

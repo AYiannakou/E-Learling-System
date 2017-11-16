@@ -1,0 +1,3 @@
+Mehr auf | http://OrangeOnBlack.de | http://twitter.com/OrangeOnBlack
+Download: http://OrangeOnBlack.de/?p=767
+Nachdem wir "normale" Klassen schon kennengelernt haben, geht's in diesem Video um Klassen, die bereits vorgefertigt mit Java mitgeliefert werden und noch ein "spezielle" Art von Klassen.

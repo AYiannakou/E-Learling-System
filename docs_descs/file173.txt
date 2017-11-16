@@ -1,0 +1,17 @@
+Advertisers will make offers for the sections that you declare on this page. Sections don't need to be freestanding; you can declare groups of pages with similar content as a section as long as you can guarantee ad placement in those pages.
+
+The way you declare a section is:
+
+- First, choose a best-matched category from the dropdown menu.
+- Next, enter the Section name.
+- Frequency, by default, is every issue your publication runs, but if the section doesn't run on every issue, select 'Specific days.'
+- You can add a section description to provide more detailed information to advertisers.
+- Finally, if the section has the same page format, ad sizes, rates and creative deadline as your primary publication, mark "No" in the final column.
+
+However, you are welcome to declare a section with different ad settings.
+
+- For example, let's say your Entertainment section prints on Fridays. This section is a tabloid and it deadlines early, so I will mark 'Yes,' this section has different settings. 
+- In this example, I'll enter 4 weekdays prior to the issue date for the creative deadline, and the correct ad sizes for a tabloid.
+- It's important that you declare your settings accurately or you may get offers from advertisers for the wrong ad sizes or for the wrong days.
+
+To give your publication maximum exposure to advertisers, please declare all of the sections in which you can place display ads. Verify that all the sections you've declared have the correct settings, and save your changes.

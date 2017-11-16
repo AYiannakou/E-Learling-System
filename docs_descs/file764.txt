@@ -1,0 +1,10 @@
+In this tutorial I will discuss the substring() method. It is important to understand that the first character of a string is located at the 0 index. The substring() method is overloaded and has two different signatures. The substring(int beginIndex) simply returns all remaining characters at and including the character at the specified index. For example:
+String s = "0123456789";
+String version1 = s.substring(4);
+System.out.println("version1 = " + version1); // version1 = 456789
+
+The substring(int beginIndex, int endIndex) is a little more complicated and I find the way the second parameter functions somewhat unusual. The first parameter instructs the substring method to begin returning characters at and including the character at the specified index. The second parameter instructs the substring method to stop returning characters excluding the character at the specified index. For example:
+String t = "0123456789";
+String version2 = t.substring(4, 8);
+System.out.println("version2 = " + version2); // version2 = 4567
+When thinking through how the substring works it is a little confusing to imagine something like this ... I want all the characters at index 4, 5, 6, and 7. It makes sense to just use substring(4, 7), but I have to remember that the second parameter does not work the same way as the first and so I must add 1 to index that I really want. The way that I remember the difference is to think of it like this ... if I want 4 characters I need to specify the starting character and add 4 to get the second parameter. I can tell you that the functionality is strange compared to other languages, but it is what it is.

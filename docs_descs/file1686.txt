@@ -1,0 +1,1 @@
+Shows general syntax for while loop, for-loop, and for-each loop.

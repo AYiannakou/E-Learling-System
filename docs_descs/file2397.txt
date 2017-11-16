@@ -1,0 +1,1 @@
+Unary operators operate on single operand.  This video explains Unary Plus, Unary Minus, Increment, Decrement and boolean invert operators (+, -, ++, -- and !).  For example programs and exercises visit www.JavaTutorial.tv.

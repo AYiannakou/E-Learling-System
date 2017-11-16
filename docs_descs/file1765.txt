@@ -1,0 +1,6 @@
+break statement in java can be used to get out of the loop such as for loop, while loop and do-while loop.
+We can use break statement with label to get out of nested loops or multiple loops at once since break statement can be used to get out of a single loop only.
+Finally break statement is used with switch-case to get out of the switch case, otherwise once a case is satisfied, further case conditions are not evaluated and gets processed.
+You will look into all these example usage of break statement in this video through Eclipse java program.
+
+Source: http://www.journaldev.com/980/java-break-statement-examples-of-for-while-do-while-loop-break-label-for-outer-loop

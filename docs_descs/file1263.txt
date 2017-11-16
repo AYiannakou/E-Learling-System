@@ -1,0 +1,1 @@
+This video aims to further investigate the conditional if statement, as well as introduce a variety of common logical boolean operators for programming.

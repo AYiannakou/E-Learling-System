@@ -1,0 +1,1 @@
+This tutorial shows how to create a basic Extension which takes two integers sent by a client, calculates the sum and sends the result back to that client.

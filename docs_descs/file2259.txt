@@ -1,0 +1,16 @@
+In this beginners video tutorial you will learn about the do while loop available in java programming language with example.
+
+You will learn what is a do while loop, what is the use of it, what is the syntax of it, how to use it in detail with examples.
+
+You will learn how to generate a menu using do while loop in this tutorial.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

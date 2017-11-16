@@ -1,0 +1,1 @@
+In this lesson, we explore Java collections, specifically the ArrayList. We'll discuss the similarities / differences between the Array and ArrayList, and provide code examples demonstrating use of method to add, remove, index and enumerate the objects in a collection.

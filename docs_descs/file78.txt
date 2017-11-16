@@ -1,0 +1,7 @@
+Using Netbeans 5.5.1 & Java 1.6:
+
+Code:
+---------------
+int tempFahr = (int) ((Double.parseDouble(degreesTextField.getText())) 
+            * 1.8 + 32);
+fahrenheitLabel.setText(tempFahr + " Fahrenheit");

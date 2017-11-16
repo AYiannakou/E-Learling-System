@@ -1,0 +1,3 @@
+This video will show you what is the use split() method in java strings class
+
+For more tutorials visit : http://www.step2know.com

@@ -1,0 +1,1 @@
+In this tutorial we will highlight the control flow structure of a program in Java by showing how it works & when to use them. The topics in this tutorial includes, if, if-else, else-if statements, as well as giving example how to use the ternary operator, which can be used as a short form of writing an if-else statement. Enjoy!

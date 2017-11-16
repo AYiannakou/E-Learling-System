@@ -1,0 +1,3 @@
+In this tutorial we begin to examine arrays and their use in Java.  
+
+Source: http://pastebin.com/cQt0ZSpW

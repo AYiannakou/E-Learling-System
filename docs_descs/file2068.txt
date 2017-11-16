@@ -1,0 +1,1 @@
+The video looks at what an object is and how to create one in Java.  It defines the terms memory reference,instantiation, class and object.  It also looks at the syntax for creating an object.

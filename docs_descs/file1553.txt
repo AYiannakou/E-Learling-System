@@ -1,0 +1,1 @@
+The video looks at order of operations or operator precedence  in Java.  It starts with PEMDAS and then shows all of Java's Order of Operations.

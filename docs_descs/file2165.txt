@@ -1,0 +1,14 @@
+This video tutorial explains about the basic and compound arithmetic operators available in java programming language for beginners.
+
+You will learn about the arithmetic operators such as addition i.e +, subtraction i.e -, multiplication i.e *,division i.e / and modulus i.e % operators along with the compound arithmetic operators such as +=, -=, *=, /=, %= in detail with examples.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

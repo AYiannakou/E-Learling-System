@@ -1,0 +1,7 @@
+Code is Here: http://goo.gl/3UxHh
+
+Best Java Book : http://goo.gl/FtKp0m
+
+In this video I go over everything you'd ever want to know about Java Arrays.
+
+I show you how to create arrays, numerous ways to populate them, tricks involving multidimensional arrays, the enhanced for loop, Array library methods and more.

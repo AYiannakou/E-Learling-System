@@ -1,0 +1,1 @@
+Java Aplication Program 8 sum of odd even series using for loop

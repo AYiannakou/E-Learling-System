@@ -1,0 +1,2 @@
+more on http://firstlearner.com
+Learn about array that acts as the container object and can hold a fixed number of values of a single type. Also see how to use for-each loop in Java to access the elements of array.

@@ -1,0 +1,5 @@
+Visita:http://develoteca.com 
+En este vídeo se muestra la implementación de los ciclos con java utilizando netbeans. 
+while: http://develoteca.com/tutoriales/java/sentencia-ciclica-while/
+do - while:http://develoteca.com/tutoriales/java/sentencia-ciclica-do-while/
+for: http://develoteca.com/tutoriales/java/sentencia-ciclica-for/

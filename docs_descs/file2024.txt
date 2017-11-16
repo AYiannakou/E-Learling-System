@@ -1,0 +1,11 @@
+code used in the video - http://www.codebind.com/java-tutorials/java-examples-arrays-java-example/
+
+
+arraylist java
+string array java
+array class java
+multidimensional array java
+array length java
+dynamic array java
+2d array java
+print array java

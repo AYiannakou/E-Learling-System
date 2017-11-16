@@ -1,0 +1,14 @@
+In this beginners video tutorial you will learn about two dimensional arrays in java programming with example.
+
+You will learn what are two dimensional arrays, how to create them,  how to store and retrieve values from them in detail with example.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

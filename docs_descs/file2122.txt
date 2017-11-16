@@ -1,0 +1,1 @@
+This session helpful for the candidates preparing for the Core java interview.  In this session,  I explained java interview questions and answers for Map Implementations(HashMap, LinkedHashMap, TreeMap, ConcurrentHashMap, Collections.synchronizedHashMap, WeakHashMap) and when to use which map Implemenations  with Examples.

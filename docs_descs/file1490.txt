@@ -1,0 +1,1 @@
+In diesem Video wird die Do-While Schleife in Java vorgestellt. Neben der allgemeinen Syntax gibt es auch noch einige Beispiele dazu. Weiteres zu Schleifen findet ihr auch unter: http://www.java-programmieren.com/schleifen-java.php

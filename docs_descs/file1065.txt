@@ -1,0 +1,5 @@
+If you were confused with how HashMaps work or how to use them then this video is for you. It explains what exactly a HashMap is and some general uses for it. I use several examples from Minecraft to to further solidify my explanation. 
+
+--
+Email: 
+mrcomputeranswers@gmail.com

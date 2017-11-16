@@ -1,0 +1,4 @@
+Aula nº16 do blog Aprenda Java Fácil que fala sobre o conceito de ArrayList.
+
+Endereço do blog: http://aprendajavafacil.blogspot.com
+Facebook: http://www.facebook.com/aprendajavafacil

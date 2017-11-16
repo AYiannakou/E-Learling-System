@@ -1,0 +1,19 @@
+In diesem Video erkläre ich, wie ihr die Klasse StringBuilder verwendet, und den Text anschließend auf System.out ausgebt.
+
+Was du brauchst:
+- NetBeans
+- Java JDK (alles dabei)
+- Java Runtime (nur zum Ausführen)
+______________________________________
+
+PROGRAMME & ANLEITUNGEN:
+• «Code::Blocks» → http://codeblocks.org
+• «NetBeans» → http://netbeans.org
+• «CodeRunner» → http://goo.gl/YZNsd
+• «Notepad++» → http://notepad-plus-plus.org/
+______________________________________
+
+► Website: http://postutorial.net
+► Livestreams: http://www.twitch.tv/kiwistevie
+______________________________________
+Java Programmieren Tutorial von POSTutorial (2013).

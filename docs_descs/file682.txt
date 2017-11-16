@@ -1,0 +1,1 @@
+Sketched Presentation that introduces the concept of classes and objects.  Though the video doesn't mention Java, that is the syntax that is being used.

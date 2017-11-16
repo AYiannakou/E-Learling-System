@@ -1,0 +1,1 @@
+Java 7 new feature :How to use switch statements with strings

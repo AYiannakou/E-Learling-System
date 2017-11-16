@@ -1,0 +1,9 @@
+Case AQ - Advanced for loop with girls 
+
+Project - Make Knowledge Free !
+
+Video Link - https://www.youtube.com/watch?v=BUIfaiVN2Bk&lc=z12cerarroqlizdyr04ccfprsqexgd2h3qo0k
+
+
+
+What are advanced for Loops .Say you have a array which has some values stored inside it .You want a loop which goes through each of this value and stores it in a variable of your choice , you call the advanced for loop buddy and tell it the array name it needs to loop through and specify the variable name wherein it needs to store the value ......It shall be more than happy to oblige !

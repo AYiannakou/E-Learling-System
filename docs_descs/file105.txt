@@ -1,0 +1,6 @@
+Programming Java games in Greenfoot. Basics of creating movement. 
+
+(More Greenfoot videos: http://www.youtube.com/profile?user=18km 
+
+Better resolution: http://www.greenfoot.org/doc/videos.html ). 
+Get Greenfoot: http://greenfoot.org

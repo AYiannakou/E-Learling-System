@@ -1,0 +1,7 @@
+A introduction to using strings in Java.
+
+A link to the Java documentation for the String class:
+http://docs.oracle.com/javase/6/docs/api/java/lang/String.html
+
+Description of ASCII:
+http://www.webopedia.com/TERM/A/ASCII.html

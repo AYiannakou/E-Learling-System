@@ -1,0 +1,1 @@
+This is just a quick tutorial on how to pass multiple arguments to methods.

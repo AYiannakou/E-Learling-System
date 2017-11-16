@@ -1,0 +1,3 @@
+In this tutorial I teach you how to import and use the Scanner class to receive an integer input for the factorial program made in the last episode.  
+
+Don't forget to comment and subscribe for more videos!

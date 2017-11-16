@@ -1,0 +1,1 @@
+17.12 Java 8 Stream Api Features part 10 stream map reduce methods

@@ -1,0 +1,2 @@
+http://www.examplesofjava.com - 1) How to Create an HashMap.
+2) How to insert the values in HashMap.

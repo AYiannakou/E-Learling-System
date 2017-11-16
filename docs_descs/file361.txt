@@ -1,0 +1,16 @@
+Quellcode: http://www.brotcrunsher.de/index.php?topic=30.0
+Danke an Kurieita
+
+Ein wenig schwere Hausi dieses mal. Hier einige Tips:
+
+Zum einlesen eines Strings vom Benutzer braucht hier die Scanner Variable und dann z.b. 
+s = scan.next();
+
+Dann zum schauen ob ein String einen Wert hat (bei If) geht leider kein "==", dafür müsst ihr wieder eine Methode benutzen. Beispiel:
+if(s.equals("+")){
+}
+
+Wobei s der String ist!
+
+
+Liked meine Facebook Seite: http://www.facebook.com/Brotcrunsher

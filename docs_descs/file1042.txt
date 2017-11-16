@@ -1,0 +1,1 @@
+Generating java class for EO and customizing EntityImpl class

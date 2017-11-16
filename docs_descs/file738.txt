@@ -1,0 +1,3 @@
+http://www.leveluplunch.com/java/tutorials/031-join-strings-java8/
+
+Just about every programming language natively supports a string join() function. Find out in this tutorial how to java 8 finally added support to join strings.

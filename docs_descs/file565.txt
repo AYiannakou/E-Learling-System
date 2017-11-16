@@ -1,0 +1,1 @@
+In this lesson we introduce arrays. We'll explain their purpose and why you want to use them. Through examples, we will demonstrate how to declare, index and enumerate over arrays of basic data types and well as complex arrays of objects.

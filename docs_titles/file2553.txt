@@ -1,0 +1,1 @@
+Java Program to find Palindrome, Sum &  Integer

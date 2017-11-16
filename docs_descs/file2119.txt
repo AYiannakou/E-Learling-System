@@ -1,0 +1,7 @@
+- Sorting the HashMap based on the value
+- Sorting the HashMap based on the keys
+ 
+Steps:
+1.Create a simple HashMap and insert some key and values.
+2.Create a LinkedList from the above mapEntries. 
+3.Sort the linked list using Collections.sort() method

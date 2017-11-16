@@ -1,0 +1,12 @@
+Google TechTalks
+May 3, 2006
+
+Javier Pedemonte, IBM
+Adam Peller, IBM
+
+ABSTRACT
+Tools for building HTML/Javascript and so-called AJAX-style applications are sparse. Mozilla has traditionally had the best tools in Venkman and its DOM Inspector, but recently development has been stagnant and these tools do not offer integration with active code development.
+
+Newer tools like Firebug offer more clever tools to inspect pages but still have no role in the rest of the development cycle.
+
+The Eclipse AJAX Toolkit Framework brings these types of tools into the Eclipse IDE -- making use of the Java XPCOM to Java bridge and leveraging the robust features of Eclipse, while leaving the environment...

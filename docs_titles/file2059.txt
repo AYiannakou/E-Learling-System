@@ -1,0 +1,1 @@
+Java Coding Standards for classes, interfaces and methods,variables,constants

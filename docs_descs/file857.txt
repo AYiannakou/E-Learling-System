@@ -1,0 +1,1 @@
+A quick intro to the Java Scanner which lets us get input from the user which we can then use in our program. Visit the class website at http://www.csce145.com

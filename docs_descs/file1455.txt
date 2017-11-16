@@ -1,0 +1,13 @@
+This session takes an in-depth look at the new concurrency and collections features and scalability and performance improvements introduced in Java 8. It covers JEP 142 (@Contended), JEP 155 (JSR 166e), JEP 171 (Fence Intrinsics), and JEP 180 (HashMap balanced trees) along with an overview of the new Collection, List, and Map default methods. The session is intended for Java DevOps and architects who want to better understand the major enhancements that have been made to improve the performance and scalability of Java’s most performance-critical classes.
+
+
+Authors:
+Chris Hegarty
+Chris Hegarty is an engineer in Oracle's JDK team, currently focused on core libraries and networking.
+View more trainings by Chris Hegarty at https://www.parleys.com/author/chris-hegarty-4
+
+Michael Duigou
+Mike Duigou is a developer on the Oracle Java Core Libraries team. His work is focused on collections and parallelism and lately on libraries for lambda. Mike also collaborates on an autonomous automotive racing project with researchers at Audi and Stanford. He has previously worked on projects at Oracle and Sun for industrial automation with Java Realtime, e-commerce web services, dancing robots, peer to peer and Java operating systems.
+View more trainings by Michael Duigou at https://www.parleys.com/author/michael-duigou
+
+Find more related tutorials at https://www.parleys.com/category/developer-training-tutorials

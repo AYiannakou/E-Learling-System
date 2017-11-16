@@ -1,0 +1,1 @@
+From scratch Netbeans is used to auto-layout in a form a Combo Box and then it is used. Items are added in the model properties dialogue and by a message-send within the source code.

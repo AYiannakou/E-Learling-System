@@ -1,0 +1,1 @@
+A simple comparison between declaring multiple strings declaring a string array.

@@ -1,0 +1,9 @@
+In this video, we learn how to use boolean operators on boolean values. Boolean operators we see are AND (&&), OR (||), EQUALS (==), NOT EQUALS (!=) and the Negation Unary Operator (!).
+
+_____________________________
+
+Here's a link to understanding Truth Tables. Take a look at Conjunction (&&), Disjunction (||), Biconditional (==) and Negation (!):
+
+http://www.dummies.com/how-to/content/logic-for-dummies-cheat-sheet.html
+
+http://aristotle.tamu.edu/~rasmith/Courses/Logic/Exercises/2.0.html

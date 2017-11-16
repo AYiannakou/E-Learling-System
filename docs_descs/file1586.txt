@@ -1,0 +1,1 @@
+The video looks at how the assignment operator works within a program.  Different examples of assigning variables are given.  It also looks at what literals (Numeric, Character, Boolean and String) are.  For beginning programs especially, literals are often assigned to a variable.

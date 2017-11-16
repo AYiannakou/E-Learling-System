@@ -1,0 +1,1 @@
+In this video tutorial we will show you how to make a table in C using nested do while loop.

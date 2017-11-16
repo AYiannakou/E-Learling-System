@@ -1,0 +1,14 @@
+In this video tutorial for beginners you will learn how to read / receive user input for the array in java programming language with example.
+
+You will learn how to create an array, how to read input for the all array elements from user, how to display all the all elements using a loop in detail with example.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

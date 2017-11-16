@@ -1,0 +1,2 @@
+Get complete courses at http://courses.caveofprogramming.com
+How to use do...while loops in Java, plus variable scope and multi-line comments. I take a look at a solution to a commonly-assigned beginner's exercise in Java.

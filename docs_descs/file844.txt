@@ -1,0 +1,7 @@
+Explicação de como usar Annotation e Reflection em java para a injeção de valores em variáveis.
+
+Blog: http://wpattern.com
+
+Projeto: http://iar.codeplex.com/
+
+Post: http://wpattern.com/blog/post/2011/11/16/Injecao-de-Valores-usando-Reflection-e-Annotation-em-Java-(Injecao-e-Validacao-dos-Valores)-Parte-04.aspx

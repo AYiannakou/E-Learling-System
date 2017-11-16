@@ -1,0 +1,20 @@
+This Video describes about conversion of int to string in different ways.
+
+Conversion we do for many reasons. Like when we want int to be displayed as string or float or double etc...we need conversion. Java is powerful and superiors have written and kept the codes so that we just need to realize were we have to use it and how to. 
+
+I mean methods. Many methods are defined some like toString , valueOf , ParseInt. We need to just call those methods in our program to see the magic, we are least bothered about code written inside those methods. That is know as Abstract. Complete java is Abstract Guys..We don't know how is written however we have to know what it does?????????
+
+Conversion Description : Anything could not be more easy and simple than this. You don't have to do anything special just use "+" concatenation operator with String to convert int variable into string as shown in the following example:
+String price = "" + 123;
+
+One more example of converting int to string
+There are many ways to convert an int variable into String in case if you don't like above example of string conversion than here is one more example of doing same thing. In this example of converting integer to String we have used String.valueOf()method which is another static utility method to convert any integer value to String. In-fact String.valueOf() method is overridden to accept almost all primitive type so you can use itconvert char, double, float or any other data type into String. Here is an example of int to String using String.valueOf()
+
+String price = String.valueOf(123);
+
+Int to string using String. format() : String price = String.format ("%d", 123);
+
+Please feel free to comment...
+
+
+ By the way if you know any other way of string-int-string conversion than please let us know and I will include it here.

@@ -1,0 +1,2 @@
+When using a string primitive type value and the context requires having that value transformed into an object then a new object of the String wrapper type is created. 
+This auto boxing allows us calling various methods on every string primitive type value in our code.

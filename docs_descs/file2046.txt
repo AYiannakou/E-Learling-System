@@ -1,0 +1,14 @@
+In this beginners video tutorial you will learn about the different ways of initializing arrays in java programming language with example.
+
+You will learn what are arrays, how to create arrays, what are the different methods/ways of creating them with example in detail.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

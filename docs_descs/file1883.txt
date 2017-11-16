@@ -1,0 +1,11 @@
+' Source Code ' here:
+https://goo.gl/I6D9XE
+
+Hey Youtube!
+
+We went over a couple ways on how to initialize an integer array in java. I recorded this in quicktime player and in case you were wondering what integrated development environment (IDE) software application I used it was in, "Android Studio". In math, an array refers to a set of numbers or objects that will follow a specific pattern so we do this as so with the integer variable and named the variable name as appleSeed as we all love to know how many apples are in a seed. Especially java programming ;).
+
+Please Subscribe, like, & comment!
+
+Everyone have a nice day!
+Nick

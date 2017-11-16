@@ -1,0 +1,1 @@
+Object Oriented Programming is explained with real life examples, discuss main concepts like Encapsulation, Polymorphism and Inheritance.   Discuss pros and cons of OOP.

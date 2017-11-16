@@ -1,0 +1,26 @@
+You can submit your resume for right Job
+
+http://www.interviewdot.com/upload-resume/uploadresume.htm
+http://www.interviewdot.com http://www.interviewdot.com http://www.interviewdot.com
+
+Welcome to www.InterviewDot.com
+Java interview "What is the difference between while statement and do while statement " ? Java Interview Question and Answer :
+
+What is the difference between a while statement and a do while statement ? 
+
+A while statement checks at the beginning of a loop to see whether the next loop iteration should occur. A do while statement checks at the end of a loop to see whether the next iteration of a loop should occur. The do while statement will always execute the body of a loop at least once.
+
+While(condition){
+.....
+}
+
+
+do{
+.....   // Remember at least once body is executed..
+}while(condition);
+
+
+You can submit your resume for right Job
+
+http://www.interviewdot.com/upload-resume/uploadresume.htm
+http://www.interviewdot.com http://www.interviewdot.com http://www.interviewdot.com

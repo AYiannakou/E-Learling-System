@@ -1,0 +1,11 @@
+Contoh program java: perhitungan menggunakan tipe data integer, berikut langkah-langkahnya...
+
+Dapatkan tutorial lainnya hanya di http://www.atwiwit.net/
+Video Tutorial lainnya cek di https://www.youtube.com/channel/UCei1PYT3yB_wibXf7JpjS4g/videos
+
+--------------------------------------------------------------------------------------
+
+Examples of Java Program: Calculations Using Integer Data Types , here are the steps ...
+
+Get more tutorials just in http://www.atwiwit.net/
+Get More video tutorials check in https://www.youtube.com/channel/UCei1PYT3yB_wibXf7JpjS4g/videos

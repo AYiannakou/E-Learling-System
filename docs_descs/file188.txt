@@ -1,0 +1,40 @@
+This is a short tutorial on how to use REST Describe & Compile starting from textual REST API documentation to finally having working code. REST Describe & Compile is an editor, and a compiler for REST API descriptions based on Marc Hadley's Web Appilcation Description Language, short WADL.
+
+Wesabe is a community site that makes managing your money easy by means of a REST API.
+
+Step 1:
+
+Copy the following generic sample requests into the clip board:
+
+https://www.wesabe.com/accounts.xml
+https://www.wesabe.com/accounts/show/{accountId}.{format}?page=2&month=5&year=2007
+https://www.wesabe.com/tags/show/{tagName}?format=xml&page=2&month=5&year=2007
+https://www.wesabe.com/merchants/{merchantId}.{format}?page=2&month=5&year=2007
+https://www.wesabe.com/txactions/search=amazon&format=xml
+
+Step 2:
+
+Point your browser to http://tomayac.de/rest-describe/latest/RestDescribe.html. You should now see an application called "REST Describe & Compile". In the upper panel with the heading "Request Sample" find the button "URI Batch Analysis". Click it.
+
+Step 3:
+
+Paste the sample requests copied above in the appearing pop-up dialog . Hit the "OK" button and confirm the "This may take some time..." alert box.
+
+Step 4:
+
+After a short while you should see a tree-like XML document, actually this is a WADL file (you don't need to care about what it is, we want the code...). Now find the "Generate Code" button on the lower right panel. Click it.
+
+Step 5:
+
+Finally you should see five buttons, "Java", "PHP 5", etc. Click the button of your preferred programming language. There you go, this is your code.
+
+Step 6:
+
+If you feel like, you can fine-tune the generated classes. Therefore change the "Naming Depth Level" from 1 to 2, or in addition to that, click the "Settings" link in the upper right corner, then go to the "Code Generation" tab. Hit "Re-Compile" after you have made your changes. Once you are happy with the class names, hit the "Select All" button and paste the code into some text editor.
+
+Step 7:
+
+In the newly generated file find the credentials at the very beginning, enter your Wesabe user and password. Now you can start the "Hello World" of Wesabe, simply retrieve your accounts by calling the method AccountsXml, for example in Ruby this can be done via:
+
+Accounts = AccountsXml.new()
+puts Accounts.submit()

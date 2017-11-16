@@ -1,0 +1,1 @@
+This program shows you how to remove numbers over 50 from a sequence of numbers stored in an array list.

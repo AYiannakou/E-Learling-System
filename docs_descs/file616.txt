@@ -1,0 +1,4 @@
+almacena y lee un arraylist de objeto en un archivo .txt
+descarga el código fuente: https://www.facebook.com/TutorialesKatana?v=app_190322544333196
+
+Visita http://tutorialeskatana.blogspot.com/

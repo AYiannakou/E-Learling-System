@@ -1,0 +1,7 @@
+This Java tutorial answers the below things:
+
+1. Loop in Java
+2. Do Loop
+3. Do While Loop
+4. Example of do while loop in java
+5. Example of for loop in Java

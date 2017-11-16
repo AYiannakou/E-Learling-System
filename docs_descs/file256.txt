@@ -1,0 +1,1 @@
+An inverted pendulum controlled by a fault tolerant system of two SunFire V204's running Solaris 10 and the Sun Java Real-Time System (Java RTS).

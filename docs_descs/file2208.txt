@@ -1,0 +1,8 @@
+TAKE THE QUIZ FOR THIS VIDEO!: http://freetechtorials.com/java_quizzes/javaQuiz10.php
+
+In this tutorial we talk about Infinite Loops and we show how to us a for loop to print out all of the items in an array.
+
+Follow me:
+http://freetechtorials.com
+https://twitter.com/Freetechtorials
+https://plus.google.com/104119834968255254020

@@ -1,0 +1,2 @@
+Get complete courses at http://courses.caveofprogramming.com
+How to work with multi-dimensional arrays in Java, including some tips on how to remember which index is which.

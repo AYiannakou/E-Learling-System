@@ -1,0 +1,1 @@
+Mathematica6.0中矩阵的表示

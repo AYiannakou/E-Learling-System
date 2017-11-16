@@ -1,0 +1,1 @@
+Using the foreach loop in Java we can easily iterate object or simple primitive values we have in an array or a collection.

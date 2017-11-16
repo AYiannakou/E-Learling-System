@@ -1,0 +1,3 @@
+Creación, ordenación y búsqueda de valores en un Array (vector o matriz) unidimensinal en Java.
+El enunciado y el código fuente puede encontrarse en http://miguelyrosana.es/2013/02/07/videotutorial-sobre-arrays-en-java-resolucion-de-un-ejercicio-sencillo/
+La inserción de anuncios en este vídeo se ha hecho con fines puramente académicos. Igualmente, cualquier posible beneficio económico será donado íntegramente a ASPANPAL, Asociación de Padres de Niños con Problemas de Audición y Lenguaje http://www.aspanpal.es

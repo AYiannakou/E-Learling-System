@@ -1,0 +1,1 @@
+This video tutorial explains about the Abstract classes and Methods. Abstract Methods does not have implementation and Abstract classes cannot be instantiated. I have explained about the importance of Abstract classes and how sub classes should override the Abstract classes methods.

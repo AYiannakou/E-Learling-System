@@ -1,0 +1,5 @@
+In this tutorial, Java's access modifiers are explained. For now, public and private should make sense. Protected and default access are introduced, but won't be fully understood until packages and inheritance are covered.
+
+As a best practice, I recommend using the private modifier as much as possible. This prevents users of your classes, which includes you, from manipulating the data for the class directly or calling methods that were only meant to be helper methods internal to the class. It will also decrease the number of things you can do with an object of that type as a user, so it makes it easier to learn or remember how to use it.
+
+You should especially avoid making your variables directly accessible. The benefit of using methods to set values to your variables is that you can do error checking inside of those methods prior to the assigning the value. For example, it wouldn't make sense to try to set a Person's age to a negative value, so you can test to see if a negative value was passed to setAge() and handle it accordingly.

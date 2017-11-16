@@ -1,0 +1,1 @@
+Level 2 Video belajar bahasa Pemrograman Java, Kali ini kita akan Membahas yang namanya String, Integer, Dan variabel pada bahasa pemrograman Java.

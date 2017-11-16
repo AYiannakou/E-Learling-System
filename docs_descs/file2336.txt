@@ -1,0 +1,7 @@
+integer to hex string in java,
+convert int to hex string in java,
+integer to hexadecimal in java,
+integer to hex in java,
+how to convert integer to hex string in java,
+conversion of integer to hexadecimal in java,
+java integer to hex string padding

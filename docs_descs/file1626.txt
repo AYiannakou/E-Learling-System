@@ -1,0 +1,1 @@
+This lesson introduces sorting and searching of collections. We'll briefly discuss the how's and why's of sorting and searching and cover both writing your own algorithms and well as using java.Util.Collections. In our examples we will sort and search integers and the student class, implementing custom comparators to sort the data in different ways.

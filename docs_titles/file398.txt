@@ -1,0 +1,1 @@
+Java - String zu Zahl (double) umwandeln

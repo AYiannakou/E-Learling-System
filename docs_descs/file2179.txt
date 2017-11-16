@@ -1,0 +1,25 @@
+Over Three Dozen Free Courses to improve your development skills--  https://learntoprogram.tv/p/professional-developers-association?src=YOUTUBE2016
+
+Professional Developer Association members enjoy the following benefits:
+
+Exclusive Access to Live Events: Live events with Industry Experts
+-Video Training Courses: Hundreds of hours of video training 
+-Group Chat Discussion: Get questions answered immediately
+-Private Facebook Group: Exclusive group to network with other developers
+-Weekly Newsletter: How to and news content just for Association Members
+-Exclusive First Access to all New Content: Be the first to access our new content
+-Online Badge and Membership Card: Show you're a member of a professional association.
+
+Every professional needs an association. The Professional Developers Association will help you network, grow and proposer in your field.  Join today at  https://learntoprogram.tv/p/professional-developers-association?src=YOUTUBE2016
+
+
+Variables are a central concept in all programming languages.  In Java, because the language is strongly typed, variable typing is an important concept.  This video tutorial reviews declaring variables, initializing variables, selecting the appropriate variable type and manipulating variables with operators.  In addition, this video reviews declaration of String objects and concatenation. LearntoProgram's Java tutorial series will teach you the basics of Java programming.
+
+Connect with LearnToProgram!
+Website: https://learntoprogram.tv
+Facebook: https://www.facebook.com/LearnToProgr...
+Twitter: https://twitter.com/learn2program/
+Google+: http://gplus.to/learntoprogram/
+Subscribe: http://www.youtube.com/subscription_c...
+
+LearnToProgram.tv is one of the internet's leading resources for coding and programming education. We offer courses on HTML, CSS, PHP, MySQL, jQuery, Python, and many other programming languages, along with iOS and Android Development.

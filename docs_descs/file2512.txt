@@ -1,0 +1,8 @@
+View the previous part: https://www.youtube.com/watch?v=q-qLne_Ixgg
+View the next part: https://www.youtube.com/watch?v=VwV1VKvtVtI
+
+In this tutorial I will teach you how to use ArrayLists in your application, which are essentially arrays without a nasty size limit. They are very easy to use, and I definitely prefer them over arrays in an environment where memory usage is negligible.
+
+Thanks for watching!
+http://brandonsoft.com
+http://bpforums.info

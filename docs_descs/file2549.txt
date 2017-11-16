@@ -1,0 +1,1 @@
+Métodos de los campos de texto getText() setText() Int.parseInt() String.valueOf() en JFrames. Sumar campos de texto y mostrarlos.

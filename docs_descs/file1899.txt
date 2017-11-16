@@ -1,0 +1,2 @@
+this program consists of java code for finding the factorial of
+an integer using both iterative type and recursion type.

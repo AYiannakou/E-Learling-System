@@ -1,0 +1,9 @@
+Con este ejemplo, podrás aprender a utilizar mejor la clase String, utilizada para capturar cadenas de caracteres. También podrás ver ejemplos de ciclos for.
+Los métodos de la calse String vistos son:
+toUpperCase()
+toLowerCase()
+charAt()
+replace()
+substring()
+length()
+Recuerda que los objetos de la clase String, son los únicos que se pueden generar sin utilizar la palabra clave new.

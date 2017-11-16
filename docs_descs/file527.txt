@@ -1,0 +1,1 @@
+An introduction to object-oriented programming concepts and design strategies. Includes visual diagrams and Java coding examples.

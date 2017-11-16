@@ -1,0 +1,1 @@
+This is my 5th Java Beginner tutorial. In this tutorial you will learn some of the basic things about string and char variables.

@@ -1,0 +1,10 @@
+Java Reflection LiveLessons Video Training:
+http://www.informit.com/store/java-reflection-livelessons-video-training-downloadable-9780133038101
+
+Excerpt from Lesson 10 -- Creating Arrays
+In this lesson you will learn how to create arrays without using new, "on-the-fly" at run time using Java Reflection. You will learn how to use the Array utility class to create one-dimensional and multidimensional arrays of any type.  You will also learn how to access Array elements that are class types or primitive types.
+
+In 13 lessons, this LiveLessons video introduces the Java Reflection API and shows you how to use it effectively to write programs that take advantage of its powerful features.   Bestselling Java author and trainer, Paul Anderson uses carefully chosen examples to demonstrate how reflection works without getting bogged down in the complexities often associated with this API.  Each key concept is explained and illustrated with source code listings that demonstrate how you can use reflection to solve real problems.  Key topics include discovering classes, interfaces, fields, constructors, methods, and arrays. Other topics discussed include creating objects, creating arrays, and working with fields.  This LiveLesson also covers generic parameterized types, annotations, and dependency injection. After completing this LiveLesson, you'll be able to write more flexible code that takes full advantage of the Java Reflection model.
+
+Java Reflection LiveLessons Video Training:
+http://www.informit.com/store/java-reflection-livelessons-video-training-downloadable-9780133038101

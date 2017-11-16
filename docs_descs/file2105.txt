@@ -1,0 +1,3 @@
+The video looks at using methods inside of its own class.  It then looks how helper methods fit this description and are also private.  
+
+**We would also like to thank the students in the classroom who laid on the floor and moved on their backs to help us with the demonstration**

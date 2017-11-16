@@ -1,0 +1,1 @@
+java program for finding whether the integer in an array is palindrome or not.

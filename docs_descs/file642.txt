@@ -1,0 +1,12 @@
+Using IntelliJ IDEA CE 10.5.2 to make smooth animation in applet:
+- how to create applet project in IntelliJ IDEA
+- how to draw circles on the applet
+- how to create animation loop in applet using Thread
+- how to create Circle inner class
+- how to create and maintain a list of circles using ArrayList 
+- how to implement double buffering technique
+- how to make circles smooth by turning the antialias on
+
+Code: http://code.google.com/p/paul-gramming/source/browse/ 
+Project : AnimApplet
+IDE: IntelliJ IDEA

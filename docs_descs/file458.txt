@@ -1,0 +1,1 @@
+This tutorial covers many of the practical operations that we can perform on Strings via their methods. Thanks for watching!

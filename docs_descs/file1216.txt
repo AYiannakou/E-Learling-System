@@ -1,0 +1,2 @@
+Introduction to Compound operators.
+This video includes slides, code demos and some challenges to try for yourself

@@ -1,0 +1,7 @@
+Practicing with arrays and loops in Java, in this tutorial we will use the while and for loops to travel through an array, also access it's size and elements.
+__
+Thank you for watching this video, if you like it please don't forget to like it, 
+or subscribe to my channel for more programming tutorials
+---
+also visit my website for more content
+http://betacoding.net

@@ -1,0 +1,11 @@
+http://xoax.net
+
+Lesson Page:
+http://xoax.net/web/crs/java/lessons/Lesson9/
+
+This Java video tutorial examines the nature and uses of relational operators in Java. A relational operator is an operator that takes two values and evaluates whether they fulfill the specified relationship. If so, the boolean value true is returned. Otherwise, the operator returns false.
+
+Please submit all questions to our forum:
+http://xoax.net/forum/
+
+Copyright 2013 XoaX.net LLC

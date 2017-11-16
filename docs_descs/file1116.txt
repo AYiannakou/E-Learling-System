@@ -1,0 +1,3 @@
+The final way to run through a process at very efficient and dynamic speeds, is the do loop. The do loop executes at least one time before quitting or reaching the base statement.
+
+Please subscribe, and visit [ http://www.tigertutorials.com ] Thank You!

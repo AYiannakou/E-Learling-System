@@ -1,0 +1,1 @@
+This introduction covers some of the most basic methods and how to construct an ArrayList.

@@ -1,0 +1,3 @@
+This video is the 8th in a series of videos which show a progression of an FPGA based Wireless Data Acquisition System.
+
+This is a software application which takes in serial (RS-232) data and displays it in real-time on the PC.  The serial data is first sent from the FPGA to a wireless transmitter.  The receiving end is responsible for amplification and formatting.  The resultant signal is fed into the PC's serial port.   The video is best explained in the presentation slides and report on the project site: http://www.ece.utk.edu/~ddarby/index.php?level_0=Projects&level_1=Hardware&level_2=Wireless+DAQ+System .

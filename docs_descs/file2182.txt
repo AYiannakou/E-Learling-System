@@ -1,0 +1,98 @@
+Hello everyone, I am Mr. Programmer - once known as
+Canownueasy. This tutorial will show you the uses of ArrayLists in
+Java. I will disclose some examples with ArrayLists. This video is
+video number 1 in the Using ArrayLists in Java series.
+
+ First, I will open the Eclipse IDE. Using the Eclipse IDE is
+NOT required - you may choose any IDE (or no IDE) to program. From
+personal preferance, Eclipse IDE provides the most amount of features,
+and less annoying visual designs and a much faster (and less detailed)
+graphical user interface (GUI). On the other hand, the Netbeans IDE
+provides a visual Swing Framework IDE.
+
+ I'm going to now create a new project. I will title it
+"Example". For more information about creating a new project in 
+Eclipse see my other video.
+
+ Let's create a new class "Loader". This class will serve as
+the main and only class in the program. Please note, this is JUST an
+example class to demonstrate the use of arraylists.
+
+ First, let's import the arraylist class. You will notice that
+Eclipse underlines it in yellow. This is the result of a WARNING.
+Warnings serve to remind developers that their code is dead, not
+properly done, and much more. You can compare warnings to grammatical
+notices in Microsoft Word which are underlined in green.
+
+ Now, we need to make a static main method that accepts
+arguments. Any class that has this type of method can serve as the
+loader or main class.
+
+ Time to create an arraylist. Since we won't have any other
+classes in this example project, I am going to make it private.
+Private is a Java modifier that only allows limited - or PRIVATE
+access to the object. I'm going to call my arraylist "friends".
+
+ Inside the semibraces defines the type of fields the arraylist
+can contain. I chose String as the list will contain friend's names.
+
+ Next, I want to look at options I have to do with my arraylist.
+You can always look at options of code by entering a period. Eclipse
+uses intellisense and displays what you can do.
+
+ For example, I want to add my friend "Johnathan" to the list.
+I can do that using the add method.
+
+ The add method has an Object parameter. The object must be
+the type of field your arraylist can hold. The arraylist can contain
+more than one of the same content so I can have 2 "Jonathan" friends.
+
+ Let's just say I had an argument with Jonathan, and I'm not
+friends with him anymore, I can use the remove method. The same
+rules apply for removing as adding.
+
+ Every "friend" inside the arraylist is an element. If I were
+dealing with cell phone contacts, and I don't remember if I have a
+number on the list, I can use the contains method.
+
+ The contains method is a boolean. If the list contains an
+element equivalent to the contains parameter, it will return true.
+Otherwise, it will return false.
+
+ If we wanted to find our best friend, we could use the get
+method. Arraylists have "slots" that can also be called "compartments".
+Each slot has an identification number starting from 0.
+
+ I'll create a new String variable and get slot 2 from friends.
+Since we don't have 3 friends on our list, I'll add some more friends
+"Nathan", "Jimmy", and "Peter".
+
+ Let's test our program out.
+
+ Nothing happens - well at least that is what appears to the
+user. We need to show the user what is going on, so I am going to
+print out to the system all the elements or "friends" in the list.
+
+ Now, as we see, the console shows the list of friends.
+Notice the brackets surrounding the elements. To remove these we
+can make a String method that replaces the brackets with nothing 
+and returns back the new String.
+
+ Just modify the code to print out the friends list after
+the brackets have been replaced.
+
+We also need to convert the friends to a String.
+ 
+ Now, the console shows the list of friends without the
+brackets.
+
+ If a user wanted to see which friend is your favorite,
+you can print out twice.
+
+ The user can now see all of the elements in the list and
+see the selected element.
+
+ This video is video number 1 in the using arraylists in
+Java series.
+
+ See the description for captains, thanks.

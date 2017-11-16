@@ -1,0 +1,1 @@
+After watching this, you'll learn how to use 2D arrays. This will be useful when working with GUI.

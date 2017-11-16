@@ -1,0 +1,12 @@
+Java video tutorial in Eclipse (ArrayList):
+
+Import package, use methods add(), get(), indexOf(), isEmpty()...
+
+java.util Class ArrayList: http://docs.oracle.com/javase/7/docs/api/java/util/ArrayList.html
+
+One small Java Hashtable example: http://eee.pri.ee/Hashtable.jpg
+
+Deep Space by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Artist: http://audionautix.com/ 
+
+Java tutorial ArrayList

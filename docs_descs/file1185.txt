@@ -1,0 +1,1 @@
+Este vídeo contempla una manera sencilla y sin uso de frameworks, cómo llenar un elemento HTML select, con un ArrayList que viene desde un Servlet.

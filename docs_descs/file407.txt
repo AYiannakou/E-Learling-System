@@ -1,0 +1,7 @@
+Download PPT and Example from
+http://java9s.com/core-java/java-arrays-tutorial
+This is a video tutorial on Java Arrays. This explains the concepts of array creation, length, Two dimensional Arrays, Multidimensional arrays, Object arrays
+java array length
+java multidimensional arrays
+java array initialization
+java array example

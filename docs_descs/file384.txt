@@ -1,0 +1,1 @@
+Episode 3: Welcome to this new Video series of JAVA tutorials. This series will teach you the bare basics of JAVA programming. In this episode we talk about how to use dot operators for Strings, which will do certain actions for the String values

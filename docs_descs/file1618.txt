@@ -1,0 +1,19 @@
+GitHub repo with examples https://github.com/SleekPanther/java-math-improved-round
+Java enables you to do almost anything, especially tasks involving numbers. But sometimes complicated calculations give you an answer with way too many decimals.
+Most practical applications only require a few decimals. Here are 3 ways to round number in Java:
+
+1) Using Math.round()
+Java's Math class is inherently included in every program you create so there is not need for an import statement. The round() method takes a number as an argument and rounds that number to the nearest integer. On it's own this isn't spectacularly helpful but you can combine it with an easy little trick.
+Inside the parentheses of the round method, multiply your number by a power of 10. Then outside the parentheses, divide by the same power of 10. The number of zeros after the '1' is the number of decimals you will have. For example: rounding to two decimals looks like this: Math.round( number * 100)/100.0; ONE OF THE NUMBERS MUST HAVE .0 AFTER IT OR JAVA WILL PERFORM INTEGER DIVISION!
+
+2) Using System.out.printf()
+The printf method is similar to print, but allows you to format the variables. The 'f' in 'printf' stands for format. To print a variable rounded to 2 decimal places the code is System.out.printf( "%.2f", number); The % symbol tells java that what comes next is a formatted variable. The The %f is replaced with the 'number' variables and the '.2' tells Java to display 2 decimals. Change the number after the period to the number of decimals you want.
+NOTE: The printf method doesn't change the actual contents of the variable. After using printf, the variable still has all the decimals.
+
+3) Using DecimalFormat
+The DecimalFormat class must be imported by the statement:  import java.text.DecimalFormat;
+Then create a reference variable to a DecimalFormat object: DecimalFormat dFormatter and set it equal to: new DecimalFormat();  In the parentheses, place "0.00" or "#.##" to round to 2 decimals. Add more zeros of ##'s after the period to change the number of decimals.
+To round the variable, type: dFormatter.format(number)   This uses the format() method of the DecimalFormat class to display the number the way you specified.
+DecimalFormat formats variables as strings, so if you want to use a number for calculation you have to parse it back to double or float.
+
+Download TextPad, you can use it for free http://www.textpad.com/download/index.html

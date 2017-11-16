@@ -1,0 +1,13 @@
+The split() method is a very useful tool for parsing strings. In the signature above, the first parameter is named regex and that is significant; regex is an abbreviation for regular expression and you will hear the term regex used quite often. Regular expressions deserve an entire mini-tutorial series on their own, so I will just use a basic regex parameter for this tutorial. The split() method is overloaded and has two different signatures. The split(String regex) returns an array of strings that are separated by a delimiter. For example,
+String s = "Apple-Banana-Orange-Pear-Watermelon";
+String fruits[] = s.split("-"); // parse strings in between the dash character
+for(String temp :fruits ) {
+        System.out.println(temp); // display array elements to the console
+}
+
+The split(String regex, int limit) returns an array of strings that are separated by a delimiter, the second parameter specifies the max number of elements in the array. This method will most likely not work as you might expect, the last element of the array will contain all the rest of the entire string. For example,
+String s = "Apple-Banana-Orange-Pear-Watermelon";
+String fruits[] = s.split("-", 3); // parse up to 3 strings in between the dash character
+for(String temp : fruits ) {
+        System.out.println(temp); // display array elements to the console
+}

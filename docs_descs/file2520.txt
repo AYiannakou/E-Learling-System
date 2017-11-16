@@ -1,0 +1,8 @@
+TAKE THE QUIZ FOR THIS VIDEO!: http://freetechtorials.com/java_quizzes/javaQuiz5.php
+
+In this tutorial we look at how to code and use methods.  We talk about why methods are useful and a time saver in programming.  We also talk about the new line character "\n" and the difference between the .print() and .println() methods.
+
+Follow me:
+http://freetechtorials.com
+https://twitter.com/Freetechtorials
+https://plus.google.com/104119834968255254020

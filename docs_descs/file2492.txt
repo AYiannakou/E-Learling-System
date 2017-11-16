@@ -1,0 +1,4 @@
+This method shows how to use the built in substring method in java
+
+This is a video response to the question about how to break a four word sentence into individual words
+http://www.youtube.com/watch?v=v1UNmoR0p2g

@@ -1,0 +1,5 @@
+In this tutorial we explore the arraylist data structure.
+
+Find all my tutorials at: http://indev0r.tk
+Follow me on Twitter: @Indev0r
+Check out my blog: http://indev0r.tumblr.com

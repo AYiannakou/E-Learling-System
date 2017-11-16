@@ -1,0 +1,1 @@
+Java Interface is a contract between implementer and user of the class.  We will explore the theory and deep dive into source to understand the interface.

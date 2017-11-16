@@ -1,0 +1,15 @@
+Java's serialization algorithm,How Java serialization works interview
+ It writes out the metadata of the class associated with an instance.
+    It recursively writes out the description of the superclass until it finds java.lang.object.
+    Once it finishes writing the metadata information, it then starts with the actual data associated with the instance. But this time, it starts from the topmost superclass.
+    It recursively writes the data associated with the instance, starting from the least superclass to the most-derived class.
+
+Top Keyword
+serialization
+java serialization
+java serialization tutorial
+Java Serializable interface: Reading and writing Objects to a file Tutorial
+why do we need java serialization job java interview question
+Object Serialization Lesson - Java
+How Java serialization works interview
+Serialization 1 - Introduction

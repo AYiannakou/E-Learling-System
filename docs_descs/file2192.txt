@@ -1,0 +1,55 @@
+Recommend Books :
+
+1. Head First Java : http://amzn.to/2owFrf0
+2. Java Complete Reference : http://amzn.to/2osY04k
+
+Types of loop in java:
+for loop
+while loop
+do while loop
+Types of loop in java:
+for loop
+The for statement provides a compact way to iterate over a range of values. Programmers often refer to it as the "for loop" because of the way in which it repeatedly loops until a particular condition is satisfied. 
+while loop
+The while statement continually executes a block of statements while a particular condition is true
+do while loop
+ Do while loop is similar to the While loop, but it evaluates the boolean condition after executing the block of the statement.
+visit our website : www.telusko.com
+
+facebook page : https://goo.gl/kNnJvG
+
+google plus : https://goo.gl/43Fa7i
+
+
+
+Subscribe to the channel and learn Programming in easy way.
+
+
+
+Java Tutorial for Beginners: https://goo.gl/p10QfB
+
+C Tutorial Playlist : https://goo.gl/8v92pu
+
+Android Tutorial for Beginners Playlist : https://goo.gl/MzlIUJ
+
+XML Tutorial : https://goo.gl/Eo79do
+
+Design Patterns in Java : https://goo.gl/Kd2MWE
+
+Socket Programming in Java : https://goo.gl/jlMEbg
+
+Spring MVC Tutorial : https://goo.gl/9ubbG2
+
+OpenShift Tutorial for Beginners : https://goo.gl/s58BQH
+
+Spring Framework with Maven : https://goo.gl/MaEluO
+
+Sql Tutorial for Beginners : https://goo.gl/x3PrTg
+
+String Handling in Java : https://goo.gl/zUdPwa
+
+Array in Java : https://goo.gl/uXTaUy
+
+Java Servlet : https://goo.gl/R5nHp8
+
+Exception Handling in Java : https://goo.gl/N4NbAW

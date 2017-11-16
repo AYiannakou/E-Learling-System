@@ -1,0 +1,5 @@
+Arrays are very essential to the next step of higher level programming. You'll find yourself using these a lot.
+Enjoy!
+
+Start at the beginning:
+http://www.youtube.com/watch?v=kBc7qpo8ttk

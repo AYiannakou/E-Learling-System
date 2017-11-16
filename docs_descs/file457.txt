@@ -1,0 +1,21 @@
+Até agora aprendemos quais são os 8 tipos de dados primitivos em Java mas nenhum deles nos permitia armazenar frases, palavras ou melhor dizendo conjunto de caracteres.
+Strings nos permitirá fazer exatamente isso.
+
+
+Participe do nosso fórum de perguntas:
+http://goo.gl/CaUnq
+
+===========CONECTE-SE COM O CANAL===========
+FACEBOOK - fb.com/DeAlunoParaAluno
+Blog - http://dealunoparaaluno.wordpress.com/
+TWITTER - twitter.com/AlunoParaAluno
+GOOGLE + - http://goo.gl/rUJzN
+=============================================
+
+
+
+==============NOSSOS PARCEIROS==============
+BLOG DE CÓDIGO:
+Site - http://blogdecodigo.wordpress.com/
+Facebook - fb.com/BlogDeCodigo
+=============================================

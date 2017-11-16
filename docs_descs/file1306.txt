@@ -1,0 +1,14 @@
+In this beginners video tutorial you will learn the concept of methods, how to create and use them in java programming language in detail with example.
+
+This video lecture starts with explaining the concept of methods in java and then teaches how to create and use methods, what is the use of them, where they can be used in detail with example.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

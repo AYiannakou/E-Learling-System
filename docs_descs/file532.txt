@@ -1,0 +1,8 @@
+Get the video training here: http://www.informit.com/store/product.aspx?isbn=9780137131136
+
+This is a sample clip from the following product: 
+Java Fundamentals I and II will show you everything you need to know to start building robust, powerful software with Java SE. This collection provides 14+ hours and $2,000 (USD) worth of expert Java training!
+
+Your instructor, Paul Deitel, has personally taught Java at organizations ranging from IBM to Sun Microsystems to NASA. With the powerful videos included in thisLiveLesson, you'll learn at your own pace as Deitel guides you through Java's fundamentals, object-oriented programming, and event-driven programming.
+
+Deitel's signature "live-code" approach shows you the correct ways to use Java, right from the start. And you'll learn in the best possible way: through complete, working programs containing thousands of lines of fully tested Java program code. After mastering the basics--classes, objects, methods, and much more--you'll move on to master professional-quality techniques, from inheritance and polymorphism to exception handling and user interface development.

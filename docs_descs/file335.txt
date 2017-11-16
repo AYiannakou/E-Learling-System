@@ -1,0 +1,5 @@
+The Secure Coding Initiative at the CERT/Coordination Center offers training in secure coding in the C and C++ languages.  For more information see www.cert.org/secure-coding
+
+Copyright 2007 Carnegie Mellon University
+
+Legal Disclaimer.  This video and all related information and materials ("materials") are owned by Carnegie Mellon University.  These materials are provided on an "as-is" basis without any warranties and solely for your personal viewing and use.  You agree that Carnegie Mellon is not liable with respect to any materials received by you as a result of viewing the video, or using referenced web sites, and/or for any consequences or the use by you of such materials.  By viewing, downloading and/or using this video and related materials, you agree that you have read and agree to your terms of use (http://www.cert.org/legal_stuff/).

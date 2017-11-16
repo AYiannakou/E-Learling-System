@@ -1,0 +1,9 @@
+In this tutorial, I introduce a powerful feature of object-oriented programming: inheritance.
+
+Inheritance allows you to have one class "inherit" the variables and methods of another. This help promotes code reuse, because common code is refactored to parent classes. It also helps keep your classes light weight and manageable.
+
+All objects in Java extend the class Object. One thing I didn't touch on in this video is the notion of inheritance hierarchies. For example, even though our Child extends Parent, our parent still extends Object, so the full hierarchy is:
+
+Object - Parent - Child
+
+Thus Child "is-a" Parent, and also "is-a" Object.

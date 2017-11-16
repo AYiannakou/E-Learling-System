@@ -1,0 +1,7 @@
+Java Array Tutorial for beginners - 3.  2D Arrays 
+
+Visit https://www.youtube.com/playlist?list=PLBBog2r6uMCTJ5JLyOySaOTrYdpWq48vK for our best java tutorials. Visit http://www.rithus.com for more.
+9. 2D Arrays
+9.1 Ragged 2D Array
+9.2 Accessing elements from 2D array:
+9.3 Looping a 2D array Tutorial for beginners with examples, Interview Questions and Concepts. Udemy

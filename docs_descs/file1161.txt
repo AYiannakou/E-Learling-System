@@ -1,0 +1,1 @@
+Learn 6 ways to iterate items in Java ArrayLists: for loop, enhanced for loop, while loop, Iterator, ListIterator, and Java 8 streams.

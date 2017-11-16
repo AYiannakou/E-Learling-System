@@ -1,0 +1,1 @@
+Spring Tutorial 40 - Returning Other Datatypes from JdbcTemplate

@@ -1,0 +1,17 @@
+Launch Your First Android app with our TOP course at 82% OFF (24 hrs ONLY) HERE https://goo.gl/7veBXc
+"Learn How To Design + Code A Complete App From Scratch To Playstore" 
+âž¨ https://www.youtube.com/watch?v=aWGGZCOHZ1k
+-~-~~-~~~-~~-~-
+
+This Java Tutorial video shows an example of method overriding by taking a superclass, Cycle and a subclass Bicycle and using a printInfo() method in both the super class and subclass. When a subclass object calls printInfo(), a subclass version of that method is used
+
+OUR WEBSITE
+http://slidenerd.com
+
+OUR SOCIAL LINKS
+https://www.facebook.com/groups/AndroidProgramming/
+Follow us on
+http://google.com/+slidenerd
+http://facebook.com/slidenerd
+https://twitter.com/slidenerdtech
+http://pinterest.com/slidenerd

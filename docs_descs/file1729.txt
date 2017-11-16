@@ -1,0 +1,7 @@
+This video explains in detail what are array indices and the restrictions on them. It also discusses about multi dimensional arrays (2d array) and easier ways of initializing using Array Initializer. 
+
+More details at http://java.meritcampus.com/t/36/Array___accesing_using_indices
+http://java.meritcampus.com/t/33/Multi_dimensional_array
+http://java.meritcampus.com/t/37/Array___initializer
+
+Original HD video can be downloaded at http://java.meritcampus.com/s/48/Array_indices,_multi_dimensional_array,_array_initializer

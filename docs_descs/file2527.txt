@@ -1,0 +1,1 @@
+Why do we use hashmaps? How do we use them? Such questions have been answered in this tutorial.

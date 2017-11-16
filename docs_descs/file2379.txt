@@ -1,0 +1,1 @@
+This is the continuation of the multidimensional arrays series from the last video.  We are going to learn how to make 3-dimensional array this time.

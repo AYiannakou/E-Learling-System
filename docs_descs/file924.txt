@@ -1,0 +1,5 @@
+1. Declare an array in java
+2. Initialize (assign a value to each array slot)
+ 2.1 LOOP and prompt for user input to initialize array
+
+3. Display or access a value of each array slot

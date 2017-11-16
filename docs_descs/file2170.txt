@@ -1,0 +1,2 @@
+When an equation is evaluated in java, it's done from left to right. But operator precedence is given before evaluation. For example, if there are multiplications involved then they are evaluated before addition or subtraction.
+Also java arithmetic behaves like normal math, so + and + will become +. - - will become + and - + will become -.

@@ -1,0 +1,11 @@
+This is a Java tutorial on printing, retrieving input, and transforming it into a String. I know this is very basic, but I have more advanced lessons coming. 
+
+Let me know if you like it, and contact me for any help/info. 
+myspace.com/sircedric888
+or 
+just message me through youtube, I will get back to you.
+
+You should have JDK 5.0, because I will teach about user input through a Scanner class. 
+Please rate
+
+Sorry, some technical errors made me create this in 3 videos.

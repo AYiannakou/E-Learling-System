@@ -1,0 +1,1 @@
+Here we look at how to manipulate variables, and change their values. ParticularlyJava as concerned with arithmetic.

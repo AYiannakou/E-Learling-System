@@ -1,0 +1,1 @@
+Sometime people write weird code that confuses readers. This is an example of a tricky For Loop question that loops infinitely. I've walked through the execution step by step to show why it's looping infinitely.

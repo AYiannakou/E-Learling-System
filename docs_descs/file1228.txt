@@ -1,0 +1,1 @@
+In this lesson we cover variables, datatypes and the assignment statement. We also take a look at arithmetic operators and the ternary operator. In Netbeans I'll show you how to step through your code a line at a time and set watches on variables.

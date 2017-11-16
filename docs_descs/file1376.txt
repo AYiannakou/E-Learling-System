@@ -1,0 +1,1 @@
+This lesson introduces iterative structures focusing on the for loop. We'll start with concepts like incrementing, loop control variables and exit conditions and finish up the lesson with a series of examples which use the for loop in various ways. I trace through the examples a line at a time so you can see the repetitive nature of the loop!

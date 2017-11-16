@@ -1,0 +1,1 @@
+tutorial showing how to print every element of an arraylist in java

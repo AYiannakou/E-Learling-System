@@ -1,0 +1,1 @@
+This video looks at how the methods nextInt() and nextDouble are used with the Scanner Class.

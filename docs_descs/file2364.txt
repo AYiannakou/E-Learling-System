@@ -1,0 +1,4 @@
+Arrays in Java, this video covers the following topics:
+1) Arrays in Java
+2) Multidimensional Arrays in Java
+3) Array resizing

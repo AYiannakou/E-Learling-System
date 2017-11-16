@@ -1,0 +1,5 @@
+SUSCRIBETE : http://goo.gl/IiPNSy
+Facebook: http://www.facebook.com/codejavu
+Blog: http://codejavu.blogspot.com/
+
+En este vídeo veremos que son los ArrayList en Java, usaremos los métodos básicos para agregar, consultar, eliminar entre otros que nos proveen los ArrayList....

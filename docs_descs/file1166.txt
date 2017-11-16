@@ -1,0 +1,2 @@
+Was ist eine ArrayList in Java?
+Wie programmiert man sie?

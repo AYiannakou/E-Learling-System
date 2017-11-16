@@ -1,0 +1,6 @@
+Code: https://github.com/a-r-d/java-1-class-demos/blob/master/streams-and-fs-access/examples/VideoWhileIntegerCheck.java
+
+A Java example that shows reading input from a user with Scanner class, inside of while loop, inside of try catch, until the value is valid. 
+
+Code for class:
+https://github.com/a-r-d/java-1-class-demos

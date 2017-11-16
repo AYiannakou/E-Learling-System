@@ -1,0 +1,1 @@
+main method in JAVA - Why is it Public, Static and Void.

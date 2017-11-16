@@ -1,0 +1,1 @@
+Iris is an online photo browsing, editing and slideshow application. It is a smashup of Java Applets and next generation web concepts.

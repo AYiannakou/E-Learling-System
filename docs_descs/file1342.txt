@@ -1,0 +1,15 @@
+This is a video tutorial on how to generate random numbers in Java, using the Math.random() method. This video explains on a very basic way how to use the function and generate a number in between any range of numbers.
+
+I leave the code of this program, and you can compile it and run it using the name RandomNumbers.java when you save the file.
+The code is the following: 
+
+
+public class RandomNumbers{
+ public static void main( String args[] ){
+   System.out.println( "A random number is: " + Math.random( ) ); 
+   System.out.println( "A random number between 0 and 10 is: " + 10 * Math.random( ) );
+   System.out.println( "A random number between 50 and 60 is: " + 10 * ( 5 + Math.random( ) ) );
+ } 
+}
+
+Any doubts, questions or commentaries, feel free to suscribe and post them in the comment section below...

@@ -1,0 +1,8 @@
+In this Java tutorial we will learn what "return" means in java when programming methods.  Sometimes we need a method to return a value for us, for example if we create a character for a game and we forget the characters name, we could create a method that returns the name of that character for us.  So far we have only learned about methods that are void, or they don't return anything, but this video will cover the topic of returning something, whether that be a String, int, boolean value, or whatever else we would like it to return.
+
+Learn more about this tutorial and get the source code in our blog post:
+http://bit.ly/183fhGS .
+
+Visit Our Friends @ Stone River E-Learning for Additional Tutorials - http://bit.ly/1fjsXTn
+
+Coupon 20% Off HTML & CSS for Beginners - http://bit.ly/1MmuYfw

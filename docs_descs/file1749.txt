@@ -1,0 +1,13 @@
+In this c++ / cpp programming video tutorials / lecture for beginners video series, you will learn about the 2 dimensional and  multidimensional arrays in detail with example.
+
+You will learn what is a two dimensional array,how to declare a two dimensional array,how to initialize a two dimensional array,how to retrieve the values from a two dimensional array in detail with examples.
+
+Visit http://www.LearningLad.com to get the SOURCE CODE of this tutorial and to watch more free computer programming video tutorials.
+
+Learn Programming in HINDI at our youtube channel
+http://www.youtube.com/user/LearningLadHindi
+
+Other pages of LearningLad
+http://www.facebook.com/LearningLad
+http://www.google.com/+LearningLad
+http://www.twitter.com/LearningLadEdu

@@ -1,0 +1,6 @@
+تطبيق بسيط وسهل جدا فقط يفرق بين الارقام الزوجية والفردية التي يدخلها المستخدم, شرح لكيفية كتابة خريطة التدفق والكود الخاص بها 
+For more lessons and practicing, check the complete course at our website http://codemasry.com/pro/april13
+
+You can practice more on this lesson by doing programming assignment http://codemasry.com/media/pro/april13/files/Assignment%202%20-%20Decision_1.pdf
+
+And submit your solutions online! http://codemasry.com/pro/april13/assignments

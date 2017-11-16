@@ -1,0 +1,4 @@
+Power of Java
+05/20/05
+
+A retrospective on Java on its 10th birthday.

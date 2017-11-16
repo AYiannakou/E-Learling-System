@@ -1,0 +1,1 @@
+This episode will show you the operation and application of integers when writing in Java.

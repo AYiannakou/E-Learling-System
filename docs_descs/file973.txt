@@ -1,0 +1,14 @@
+http://effectsdude79.com
+
+Links:
+Java 
+http://java.com/en/
+
+Java JDK
+http://www.oracle.com/technetwork/java/javase/downloads/java-se-jdk-7-download-432154.html
+
+Eclipse 
+http://www.eclipse.org/downloads/packages/eclipse-classic-37/indigor
+
+First Video in the series:
+http://www.youtube.com/watch?v=L-yLMxTz-y0

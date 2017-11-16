@@ -1,0 +1,1 @@
+Accessing ADF Binding Layer from Java

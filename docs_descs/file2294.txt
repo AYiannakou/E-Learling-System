@@ -1,0 +1,1 @@
+Describes how to use the generic ArrayList class from the Java Collections library.  Download source-code from http://java.martincarlisle.com

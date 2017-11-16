@@ -1,0 +1,2 @@
+Get the full course at: http://www.MathTutorDVD.com
+In this lesson, you will learn how to define a class and create instances of that class (called objects) in the Java programming language.

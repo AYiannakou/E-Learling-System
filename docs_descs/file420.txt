@@ -1,0 +1,1 @@
+In this video we cover arrays, constructors, and the JVM. You will be learning about array capacities, how constructors are used, and defining components which are statically bound to the JVM.

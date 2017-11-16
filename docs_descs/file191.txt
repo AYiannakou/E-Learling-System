@@ -1,0 +1,6 @@
+Mapplets: Making Maps Mashups Discoverable
+Presented by James Macgill
+
+Thousands of Google Maps mashups have been created in the two years since we released the Google Maps API, but most of these sites are islands of information and few users know that they exist. We will discuss an approach to make these sites more discoverable by users around the world. More details will be provided at Developer Day. 
+
+James Macgill holds a PhD from the University of Leeds in the UK where he worked on innovative spatial analysis techniques. James subsequently worked as deputy director of the Centre for Computational Geography at Leeds on a variety of geospatial research initiatives. Among those was the foundation of the open source GeoTools library, a Java GIS toolkit for developing standards compliant solutions which now powers a number of other open source geospatial projects including GeoServer and uDIG. Before moving to Google in 2005, James was a Senior Researcher at the Penn State GeoVISTA Center, working on research in geovisualization methods and tools.

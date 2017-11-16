@@ -1,0 +1,1 @@
+In this lesson we cover the ins and outs of creating your own methods / functions in Java. We'll discuss the basic anatomy of a method declaration, return types, public/private/static members, and parameters. Code examples will demonstrate calling methods, how arguments are passed by value and variable scope.

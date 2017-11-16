@@ -1,0 +1,1 @@
+In this tutorial of java programming what i will be teaching you is Objects and Classes. Java is a Object Orientated Programming language and it is very useful. Knowing about Objects and Classes is a very extremely important thing to know.

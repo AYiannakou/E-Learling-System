@@ -1,0 +1,2 @@
+The building blocks of the HashMap data structure within Java Collection Framework (JCF).
+Please visit http://www.fadelk.com/files/Resources/252/YouTubeMaterials/HashMap01.pdf for lecture materials

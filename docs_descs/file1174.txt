@@ -1,0 +1,1 @@
+An einer Beispielaufgabe werden die ArrayList-Methoden add() und set() demonstriert.

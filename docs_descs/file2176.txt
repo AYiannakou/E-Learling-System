@@ -1,0 +1,1 @@
+In this java tutorial you will  learn how to use string variables

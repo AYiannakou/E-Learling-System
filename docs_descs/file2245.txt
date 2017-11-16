@@ -1,0 +1,3 @@
+In Java, Arrays are like pockets of data (and every other language). Imagine having a coat, and that coat had 25 pockets, the coat would be an array, and the pockets are the slots that can hold different values. This makes collecting and managing data a lot easier than having hundreds of separate variables.
+
+http://jream.com

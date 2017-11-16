@@ -1,0 +1,1 @@
+The video looks at the String Class method charAt.  It details its uses and pitfalls.  It also introduces the index out of bounds exception and how it applies to the method.

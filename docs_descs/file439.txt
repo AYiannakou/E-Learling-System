@@ -1,0 +1,1 @@
+Intro to arrays.  Find out how you can store multiple values in a variable.  What is an index and what is an element? ICS 3U chapter 10

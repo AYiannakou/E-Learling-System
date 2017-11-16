@@ -1,0 +1,8 @@
+The constructor helps us to "construct" or build objects, such as setting some initial variables, methods, etc.  This Java tutorial will show you how to build and use a constructor.
+
+Get the source code and more information about this video tutorial in the blog post:
+http://bit.ly/ZtLaSY .
+
+Visit Our Friends @ Stone River E-Learning for Additional Tutorials - http://bit.ly/1fjsXTn
+
+Coupon 20% Off HTML & CSS for Beginners - http://bit.ly/1MmuYfw

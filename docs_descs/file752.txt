@@ -1,0 +1,5 @@
+Código: http://bit.ly/1CNfRGp
+
+En este video cubrimos las operaciones básicas con Strings, length, convertir a mayusculas y minúsculas, charAt, equals e equalsIgnoreCase.
+
+Síganme en twitter! http://twitter.com/nicolasrojas

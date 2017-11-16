@@ -1,0 +1,14 @@
+You will learn 5 differences between Hashmap and HashTable.
+
+HashMap and Hashtable both are used to store data in key and value form. Both are using hashing technique to store unique keys.  This question is generally asked in java intereview to check whether candidate understand correct usage of collection classes and has knowledge of alternative solutions.
+
+Major questionis, When to use HashMap and Hashtable?
+
+1. Single Threaded Application
+HashMap should be preferred over Hashtable for the non-threaded applications. In simple words , use HashMap in unsynchronized or single threaded applications .
+
+2. Multi Threaded Application
+We should avoid using Hashtable, as the class is now obsolete in latest Jdk 1.8 . Oracle has provided a better replacement of Hashtable named ConcurrentHashMap. For multithreaded  application prefer ConcurrentHashMap instead of Hashtable.
+
+
+Also Watch Java Collections API Video Series here : https://www.youtube.com/watch?v=QqqLhOuv_v4&list=PLqrRs5DI6ahPtQUFI2YaMaMlmA83iOyw4

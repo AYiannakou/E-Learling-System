@@ -1,0 +1,22 @@
+Java Programming tutorial:java classes and objects tutorial.What are classes and Objects in JAVA
+Become a Java Programmer:http://mytutorialrack.com/java-programming-tutorial-for-beginners-java-developer-course/
+
+Checkout my website: http://mytutorialrack.com/
+connect me on facebook: https://www.facebook.com/tutorialRack/
+Follow me on twitter: https://twitter.com/dkhanna14790
+
+In this tutorial we will learn about JAVA class and Objects. A class in java is  a template from which objects are created. Class is a blue print whereas objects are the real time entities.A entity that has state and behaviour. Object is also called an instance of the class.Class in java contains method,variables and constructor. We will learn about each of these in our upcoming tutorial. 
+Answers to the following queries:
+java classes
+java classes and objects tutorial
+java classes for beginners
+java classes and methods
+java class tutorial
+java classes objects and methods
+java class and object tutorial
+java class methods
+java class and object
+java class and methods
+java abstract class and interface
+java class for beginners
+java class class

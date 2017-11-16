@@ -1,0 +1,4 @@
+Java Tutorial for Array of Objects.
+In the Java programming language, array is an object and is dynamically created.
+An array object contains a number of variables.
+Array is basically collection of Similar type of elements called the component type of the array.

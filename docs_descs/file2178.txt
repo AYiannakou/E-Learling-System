@@ -1,0 +1,1 @@
+In diesem Videotutorial wird gezeigt wie man mit dem Datentyp String in Java umgeht. String ist jetzt eigentlich kein normaler Datentyp sondern eine eigene Klasse von Java.

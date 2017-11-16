@@ -1,0 +1,3 @@
+This video will show you how to use trim() method to trim or to remove unwanted spaces given before beginning of String or after the end of String in Java
+
+For more tutorials visit: http://www.step2know.com

@@ -1,0 +1,1 @@
+In this tutorial I explain the class ArrayList in detail. Go to http://java8course.com for additional material like the slides, a pdf, exercises and other videos.

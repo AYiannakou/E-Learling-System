@@ -1,0 +1,1 @@
+This the lesson where we'll learn to create and use our own classes. We'll talk about constructors, overloading methods, public and private members and the importance of encapsulation to control the state of objects in your class. In our example we will create a dice roller in Java.

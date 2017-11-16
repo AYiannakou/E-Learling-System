@@ -1,0 +1,2 @@
+Exemplo de serviço JINI
+Eclipse - Inca X plugin

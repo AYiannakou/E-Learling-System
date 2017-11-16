@@ -1,0 +1,22 @@
+This tutorial will talk about another one of java's amazing loops, the for loop.  This tutorial will about how we can tell the loop where to start, what condition we want to check and what we want our loop to do at the very end.
+
+
+Source code | Additional Info for this tutorial:  http://bit.ly/1891YVp
+Hit us up on G+, facebook, or twitter!
+
+Follow us!
+-------------
+Google +: http://bit.ly/1b6FeRV
+Facebook: http://on.fb.me/11sX40j
+Twitter: http://bit.ly/ZuuI4Y
+-------------
+Jake's G+ = http://bit.ly/14yuNTD
+Travis's G+ = http://bit.ly/11iPctT
+
+------------
+
+Donate: http://bit.ly/110go1C .
+
+Visit Our Friends @ Stone River E-Learning for Additional Tutorials - http://bit.ly/1fjsXTn
+
+Coupon 20% Off HTML & CSS for Beginners - http://bit.ly/1MmuYfw

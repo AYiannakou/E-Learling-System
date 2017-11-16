@@ -1,0 +1,1 @@
+Illustration de l'emploi de la méthode charAt de la classe String.

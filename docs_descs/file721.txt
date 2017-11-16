@@ -1,0 +1,1 @@
+The video looks at the method indexOf from the String class.  It shows what is returned with indexOf if an item is or is not found within a String.

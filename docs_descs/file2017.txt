@@ -1,0 +1,4 @@
+print repeated characters string java,
+print duplicate characters in a string java,
+how to print duplicate characters from string in java,
+remove duplicate characters from string in java

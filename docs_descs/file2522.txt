@@ -1,0 +1,7 @@
+In this tutorial, we build on our understanding of inheritance by introducing abstract classes and abstract methods.
+
+An abstract class is a class that exists purely to be extended. You can not create an instance of an abstract class.
+
+An abstract class may have abstract methods. Abstract methods provide no implementation. They only provide the method signature (return type, name, and parameters). Any class that then extends the abstract class must provide an implementation for any abtract methods it inherits (unless that class is also abstract).
+
+Another important note from this video is that the type of a variable determines the interface for the object it refers to (what you can do with it). For example, if we refer to Player by type GameObject, we are not able to call any methods specific to Player on that instance (unless we cast it to Player). This is something that we're likely to see more of in future tutorials.

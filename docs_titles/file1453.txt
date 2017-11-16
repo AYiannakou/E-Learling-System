@@ -1,0 +1,1 @@
+Equals and hashcode contract

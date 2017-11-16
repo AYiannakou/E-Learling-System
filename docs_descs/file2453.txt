@@ -1,0 +1,5 @@
+In this screencast Java tutorial, you will learn how to write while and do loops in the Java programming language.
+
+UPDATE: Batky-Howell has transitioned our online video content to our sister company Learn by the Byte.  Learn by the Byte has created a 20 hour Introduction to Java Programming online training course which you can watch the first few hours on free on Youtube.  Use this link to access the playlist: http://www.youtube.com/playlist?list=PLZon9z32m_RhzpuA-LSEslX-vs4gTLqE-
+
+If you wish to purchase the full online Java training course, you can do so at Udemy.com.  Use this link to get 10% off your purchase: https://www.udemy.com/introduction-to-java-programming/?couponCode=LBTB10OFF.

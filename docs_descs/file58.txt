@@ -1,0 +1,5 @@
+This is a Tutorial , waht shows you , 
+how to create a small Programm with C++
+and with Strings.
+
+*sry , but my english isn´t very good , im german :D*

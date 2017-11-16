@@ -1,0 +1,7 @@
+http://www.tempestchess.com/
+http://kungfuchess.com
+Play the free multiplayer game
+
+A presentation of the Java program kfc_mplayer emulation the game concept of Kungfuchess
+
+Kungfuchess (Realtime chess) is a modification of the boardgame chess. You can move your pieces anytime you want instead of waiting for your opponent. The game is easy to learn and is much more dynamic than the traditional chessgame as you know it.

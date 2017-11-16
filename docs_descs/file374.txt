@@ -1,0 +1,19 @@
+in this vedio we will learn how to create and use strings in our program and how to concinate strings in java
+public class stringdemo{
+ public static void main(String args[]){
+ String str ;
+ str = "this is the first string";
+ 
+ String str2 = new String("this is string two");
+ 
+ String str3 = "third string";
+ 
+ System.out.println(str);
+ System.out.println(str2);
+ System.out.println(str3);
+ 
+ String combine = str + str2 + str3;
+ System.out.println(combine);
+
+}
+}thats the code sample we r making in the vedio

@@ -1,0 +1,20 @@
+Method overloading is known as compile time polymorphism.
+We need to know what is polymorphism?
+Polymorphism is so easy guys, its nothing but
+Code reusing and avoiding complexity.
+Code reuse is someone has written a code and we use it by calling that method and so that we avoiding complexity in knowing  how the code has been written.
+
+Constructors : is a special method that is used to initialize a newly created object and is  called just after the memory is allocated for the object
+ 
+It can be used to initialize the objects ,to required ,or default values at the time of object creation.
+
+It is not mandatory for the coder to write a constructor for the class
+
+STATIC : Static is a keyword and we use it because we need some information in our program to be constant and we should not change instantly. Like some variables in our program can be declared as static and those variables behave globally. 
+
+SUPER : Super keyword is always used in inheritance concept.
+We super keyword in order to access super class variable, methods, function or any stuff of super class in subclass.
+
+ABSTRACT : abstract is a keyword. Abstract methods will not have body in it and we can also declare a class as abstract. For example we have written a class and some methods in it are abstract, when anything inside a class is abstract the whole class should be declared as abstract.
+
+Final : Final is a keyword in java and we can use this keyword with variables, classes and methods.

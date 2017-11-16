@@ -1,0 +1,35 @@
+In this lesson we'll look at how to define and use attributes in your Java classes.  These attributes can belong to either the class or the object, so we'll discus what that means and how you define it.  We'll also introduce behavior using a new concept called methods. By the end we should know how to create Java class methods and variables, and have our Duck class quacking!
+
+Transcript and code: http://www.deegeu.com/java-class-methods-and-variables/
+
+This video is part of a larger free online class called Free Java Course Online.  You can find more information about this class on http://www.deegeu.com/free-java-course-online/.
+
+Concepts: Java, Programming, create class java, oop, object oriented programming, java class methods and variables, java methods, java variables, java classes
+
+Next Video: "Java packages" on DeegeU.com
+
+Tools Used:  http://deegeu.com/java-tools
+
+Social Links: Don't hesitate to contact me if you have any further questions.
+WEBSITE : dj@deegeu.com
+TWITTER : http://www.twitter.com/deege
+FACEBOOK: https://www.facebook.com/deegeu.programming.tutorials
+GOOGLE+ : http://google.com/+Deegeu-programming-tutorials
+
+About Me: http://www.deegeu.com/about-programming-tutorial-videos/
+
+Related Videos:
+
+Free Java Course Online
+https://www.youtube.com/playlist?list=PLZlGOBonMjFVq9FF0eiS_emcFmP-0fSBe
+
+If You Watch 1 Playlist About Java Classes Watch this One!
+https://www.youtube.com/playlist?list=PLZlGOBonMjFXy0JzMIFQKw7BfhWdPivKM
+
+Media credits:  All images are owned by DJ Spiess unless listed below
+
+Duck Icon
+http://www.cloudclipart.com/clipart/animal-clipart/farm-animals-clipart/duck-clipart/ducky-icon-detail
+
+Moss with eyes
+http://www.gratisography.com/pictures/160_1.jpg

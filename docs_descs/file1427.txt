@@ -1,0 +1,1 @@
+This video explain what is HashMap, How to write the simple example using Key as Integer and Value as String type objects

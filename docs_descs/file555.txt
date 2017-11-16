@@ -1,0 +1,14 @@
+This video describes what is method overriding and some basic concepts of java.
+A method is said to be overridden when one is in parent class and another is in child class with the same name, same return type, same parameter.
+
+In my example there are two classes animal and cat. Animal class is know as super class and Cat is subclass. Both the classes has same method name and there output is different. We have to write an other class to create an object. We have created two objects of both the classes and we are calling those methods using the reference variables that is a and c.
+That is a.talk();
+a.food();
+c.talk();
+c.food();
+My program output is 
+meo...meo
+Drink Milk
+Height 10 with 0 errors.
+
+Always please make sure that when u save the file, main class name should be used. functionOverride.java, later compile the program and run it.

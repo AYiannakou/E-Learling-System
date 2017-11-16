@@ -1,0 +1,4 @@
+A Helping Hand - Real Time Java
+08/20/07
+
+An exploration into how Real Time Java goes beyond mere calculation to provide a true helping hand in real-life situations. (12:00)

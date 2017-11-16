@@ -1,0 +1,1 @@
+Array (vetor) do tipo String no JAVA!

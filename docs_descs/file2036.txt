@@ -1,0 +1,1 @@
+Java array is an object the contains elements of similar data type. 3D array are collections of 2D arrays.  In 3D array data is stored in row and column based index (also known as matrix form).

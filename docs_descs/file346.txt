@@ -1,0 +1,16 @@
+what do you think? 
+----------
+
+Wegner (1996) says:
+Objects are interactive agents that provide services to their clients not expressible by algorithms.
+
+This is ironic. In the 1960's and 1970's there were sceptics who said that computers couldn't do human-like computations (such as compose music). Now we have Wegner setting the bar much lower, saying that simple well known computations, such as operating a banking system, are not "algorithms".
+
+You must be joking, Mr Wegner. Algorithm and computation are synonymous.
+
+However, maybe the meaning of Wegner's comments is that we do not need to have people dreaming up theories in isolation. We could do better by interacting with each other. We could have a better life if people interacted more. Is his real target "managerialism", and is his writing about Turing machines a coded form of this?
+
+
+
+Richard Mullins
+portal0001@lycos.com

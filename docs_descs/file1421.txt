@@ -1,0 +1,5 @@
+SUSCRIBETE : http://goo.gl/IiPNSy
+Facebook: http://www.facebook.com/codejavu
+Blog: http://codejavu.blogspot.com/
+
+En este video continuaremos con la secuencia sobre estructuras de datos, ahora trabajaremos con el HashMap en Java

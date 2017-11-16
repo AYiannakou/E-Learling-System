@@ -1,0 +1,25 @@
+Diese Tutorials sind für Leute die noch nie programmiert haben und es gerne lernen wollen. Die Programmiersprache die hier behandelt wird ist Java.
+Ich werde von Grund auf alles erklären und jeweils Aufgaben bereit stellen damit ihr das im Video erklärte selbst ausprobieren könnt.
+Zur Playlist: http://www.youtube.com/playlist?list=PLCg8xlSVyP1o82Fe5bjLBJOKfTv9JSc-Q
+- - - - - - - - - - - - - - - - - - - -
+In dieser Folge geht es um den Datentyp 'char' der ein Zeichen als Wert (engl. character) bekommt, sowie Arrays die eine Menge von Werten eines bestimmten Datentyps in sich halten (z.B.: int[] für eine Menge von Zahlen).
+- - - - - - - - - - - - - - - - - - - -
+Aufgaben:
+
+Aufgabe 3.0
+Schau dir dieses Programm an: http://pastebin.com/XwzTWawN
+
+Das Programm tauscht mit Hilfe einer Variable temp 2 Zeichen eines char Arrays.
+Kopiere die main-Methode in eine neue Klasse. Erweitere das Programm so, dass am Ende Bleistift statt Beilstift im Array steht. Dafür sollen ebenfalls Zeichen im Array vertauscht werden. 
+Nicht erlaubt sind direkte Zuweisungen von charactern wie: 
+myArray[2] = 'e'; 
+
+Aufgabe 3.1
+schreibe ein neues Programm das ein String-Array (String[]) verwendet um deine Adressdaten zu speichern. Auf Index 0 wird der Vorname eingetragen, auf Index 1 der Nachname, 2: Straße, 3: Hausnummer, 4: Postleitzahl. Das Programm soll dann Die Kontaktdaten im Array auf der Konsole ausgeben. Dabei soll eine Zeile für den kompletten Namen und eine Zeile für die Anschrift verwendet werden.
+
+Aufgabe 3.2
+Schau dir dieses Programm an: http://pastebin.com/7ajd3Kyf
+Welche Werte müssen dort für a,b,c,d,e,f gewählt werden damit das Programm den Satz "Hey, my name is David!" ausgibt?
+
+Lösungen:
+http://pastebin.com/rRNLadkq

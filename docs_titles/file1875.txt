@@ -1,0 +1,1 @@
+java program for finding the element in an integer array is odd or even

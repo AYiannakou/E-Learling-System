@@ -1,0 +1,17 @@
+Map interface
+
+elements adding as key, value pair
+
+key - unique
+values - may be same, duplicates allowed
+
+Map interface include
+- HashTable
+- HashMap - unordered
+- LinkedHashMap - ordered based on insertion
+- TreeMap - Key based ordering
+
+Syntax
+
+
+when we are inserting duplicate keys , it will override

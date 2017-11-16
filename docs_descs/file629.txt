@@ -1,0 +1,10 @@
+Curso completo de Java aquí ► http://bit.ly/CursoJava
+
+En este video tutorial veremos como crear arreglos bidimensionales o matrices, para que sirven y cómo los podemos utilizar en Java.
+
+Síguenos en Twitter: http://twitter.com/codigofacilito
+"Like" en Facebook: http://facebook.com/codigofacilito
+Suscríbete en YouTube para seguir al tanto con los video tutoriales: http://bit.ly/qHEewR
+
+Twitter de Jorge: http://twitter.com/jorge_vgut
+Sitio de Jorge: http://codigoprogramacion.com/

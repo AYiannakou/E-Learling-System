@@ -1,0 +1,5 @@
+Wenn Sie das Interface »Comparable« implementieren, können Sie Collections sortieren. Das bietet sich beispielsweise dann an, wenn Sie häufig in einer großen Liste suchen müssen.
+--
+Dieses Video ist ein Auszug aus dem Training »Einstieg in Java« von Galileo Press. Weitere Infos finden Sie unter http://www.galileo-videotrainings.de/2346
+
+Kontakt zu Ralf Bensmann: http://www.galileo-videotrainings.de/ralf-bensmann/trainer/

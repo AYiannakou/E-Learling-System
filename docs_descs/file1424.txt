@@ -1,0 +1,2 @@
+Java : Collection Framework : HashMap (Add User-Defined Object).
+JavaEE Tutorials and Sample code - Click here : http://ramj2ee.blogspot.in/

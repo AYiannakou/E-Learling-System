@@ -1,0 +1,5 @@
+In this tutorial, I will teach you how to create methods in Java classes and how to create an object of class. Using that object to call the method.
+
+If you have any question please do send me an message.
+
+Please Rate Comment and Subscribe.

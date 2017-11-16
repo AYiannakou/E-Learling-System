@@ -1,0 +1,43 @@
+Tutoriales de programacion en java
+tutoriales java en español 
+En este video se explican los requisitos y expectativas del curso para aprender el lenguaje de programación JAVA.
+El curso sera llevado con el editor Eclipse pero es completamente análogo si usas cualquier otro editor como el Neatbeans
+
+La primer parte del curso consta de 15 videos por lo que abajo encontraran la lista de los temas para facilitar su navegación por el curso de JAVA.
+
+1. Introducción al curso 
+2. Instalación de JDK (java development kit), installation Eclipse y primer programa (Hola Mundo)
+3. Importar class Scanner (lectura de datos por teclado) y Variables
+4. Condicional if 
+5. Ciclo While (introduction a bucles de programación)
+6. Ejercicios de refuerzo (while - if)
+7. Estructura repetitiva for
+8. Ejercicios bucle for - Tabla de multiplicar
+9. Estructura repetida Do - While
+10. Menu de Opciones - Ejercicio Do - While
+11. Controlador de Casos Switch 
+12. Variables String - Cadenas de caracteres 
+13. Conceptos de lo que es una Clase (Class)
+14. Metodos de la programación Orientada a Objetos (POO)
+15. Arreglos dimensionales - Vectores  
+
+
+--------------------------------------------
+
+Información del tutor del curso 
+https://www.youtube.com/user/ERICK3173102207
+https://plus.google.com/u/0/112075817969453128206/posts
+
+--------------------------------------------
+
+agrégame a gmail 
+https://plus.google.com/u/0/111448051178117760532/posts
+
+visita nuestra web
+creatusjuegosdecero
+http://creatusjuegosdecero.webege.com
+
+
+------------------------------------------------
+
+Java es un lenguaje de programación orientado a objetos desarrollado por Sun Microsystems a principio de los años 90´s.

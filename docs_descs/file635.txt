@@ -1,0 +1,1 @@
+This lecture covers the concepts of COLLECTIONS and the Java.Util.* package. Some examples of creating ArrayList, LinkedList and Hashsets are included. Java data structures and their use is also over viewed.

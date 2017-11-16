@@ -1,0 +1,1 @@
+This is a basic introduction to how classes and objects work in Java.  This video is geared towards students of ITIS-1212 at the University of North Carolina at Charlotte but (hopefully) can be understood by anyone else who needs a broad description and example of Java classes and their objects

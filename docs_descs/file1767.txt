@@ -1,0 +1,94 @@
+Java Programming tutorial: How to write a while and Do while loop in JAVA
+Become a Java Programmer:http://mytutorialrack.com/java-programming-tutorial-for-beginners-java-developer-course/
+
+Checkout my website: http://mytutorialrack.com/
+connect me on facebook: https://www.facebook.com/tutorialRack/
+Follow me on twitter: https://twitter.com/dkhanna14790
+
+In this tutorial we will talk about Loops. When you want to execute block of code multiple number of times, we need Loops. There are three important loops in java : while loop, do while  loop and for loop. for loop is the most common used loop in java.
+
+jwhile and do while in javascript
+while and do while programs in java
+difference between while and do while javascript
+difference between while and do while in java with examples
+while loop and do while loop in java example
+difference between while and do while loop java
+while and do while java
+do while java android
+do while java array
+difference between while and do while java
+do while java break
+do while java boolean
+difference between while and do while in java with example
+diff between while and do while in java
+difference between while and do while in javascript
+similarity between while and do while in java
+difference between while and do while loop in java
+difference between while and do while loop in java with example
+do while java beispiel
+do while java code
+do while java continue
+do while java code example
+do while java char
+compare while and do while loop in java
+do while java como usar
+do while java contador
+while and do while difference java
+javadocs do while
+do while java deutsch
+while do while en java
+java while and do while examples
+do while java exercise
+do while java exception
+do while java exit
+while y do while en java
+while e do while em java
+while e do while java
+do while java ejemplo
+while do while for java
+do while java for string
+do while java factorial
+difference between for while and do while loop java
+do while java gui
+do while java guj
+do while java galileo
+how does while and do while loops work in java
+while and do while in java
+while and do while loop java
+do while java loop example
+do while java meaning
+do while java menu
+do while java netbeans
+do while java oracle
+example of while and do while loop in java
+do while java pseudocode
+do while java password
+do while java questions
+do while java que es
+while and do while statements in java
+javascript do while
+do while java string
+java do while stack overflow
+do while java switch
+do while java scanner
+do while java sample program
+do-while java scope
+do while java tutorial
+do while java uso
+while vs do while java
+while vs do while javascript
+while and do while in java with example
+do while java yes or no
+while y do while java
+do while java youtube
+do while java yahoo
+do while java ya
+while y do while javascript
+diferencia while y do while java
+while y do while en java ejemplos
+12) compare while and do..while statements in java
+for while and do while loops java
+for while do while javascript
+do while java 7
+do while java 8
+do while java 99乘法

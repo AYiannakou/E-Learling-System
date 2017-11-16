@@ -1,0 +1,1 @@
+The visualizer is only enabled to give viewers an idea of what is going on behind the scenes. In an actual deployment, this visualizer would not appear allowing the site implementing the SlapVid system to keep their user experience while reducing bandwidth costs.

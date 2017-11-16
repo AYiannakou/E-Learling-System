@@ -1,0 +1,3 @@
+Seguimos viendo el tema de los Arrays en Java. En esta ocasión vemos los Arrays de dos dimensiones, su sintaxis y cómo recorrerlos con bucles for. 
+
+Para más cursos, ejercicios y manuales visita: http://www.pildorasinformaticas.com

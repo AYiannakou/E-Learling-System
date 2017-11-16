@@ -1,0 +1,2 @@
+In this tutorial:
+How to create patterns using Loops

@@ -1,0 +1,11 @@
+Video 06 - Algoritmia en Java
+
+https://sites.google.com/a/uniquindio.edu.co/java/
+
+NO ES UN CURSO DE PROGRAMACIÓN ORIENTADO A OBJETOS
+
+Este ejemplo pretende ilustrar:
+- El uso de variables
+- Entrada de datos numéricos (int)
+- Calculo de datos
+- Impresión de resultados

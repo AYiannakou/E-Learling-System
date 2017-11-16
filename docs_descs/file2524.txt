@@ -1,0 +1,2 @@
+Get complete courses at http://courses.caveofprogramming.com
+How to use maps in Java. Maps are basically lookup tables that allow you to quickly retrieve objects based on keys. For instance, you can use maps to quickly retrieve "Person" objects via name, if you have a collection of personnel details in your application. This is much faster than iterating through a list looking for the right object.

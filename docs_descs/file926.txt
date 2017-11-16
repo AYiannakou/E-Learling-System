@@ -1,0 +1,1 @@
+Write a program to Accept 10 Numbers then Display Numbers into Reverse.

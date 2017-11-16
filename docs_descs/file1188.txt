@@ -1,0 +1,9 @@
+This video covers how to remove Particle objects from an ArrayList while using a Particle System.
+
+Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section3
+
+Example: https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_02_ArrayListParticles
+
+Help us caption & translate this video!
+
+http://amara.org/v/QbwI/

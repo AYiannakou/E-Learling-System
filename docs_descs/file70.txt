@@ -1,0 +1,2 @@
+http://www.ScriptSocket.com/ 
+Part 8 of the Perl Tutorial explains looping arrays with the foreach loop.

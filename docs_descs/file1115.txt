@@ -1,0 +1,7 @@
+In this tutorial we look at the three main types of loops in Java: the while loop, the do-while loop, and the for loop.
+
+The debugger is also introduced. It allows us to see exactly how Java executes loops.
+
+There is another form of the for loop that is shorthand for iterating over every element of a collection that will be covered in the future.
+
+You can also achieve similar looping functionality using something called recursion, which will also be covered in the future.

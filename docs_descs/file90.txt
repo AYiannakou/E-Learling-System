@@ -1,0 +1,1 @@
+Creare una serie di vermi (tratti) disegnabili sullo schermo che ad ogni rilascio del mouse "prendono vita" e rimbalzano sullo schermo

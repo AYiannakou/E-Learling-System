@@ -1,0 +1,7 @@
+This video contains the following things:
+
+1. What is Java Array?
+2. How to declare Java Array?
+3. Example of Java Arrays
+4. Java 2D Array Example
+5. Printing Java Arrays

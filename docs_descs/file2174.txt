@@ -1,0 +1,7 @@
+In this tutorial:
+- Strings and string indexes
+- .indexOf
+- .substring
+- .charAt
+- .length
+- Using + with strings

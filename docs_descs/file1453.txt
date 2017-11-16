@@ -1,0 +1,3 @@
+What happens when equal objects do not have equal hashcode?
+The objects will cause bugs when used with hash-based collections.
+All hash based operations will depend on default hashcode implementation that will return unique hashcode for each object - and hence hashmap will not be able to look up keys, hashset will allow duplicates. In this video I demonstrate this.

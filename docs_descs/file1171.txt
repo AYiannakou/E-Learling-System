@@ -1,0 +1,1 @@
+In this video I`ll show you how to use Collections API. And we`re gonna use ArrayList to iterate through objects and print them to the console.

@@ -1,0 +1,8 @@
+En esta ocación veremos un método para ordenar objetos de tipo List como un ArrayList o LinkedList, primero ordenaremos un ArrayList de Strings y luego uno de Personas. Para esto nos guiamos en el API de Java que es una gran ayuda a la hora de programar.
+Vemos conceptos como la clase Collections, metodo sort, interface Comparable y el método compareTo.
+
+n_n  SUIGEME EN LAS REDES SOCIALES  n_n
+
+Sigueme en Twitter ► https://twitter.com/ElRinconDelProg
+Me gusta en Facebook ► https://www.facebook.com/pages/El-rinc%C3%B3n-del-programador/274131006123223
+Correo ► elrincondelprogramador@outlook.com

@@ -1,0 +1,13 @@
+Most important topic in java and for Selenium which will help you to write effective scripts.
+
+In this video following points have been covered.
+
+1- Java class , method and object definition.
+2- Syntax to create class, object and methods.
+3- Calling methods using object.
+4- Calling static methods using Class name.
+
+-~-~~-~~~-~~-~-
+Please watch: "How to Handle Element is Not Clickable at Point Exception in Selenium Webdriver" 
+https://www.youtube.com/watch?v=XNwcGNLk3cE
+-~-~~-~~~-~~-~-

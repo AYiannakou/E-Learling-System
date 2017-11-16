@@ -1,0 +1,2 @@
+Learn the basics of how HashMaps work and why they are useful for certain applications. Discover how you can use Maps and Hash Tables when dealing with large data sets. These "super arrays" are really not that complicated on the surface which is where we will be starting.
+     Code: https://skydrive.live.com/redir?resid=D4629BC8D856F7D5!268&authkey=!AMHcArG7IZwuW10

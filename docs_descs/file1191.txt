@@ -1,0 +1,9 @@
+There are many methods in the ArrayList class that have advanced parameter list types and/or return types. I will tackle those methods on an individual basis. In this tutorial I will demonstrate how to use some of the simple common methods of the ArrayList class.
+
+   + boolean contains(Object o) - returns true if an element contains the object argument.
+   + E get(int index) - returns the element at the index argument.
+   + int indexOf(Object o) - returns the index of the first occurance of the object argument.
+   + boolean isEmpty() - returns true if the ArrayList has no elements.
+   + int lastIndexOf(Object o) - returns the index of the last occurance of the object argument.
+   + E set(int index, E element) - replaces the element at the index with the second parameter object.
+   + int size() - returns the number of elements in the current ArrayList instance.

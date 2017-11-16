@@ -1,0 +1,1 @@
+In this tutorial I explain how to write a simple Java class complete with constructors and methods. Everything is done on the command line.

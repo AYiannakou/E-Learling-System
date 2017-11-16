@@ -1,0 +1,1 @@
+Neste video demonstro a classe HashMap, que implementa a interface Map, e alguns de seus metodos.

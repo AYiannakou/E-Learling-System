@@ -1,0 +1,1 @@
+A simple example using the methods of the Integer type

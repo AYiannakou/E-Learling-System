@@ -1,0 +1,5 @@
+A interface Iterator define uma maneira de percorrer coleções. Isso é necessário porque, em coleções diferentes de List, não possuímos métodos para pegar o enésimo elemento. Como, então, percorrer todos os elementos de uma coleção?
+
+hasNext: retorna um booleano indicando se ainda há elementos a serem percorridos por esse iterador;
+next: pula para o próximo elemento, devolvendo-o;
+remove: remove o elemento atual da coleção.

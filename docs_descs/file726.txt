@@ -1,0 +1,1 @@
+Nesta aula você irá aprender como Criar e Manipular  Strings

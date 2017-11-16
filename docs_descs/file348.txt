@@ -1,0 +1,7 @@
+Here is a few seconds video showing a little software I wrote at the first approaching to the JSyn libraries.
+
+It has the Theremin's control mode, but very very simply implemented by the mouse movement.
+
+From left to right (on the X axis) the intensity of sound increases; the same is for the Y axis, but here I've placed two complementary oscillators: as the first increases the sound frequency going from bottom to top, the second oscillator does the opposite.
+
+Enjoy :P

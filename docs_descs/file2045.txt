@@ -1,0 +1,1 @@
+In a two-dimensional, or "2D," array, the elements can be arranged in rows and columns. Each element in the 2D array must by the same type, either a primitive type or object type.

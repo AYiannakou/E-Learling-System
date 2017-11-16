@@ -1,0 +1,1 @@
+In this video you are introduced to the object-oriented concepts of polymorphism and abstraction. You will learn the foundations of grouping objects under a single polymorphic parent, as well as learning to create hierarchies with abstract classes.

@@ -1,0 +1,7 @@
+I use the word function interchangeably with method in this video (out of habit--methods in Java are called functions in other languages).
+
+This tutorial covers the basics of writing and calling methods. We show examples of methods that return a value, take arguments, and methods that simply do some task that requires neither a return value or arguments passed.
+
+Why use additional methods when you can just put everything inside of main? Methods allow for abstraction, easy code reuse, and allow you to utilize scope.
+
+I'm not completely satisfied with this tutorial, and may redo it in the future. Let me know if any parts are particularly confusing for you so that I can be clearer if do it again.

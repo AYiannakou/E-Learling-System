@@ -1,0 +1,1 @@
+Episode 5: Welcome to this new Video series of JAVA tutorials. This series will teach you the bare basics of JAVA programming. In this episode we talk about certain relational operators used to compare numbers, chars, and strings(.compareTo(), .equals()), then we get right into the Conditional Statements of: if(), else, and else if().

@@ -1,0 +1,3 @@
+This video demonstrates how to use Eclipse to generate standard class methods. The methods generated include constructors, setters and getters, toString, hashValue, and equals. The Javadoc comments are also generated.
+
+The mouse action is Right Click your Code | Source . From here read the menu and select the appropriate action.

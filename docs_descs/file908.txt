@@ -1,0 +1,1 @@
+Übung: Ein eindimensionales Array in Java programmieren und die Werte mit einer Schleife ausgeben. Alle Materialien auch auf http://www.informatikzentrale.de

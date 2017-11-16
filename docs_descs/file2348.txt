@@ -1,0 +1,1 @@
+Methods (or functions) are explained with return types and parameters

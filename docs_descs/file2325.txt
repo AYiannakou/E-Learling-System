@@ -1,0 +1,3 @@
+Breaking down the string into character array and than using multiplication,addition and power of functions .
+ 
+ ( This is not recommended but this can be very useful for interviews )

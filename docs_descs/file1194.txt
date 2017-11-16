@@ -1,0 +1,5 @@
+Pueden seguir el curso completo desde www.capa8.tv
+
+En esta clase aprenderemos a trabajar con arrays en Java.
+
+Además, aprenderemos a trabajar con ArrayList, y sus métodos add y size. También veremos cómo crear un ArrayList tipo objeto.

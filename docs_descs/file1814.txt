@@ -1,0 +1,4 @@
+上一集已經教了 While Loop 的第一種用法，今集就進入 While 的第二種用法，在程式中稱為 Do While，未詳細分別兩種的差異之前，先來了解清楚 Do While 的運作。
+
+Facebook 教學主頁：
+https://www.facebook.com/SoftwareSurfing

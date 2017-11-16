@@ -1,0 +1,1 @@
+Strings in Java Script are primitive type values. We can instantiate a String object that wraps a string primitive value.

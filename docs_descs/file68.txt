@@ -1,0 +1,5 @@
+This is the intro video to the series of Java programming tutorials that I have created.
+
+For the rest of the series, and hi-res versions check out:
+
+http://www.20papercups.net

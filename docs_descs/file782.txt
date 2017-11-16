@@ -1,0 +1,5 @@
+The valueOf() method is a great tool for converting primitive data types and character arrays into string values. The valueOf() method is overloaded and has nine different signatures. I will use each of the various flavors of this method in the code example, but I will explain how it works using the valueOf(int i) overload. All of the valueOf() overloaded methods are static; a static method can be directly invoked without creating an instance by using the ClassName.methodName() syntax. You can create an instance of the string class to invoke the method if you like, but it is much easier to get the return value by invoking the method directly.
+For example,
+int a = 956, b = 1045;
+String title = String.valueOf(a+b) + ": A Space Odyssey";
+System.out.println(title); // 2001: A Space Odyssey

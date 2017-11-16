@@ -1,0 +1,5 @@
+A project for my computer science class, we had to create code to resemble the action of giving change with a given amount of money, or input.
+The different coins and dollar bills acted as different integers, and the number you'd input was a double rather than an int. (That way you can enter in any number you want up to 3 decimals). It will calculate the amount of input, or money, and output the amount of change. (EX: $21.26 = One Twenty, One One, One Quarter, and One Penny.)
+I received some help on a loop statement from a friend of mine that is about to enter his 2nd Quarter at Neumont University. A college I plan on going to next July!! :) 
+I am extremely excited and cant wait to graduate high school.
+Credit to Mind things for the music!! :)

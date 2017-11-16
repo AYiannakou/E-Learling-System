@@ -1,0 +1,4 @@
+Diagrama de flujo y programa en Java sencillo para sumar dos números.
+
+Cambios:
+Se anexa un do while para hacer las sumas que el usuario desee.

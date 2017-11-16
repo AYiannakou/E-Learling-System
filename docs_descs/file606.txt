@@ -1,0 +1,30 @@
+Nessa aula você irá aprender como:
+- Atribuir todos os membros de um vetor com um específico valor com Arrays.fill()
+- Atribuir uma determinado intervalo de um vetor com um específico valor com Arrays.fill()
+- Obter o tamanho de um vetor utilizando uma propriedades de vetores em Java. vetor.length
+- Diversas maneiras de se inicializar um vetor.
+
+Link para download código fonte - http://wp.me/p3dCUj-8v
+
+Se você estiver aprendendo com as vídeo aulas não deixe de curtir e favoritar o vídeo. Isso ajuda muito o canal a crescer! Valeu!!!
+
+=========POSTE SUAS DÚVIDAS NO FÓRUM:========
+- http://goo.gl/bVuG6
+
+
+===========CONECTE-SE COM O CANAL===========
+FACEBOOK - fb.com/DeAlunoParaAluno
+Blog - http://dealunoparaaluno.wordpress.com/
+TWITTER - twitter.com/AlunoParaAluno
+GOOGLE + - http://goo.gl/rUJzN
+=============================================
+
+
+
+
+
+==============NOSSOS PARCEIROS==============
+BLOG DE CÓDIGO:
+Site - http://blogdecodigo.wordpress.com/
+Facebook - fb.com/BlogDeCodigo
+=============================================

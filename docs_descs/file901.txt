@@ -1,0 +1,1 @@
+This program shows you how to read user input into an array list and then output it.

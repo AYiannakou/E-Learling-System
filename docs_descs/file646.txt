@@ -1,0 +1,128 @@
+Android hat SQLite als vorinstallierte Datenbank. Das Turorial zeigt, wie die Datenbank erzeugt und ausgelesen wird. Der Sourcecode der Hilfsklasse (Achtung, die Grösser- und Kleiner-Zeichen bei "List String" musste ich ersetzen, weil Youtube diese Zeichen nicht erträgt) : 
+
+ package ch.geo.datenbank;
+
+ import android.content.Context;
+ import android.database.Cursor;
+ import android.database.sqlite.SQLiteDatabase;
+ import android.database.sqlite.SQLiteOpenHelper;
+ import android.database.sqlite.SQLiteStatement;
+ import android.util.Log;  
+ import java.util.ArrayList;
+ import java.util.List;
+ public class DbHilfsklasse { 
+     private static final String DATABASE_NAME = "muster1.db";
+     private static final int DATABASE_VERSION = 1;
+     private static final String TABLE_NAME = "tab1";
+
+     private Context context;
+     private SQLiteDatabase db;
+
+     private SQLiteStatement insertStmt;
+     private static final String INSERT = "insert into " 
+        + TABLE_NAME + "(name) values (?)";
+
+     public DbHilfsklasse(Context context) {
+        this.context = context;
+        OeffnenHelfer oeffnenHelfer = new OeffnenHelfer(this.context);
+        this.db = oeffnenHelfer.getWritableDatabase();
+        this.insertStmt = this.db.compileStatement(INSERT);
+     }
+
+     public long insert(String name) {
+        this.insertStmt.bindString(1, name);
+        return this.insertStmt.executeInsert();
+     }
+
+     public void deleteAll() {
+        this.db.delete(TABLE_NAME, null, null);
+     }
+
+     public List  &lt;String&gt;   selectAll() {
+        List&lt;String&gt; list = new ArrayList&lt;String&gt;();
+        Cursor cursor = this.db.query(TABLE_NAME, new String[] { "name" }, 
+          null, null, null, null, "name desc");
+        if (cursor.moveToFirst()) {
+           do {
+              list.add(cursor.getString(0)); 
+           } while (cursor.moveToNext());
+        }
+        if (cursor != null && !cursor.isClosed()) {
+           cursor.close();
+        }
+        return list;
+     }
+
+     private static class OeffnenHelfer extends SQLiteOpenHelper {
+
+      OeffnenHelfer(Context context) {
+           super(context, DATABASE_NAME, null, DATABASE_VERSION);
+        }
+
+        @Override
+        public void onCreate(SQLiteDatabase db) {
+           db.execSQL("CREATE TABLE " + TABLE_NAME + "(id INTEGER PRIMARY KEY, name TEXT)");
+        }
+
+        @Override
+        public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
+           db.execSQL("DROP TABLE IF EXISTS " + TABLE_NAME);
+           onCreate(db);
+        }
+     }
+}
+
+
+
+Souce Code der Aktivity:
+
+package ch.geo.datenbank;
+
+import java.util.List;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.widget.TextView;
+
+public class Aktivitaet extends Activity {
+ 
+ private TextView output;
+ private DbHilfsklasse dh;
+ 
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+        
+        //finden der Referenz auf textView1
+        this.output=(TextView)this.findViewById(R.id.textView1);
+        
+        //Hilfsklasse als Member der Aktivitaet instantiieren
+        this.dh = new DbHilfsklasse(this);
+        
+        //alle Zeilen der Datenbank löschen
+        this.dh.deleteAll();
+        
+        //Einfügen von DB-Zeilen
+        this.dh.insert("Ron Smith 2");
+        this.dh.insert("Hans Guckindiluft 2");
+        
+        //alles Auslesen (select * from tabelle)
+        List &lt;String&gt; namen = this.dh.selectAll();
+        
+        //String Builder erzeugen (variabler String)
+        StringBuilder sb=new StringBuilder();
+        
+        //Zusammensetzen des StringBuilders
+        sb.append("Namen in der Datenbank: \n");
+        
+        //erweiterte for Schleife
+        for (String name:namen){
+         sb.append(name+ "\n");
+        }
+        
+        //Ausgabe auf Element namens output
+        this.output.setText(sb.toString());
+        
+    }
+}

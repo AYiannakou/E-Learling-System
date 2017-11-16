@@ -1,0 +1,14 @@
+In this video tutorial for beginners you will learn about the usage of foreach loop along with arrays in java programming language with example.
+
+You will learn what is the use of for each loop, what is the syntax of it, how to use it with arrays, what is the advantage of using it with arrays in detail with examples.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

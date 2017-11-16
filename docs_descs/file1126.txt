@@ -1,0 +1,3 @@
+This is my 7th Java Beginner tutorial. In this episode, I talk about while loops and if statements.
+
+P.S. I finally figured out how to get 1080p, for people who were having trouble seeing the code. A setting had been changed in my video editing software.

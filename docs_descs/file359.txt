@@ -1,0 +1,2 @@
+Get complete courses at http://courses.caveofprogramming.com
+A tutorial on using Strings in Java from caveofprogramming.com, plus a quick review of how to create a Java application in Eclipse.

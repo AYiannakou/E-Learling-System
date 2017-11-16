@@ -1,0 +1,1 @@
+Se explica la estructura do while, algunas consideraciones para tener en cuenta y la comparación con el ciclo while con un ejemplo muy sencillo.

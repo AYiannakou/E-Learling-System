@@ -1,0 +1,2 @@
+Get complete courses at http://courses.caveofprogramming.com
+A tutorial on the DAO design pattern. This is the first part of DAO stuff; there'll be more next time.

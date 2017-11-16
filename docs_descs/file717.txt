@@ -1,0 +1,17 @@
+Strings and Chars both play a similar role in the Java programming language. But how do we know when to use one or the other? This video tutorial should explain the pros and cons of both, and give you a good idea of which one to use and how they can be used in unison with each other. 
+
+-------- Footnotes--------
+We highly suggest you leave us any comments or feedback that would aid in bettering the production of these tutorials. Additionally, subscribing to us will help us to better engage you (the audience) such that we can improve our tutorials even further!
+
+Please Consider Supporting This Channel via Subscribing: http://goo.gl/HDo2G0
+
+Sign Up for Monthly (non-spam) updates: http://www.devfactor.io
+Support Us: https://www.patreon.com/devfactor
+Follow me on Twitter: http://www.twitter.com/andhofmt
+
+-------- Suggested Reading --------
+
+Book: "Clean Code" - Robert C. Martin -
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/?tag=devfactor-20
+
+#programming #code #java

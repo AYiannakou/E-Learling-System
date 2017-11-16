@@ -1,0 +1,6 @@
+Google Tech Talks
+May 16, 2007
+
+Abstract
+
+The next C++ standard will provide direct support for threads, including a model of memory, atomics, variables, launching, scheduling, synchronization, and termination. This talk will present the current threading model and outline the remaining work.  Credits: Speaker:Lawrence Crowl

@@ -1,0 +1,1 @@
+This program shows you how to find the sum of rows and columns in a two dimensional array, and also how to use a method to calculate the sum of every element inside of a 2d array.

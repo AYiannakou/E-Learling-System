@@ -1,0 +1,25 @@
+Stream is an interface which is defined in java.util.stream package.
+
+It keeps the order of the data as it is in the source. Streams
+
+support Aggregate Operations. The common aggregate operations are
+
+filter, map, reduce, find, match, sort.  Java 8 Stream operations has
+
+methods like foreach, map, filter, etc. which internally iterates
+
+through the elements.
+Java Tutorial for Beginners: https://goo.gl/p10QfB
+C Tutorial Playlist : https://goo.gl/8v92pu
+Android Tutorial for Beginners Playlist : https://goo.gl/MzlIUJ
+XML Tutorial : https://goo.gl/Eo79do
+Design Patterns in Java : https://goo.gl/Kd2MWE
+Socket Programming in Java : https://goo.gl/jlMEbg
+Spring MVC Tutorial : https://goo.gl/9ubbG2
+OpenShift Tutorial for Beginners : https://goo.gl/s58BQH
+Spring Framework with Maven : https://goo.gl/MaEluO
+Sql Tutorial for Beginners : https://goo.gl/x3PrTg
+String Handling in Java : https://goo.gl/zUdPwa
+Array in Java : https://goo.gl/uXTaUy
+Java Servlet : https://goo.gl/R5nHp8
+Exception Handling in Java : https://goo.gl/N4NbAW

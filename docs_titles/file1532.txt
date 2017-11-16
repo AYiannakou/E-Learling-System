@@ -1,0 +1,1 @@
+5.3 How to use Ternary Operator in Java Tutorial

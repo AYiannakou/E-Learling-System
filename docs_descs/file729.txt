@@ -1,0 +1,7 @@
+In this tutorial, we continue learning about inheritance by covering overriding methods. Technically, overriding methods isn't specific to inheritance, but we will learn more about that after a couple more videos.
+
+You can override inherited methods by creating a method with the same signature as one that is inherited (same name, return type, and parameters). Or you can use Eclipse's code assisting to do that for you, as I do in this video.
+
+You can use the super keyword to reference the instance of the base class, and use it to call methods or access variables. This is useful for when you need to override a method to add additional functionality, rather than replace it entirely.
+
+The @Override is called an annotation, is optional, and isn't important to learn about right now.

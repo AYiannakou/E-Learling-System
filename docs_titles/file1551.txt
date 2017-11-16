@@ -1,0 +1,1 @@
+How left shift, right shift and right shift filled with zero works in java

@@ -1,0 +1,1 @@
+The video looks at the differences between while and do while loops.  It shows that a do while loop must be run at least once.

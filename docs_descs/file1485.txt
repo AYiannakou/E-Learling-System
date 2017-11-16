@@ -1,0 +1,1 @@
+We implement a simple expanding array class to show how arrays can be used as data members in a class, declared dynamically, and used as return values.

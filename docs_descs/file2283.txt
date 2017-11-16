@@ -1,0 +1,1 @@
+In this tutorial we will learn how one class can call static methods of another class.

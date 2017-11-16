@@ -1,0 +1,4 @@
+Aquí podrás ver mediante un proyecto de java un uso básico del ArrayList. Puedes descargarte el proyecto de ejemplo desde esta dirección: https://bitbucket.org/pedrofraca/arraylist/get/master.zip. 
+
+Los colores de eclipse se pueden obtener usando este plugin. http://eclipsecolorthemes.org/?view=plugin 
+En concreto mi color es RecongEyes.

@@ -1,0 +1,1 @@
+This is a demo of the "Star7" a PDAish thing built by the Green Project at Sun Microsystems in 1991-1992.  It was the device that "Java" was invented for.

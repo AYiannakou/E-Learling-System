@@ -1,0 +1,1 @@
+How java serialization works internally, Object Serialization algorithm

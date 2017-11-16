@@ -1,0 +1,1 @@
+This tutorial will cover the foundation for making basic games in Java. We'll be creating a 2d top-down shooter.

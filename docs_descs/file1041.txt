@@ -1,0 +1,1 @@
+In this tutorial, I have show how to define class and how to create the object of that class. Moreover, the way of writing methods in a class has been discussed in this tutorial.

@@ -1,0 +1,1 @@
+Illustration d'une classe qui effectue une recherche dans un tableau de type String

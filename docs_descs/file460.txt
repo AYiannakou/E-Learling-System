@@ -1,0 +1,17 @@
+Check us out at http://modcrafter.com
+
+% means Remainder
+Example:
+20 % 3 = 2. This is because 3 divides into 20, 6 times with remainder of 2
+
+Java Programming Ep. 3
+
+Topic: Strings & Scanner Input
+
+Difficulty: Easy
+
+Prerequisites: Knowledge of Variables
+
+
+Ep. 1: What is a Main Class: http://www.youtube.com/watch?v=V9eTwPjNicQ
+Ep. 2: Variables: https://www.youtube.com/watch?v=RfVBC_2eUR8

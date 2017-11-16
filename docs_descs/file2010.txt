@@ -1,0 +1,5 @@
+In diesem Video zeige ich euch möglichst viel zu Strings in Java.
+Fragen und Anregungen bitte in die Kommentare. Folgt mir auf
+Twitter: https://twitter.com/TheMorpheusTuts
+Facebook: https://www.facebook.com/themorpheustutorials Github: https://github.com/TheMorpheus407/Tutorials
+Website: http://the-morpheus.de

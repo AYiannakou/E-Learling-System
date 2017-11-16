@@ -1,0 +1,23 @@
+jeg er mega ked af det ikke gik som det skulle :(
+
+den sig det her  
+at java.util.Arrays.copyOf(Unknown Source)
+at java.util.Arrays.copyOf(Unknown Source)
+at java.util.ArrayList.ensureCapacity(Unknown Source)
+at java.util.ArrayList.add(Unknown Source)
+at bl.b(SourceFile:27)
+at eh.a(SourceFile:754)
+at eh.a(SourceFile:661)
+at eh.a(SourceFile:1494)
+at nc.a(SourceFile:100)
+at en.a(SourceFile:105)
+at eh.a(SourceFile:1471)
+at nb.i(SourceFile:83)
+at nb.s_(SourceFile:71)
+at eh.a(SourceFile:1268)
+at en.a(SourceFile:34)
+at eh.g(SourceFile:1244)
+at eh.e(SourceFile:1178)
+at net.minecraft.server.MinecraftServer.h(SourceFile:369)
+at net.minecraft.server.MinecraftServer.run(SourceFile:302)
+at ce.run(SourceFile:417)

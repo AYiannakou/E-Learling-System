@@ -1,0 +1,12 @@
+In this tutorial you will be introduced to the idea of object-orientated programming (like Java is) and how to reference different classes, again this is just to get familiar to the layout, and doesn't get into much details.
+
+Learn more in the blog post for this tutorial here:
+http://bit.ly/18WTikn
+
+follow us:
+twitter: http://www.twitter.com/mybringback
+facebook: http://www.facebook.com/mybringback .
+
+Visit Our Friends @ Stone River E-Learning for Additional Tutorials - http://bit.ly/1fjsXTn
+
+Coupon 20% Off HTML & CSS for Beginners - http://bit.ly/1MmuYfw

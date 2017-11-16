@@ -1,0 +1,83 @@
+¡¡ SUSCRIBETE !! http://goo.gl/ZPioOq
+En este video veras el formato de un bucle do-while y la logica que sigue este tipo de bucles, comparandola con la de los bucles while
+Cada año JAVA es el lenguaje más reclamado por las empresas, en este curso aprenderas los conceptos fundamentales de este lenguaje de programación
+
+Todos los links al resto de videos de esta serie estan al final de la descripción :)
+
+Mira aquí la version PREMIUM de mi curso de Diseño Web desde cero con más de 30 horas de videos sobre HTML5, CSS3, SEO, Responsive Design, Mobile First, Diseño y Usabilidad, Metodologías de Trabajo, Animaciones 2D y 3D... http://jotajotavm.com/curso-diseno-web-desde-cero
+
+
+▼ HOLA MUNDO!!
+Bienvenido a nuestro canal, que tambien puede ser tuyo, porque ( por si no lo sabías... ) este canal ha sido creado entre todos, con el apoyo de gente como tú, que un día decidió suscribirse y compartir su pasión por la programación.
+No me gusta hacer videos de temas sueltos, tengo la manía de hacer Cursos Completos, o todo o nada.
+Si quieres puedes unirte y contribuir a que sigamos creciendo
+
+
+▼ Mis productos
+► Descárgate mi app   http://jotajotavm.com/app
+► Descárgate mi extension para Chrome http://jotajotavm.com/extchrome
+► Descárgate mi extension para Firefox  http://jotajotavm.com/extfirefox
+► Mis camisetas    http://www.latostadora.com/jotajotavm
+► Mi Curso de Diseño Web PREMIUM de +30horas con Descuento 
+(sólo para quienes ven mis videos)   http://jotajotavm.com/curso-diseno-web-desde-cero
+
+
+▼ Necesitas algún servicio??
+► Para pedir una página web            http://jotajotavm.com/servicioweb
+► Para pedir una app                          http://jotajotavm.com/sevicioapp
+► Para pedir diseño gráfico o 
+diseño de tu marca personal              http://jotajotavm.com/serviciodesign
+► Cómo ganar dinero con YouTube:  https://www.youtube.com/watch?v=cUbZbRBWNMw
+
+
+▼ Dónde me puedes encontrar?
+► En mi casa
+► Mi Facebook:  https://facebook.com/jotajotavm
+► Mi Twitter:  https://twitter.com/josecodfacilito
+► Mi Instagram:  https://www.instagram.com/jotajotavm
+► Mi Pagina Web:  http://jotajotavm.com
+► OJO!! SOLO respondo los mensajes 
+que recibo en YouTube:  https://www.youtube.com/user/jotajotavm/discussion
+
+Aquí tienes todos los links de este curso basico de Java
+Curso Java Basico para Principiantes 01 - Introducción
+https://www.youtube.com/watch?v=tjII7BUKSFo&index=1&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 02 - Instalacion de NetBeans y Hola Mundo
+https://www.youtube.com/watch?v=7QODyT0thf0&index=2&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 03 - Variables
+https://www.youtube.com/watch?v=sZTnecAowN8&index=3&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 04 - if / else (and / or)
+https://www.youtube.com/watch?v=ROq6zsO7KgA&index=4&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 05 - Switch
+https://www.youtube.com/watch?v=ObElKXbsJ_A&index=5&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 06 - Arrays
+https://www.youtube.com/watch?v=qR28JQ0gIwY&index=6&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 07 - Matrices 
+https://www.youtube.com/watch?v=wvuqXnrchQs&index=7&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 08 - Bucle for
+https://www.youtube.com/watch?v=H5ou8FpggAw&index=8&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 09 - Bucles for anidados
+https://www.youtube.com/watch?v=OKQqMvF7ytI&index=9&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 10 - Bucle while
+https://www.youtube.com/watch?v=6-zWqErGNDU&index=10&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 11 - Bucle Do While
+https://www.youtube.com/watch?v=KiibfAGQN8c&index=11&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 12 - Objetos 
+https://www.youtube.com/watch?v=79lQSvJR3ds&index=12&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 13 - Herencia 
+https://www.youtube.com/watch?v=s04RftMRe_Q&index=13&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh
+
+Curso Java Basico para Principiantes 14 - Leer y Escribir Ficheros
+https://www.youtube.com/watch?v=8YEq7WB9CiI&index=14&list=PLraIUviMMM3fXkVeSku0Sf_FGNOjY4hfh

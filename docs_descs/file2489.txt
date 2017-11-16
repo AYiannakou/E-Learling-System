@@ -1,0 +1,1 @@
+Introduction to Java strings. See CodingBat.com companion document with live practice problems at http://codingbat.com/doc/java-string-introduction.html

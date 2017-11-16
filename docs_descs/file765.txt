@@ -1,0 +1,7 @@
+http://technotip.com/710/method-function-overloading-java/
+
+Method/Function Overloading definition: 
+
+ In java  method overloading means creating more than one method with same name with different signatures.
+
+i.e., If name of the method remains common but the number and type of parameters are different, then it is called method overloading in Java

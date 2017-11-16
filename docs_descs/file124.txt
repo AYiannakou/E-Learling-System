@@ -1,0 +1,15 @@
+Learn to Create Computer Programs - OBJECTS (OBJECT ORIENTED PROGRAMMING, OOP) IN REBOL (2 of 3)
+
+Here are links to this entire video series (currently more than 8 hours total):
+
+http://musiclessonz.com/rebol_video_links.html
+
+These tutorials demonstrate how easy it is to accomplish real world programming goals with a flexible and powerful language called Rebol.  The video tutorial closely follows the written text at:
+
+http://musiclessonz.com/rebol_tutorial.html
+
+which aims to teach average users to program computers to do useful things, without the long and difficult learning curve imposed by other programming languages.  If you're an experienced programmer, it's strongly recommended that you read the more concise tutorial at:
+
+http://musiclessonz.com/rebol.html
+
+You'll be amazed at Rebol's compact code and simple cross-platform usability.

@@ -1,0 +1,6 @@
+The 2nd Annual Google Test Automation Conference (GTAC) in our New York office on August 23 and 24.
+
+Cedric Beust TestNG
+
+
+Cedric is a software engineer at Google. He is the creator of the testing framework TestNG and he regularly speaks at conferences about software testing and other programming related topics. His blog can be found at http://beust.com/weblog.

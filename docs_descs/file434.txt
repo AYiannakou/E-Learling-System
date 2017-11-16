@@ -1,0 +1,2 @@
+Ejercicio que permite almacenar datos en un vector de 5 posiciones y mostrar su contenido guardado
+http://impresionalcosto.com/manual.pdf

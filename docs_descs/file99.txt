@@ -1,0 +1,5 @@
+this video is not mine it belongs to http://cslibrary.stanford.edu/
+
+"A silly but memorable 3 minute animated video demonstrating the basic structure, techniques, and pitfalls of using pointers. There are separate versions of the video for C, Java, C++, Pascal, and Ada. There is also a more traditional companion text (below) that goes with the video, and a brief history of how the video was made."
+
+source: http://cslibrary.stanford.edu/

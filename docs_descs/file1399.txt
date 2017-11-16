@@ -1,0 +1,10 @@
+A new series to give you a small introduction into the world of Java. 
+Recommended for people who have had little to no programming ability and want to check out what they might learn if they decided to attend a proper class.
+
+Welcome to LAAG...
+Stay tuned for more random videos.
+Please like and subscribe.
+
+Eclipse: http://www.eclipse.org/
+Java JDK: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+Blog post:http://laagthirrin.blogspot.com.au/2013/11/java-101-2-booleans-while-and-for-loops.html

@@ -1,0 +1,1 @@
+17.16 Java 8 Stream Api Features part 14 sum method of Integer Class for reduce

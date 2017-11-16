@@ -1,0 +1,1 @@
+In this Java 7 video tutorial you will learn how to use integer data types.

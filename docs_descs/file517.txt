@@ -1,0 +1,4 @@
+Skenario di tutorial ini adalah membuat 2 class dengan bahasan caller-worker method.
+Untuk menampilkan output yang dikehendaki, objek "dicetak" dan diberi instruksi.
+Instruksi juga bisa dimodifikasi untuk menampilkan sesuai kebutuhan.
+Bahasa narasi: Bahasa Indonesia

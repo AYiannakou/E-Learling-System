@@ -1,0 +1,4 @@
+A little namespace and user input
+
+Java 1.6
+Netbeans 5.5.1 beta

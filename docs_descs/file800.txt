@@ -1,0 +1,1 @@
+This tutorial explains differences between array and arraylist in java.

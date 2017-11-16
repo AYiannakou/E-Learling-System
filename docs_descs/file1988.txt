@@ -1,0 +1,1 @@
+Nesta aula vamos aprender que podemos declarar e inicializar um Array com quantas dimensões quisermos. Ou seja podemos criar um Array multi-dimensional.

@@ -1,0 +1,44 @@
+how to fill a hashmap with data from mysql database
+
+Source Code: http://1bestcsharp.blogspot.com/2015/05/java-hashmap-mysql-database.html
+
+Java Courses
+http://1bestcsharp.blogspot.com/2016/03/java-course.html
+
+visit our blog https://1bestcsharp.blogspot.com/
+
+facebook: https://www.facebook.com/1BestCsharp
+
+twitter: https://www.twitter.com/1BestCsharp_ 
+
+subscribe: http://goo.gl/nRjPKk
+***************************************************************************
+***************************************************************************
+
+C# And Java Programming Books
+
+http://1bestcsharp.blogspot.com/2015/04/c-and-java-programming-books.html
+
+***************************************************************************
+***************************************************************************
+in this java tutorial we will see How To Retrieve data From MySQL Database And put it in a hashmap and Display data from the hashmap
+
+see also:
+
+JAVA - How To Insert Update Delete Data In MySQL Database
+https://www.youtube.com/watch?v=uKEgKETRCzE
+
+JAVA - MySQL Database Navigation Buttons [First - Next - Previous - Last]
+https://www.youtube.com/watch?v=WkPWPuGHTTI
+
+Connect Java To Mysql
+https://www.youtube.com/watch?v=zM7oe2_S-jY
+
+and From our blog:
+
+http://1bestcsharp.blogspot.com/2015/05/java-hashmap-class.html
+
+http://1bestcsharp.blogspot.com/2015/05/java-how-to-use-hashmap-with-bifunction.html
+_____
+
+https://www.youtube.com/watch?v=WAIcC3pl94o

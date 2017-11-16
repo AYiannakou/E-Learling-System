@@ -1,0 +1,8 @@
+Collections Map pada Java, Apa perbedaan HashMap, TreeMap dan LinkedHashMap
+
+Playlist Belajar Java: http://www.youtube.com/playlist?list=PLCZlgfAG0GXDUvrO3Bc_VUvIjWKnYIRJ1
+
+Web         :  http://sekolahkoding.com
+Diskusi     :  http://www.sekolahkoding.com/diskusi/ 
+Facebook :  https://www.facebook.com/sekolahkoding
+Twitter      :  http://twitter.com/sekolahkoding

@@ -1,0 +1,4 @@
+Java Tutorial 3
+Source Code: http://java-tutorial-source.blogspot.com/2012/12/java-tutorial-3-source-code.html
+
+You want to know how to include user inputs in Java? In this video, you'll learn about the function called, "Scanner." That function makes user inputs possible.

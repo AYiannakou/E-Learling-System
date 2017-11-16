@@ -1,0 +1,12 @@
+Subscribe Now:
+http://www.youtube.com/subscription_center?add_user=Ehowtech
+
+Watch More:
+http://www.youtube.com/Ehowtech
+
+Declaring an array is something you have to do before allocation can take place in Java. Declare an array and allocate in Java with help from a software engineer with broad and extensive experience in this free video clip.
+
+Expert: Mathew Pierce
+Filmmaker: Paula  Pierce
+
+Series Description: There is little in today's modern age that can't be accomplished using the careful application of the right piece of computer software. Get useful computer tips for a wide variety of different programs and operating systems with help from a software engineer with broad and extensive experience in this free video series.

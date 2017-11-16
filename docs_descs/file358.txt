@@ -1,0 +1,1 @@
+A java program that compares strings and ignores the case of the string. It also uses an if-else-if decision structure.

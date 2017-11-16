@@ -1,0 +1,8 @@
+Hey Leute,
+hier ist ein weiteres Tutorial und dies mal ist es sogar voller Content.
+In diesem Tutorial Behandeln wir folgende Themen:
+- Datentypen(Weiterführung/Wiederholung) und Arrays (0:00)
+- if-Bedingungen und Schleifen (17:04)
+- Methoden und Einaben(51:49)
+
+Also viel Spass mit dem Tutorial!!!

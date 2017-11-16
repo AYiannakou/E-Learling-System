@@ -1,0 +1,9 @@
+- Code Below -
+Today I went to something slightly different, loading images according to the text in the Jlist, So if the item is Ronaldo it would load such images related to it. 
+
+HashMap is the perfect tool for this as it stores a Key and a Value, I hope you enjoyed this tutorial.
+
+
+Code:
+
+http://pastie.org/private/9piygk2qnzyc7psykxzgjg

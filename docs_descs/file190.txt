@@ -1,0 +1,3 @@
+We can use a database which is accessed by two or more systems, to implement a way that systems can communicate with each other. Perhaps this is a more general concept which covers similar ground to other methods such as parameter passing, messages, and shared memory such as labelled common in Fortran.
+
+We can make up our own examples, with some confidence that they can be converted to code in Prolog, Java, Cobol or another language.

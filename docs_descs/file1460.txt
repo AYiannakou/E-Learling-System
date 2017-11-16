@@ -1,0 +1,2 @@
+Java : Collection Framework : HashMap (isEmpty).
+JavaEE Tutorials and Sample code - Click here : http://ramj2ee.blogspot.in/

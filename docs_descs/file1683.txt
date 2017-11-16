@@ -1,0 +1,1 @@
+A simple looping algorithm for counting the number of times a character appears in a string.

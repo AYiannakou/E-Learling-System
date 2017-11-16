@@ -1,0 +1,8 @@
+How to use JSONGen to create a simple class (POJO / Java Bean) from JSON and then parse JSON matching that class.
+
+Updated documentation:
+https://github.com/coolaj86/json-examples/tree/master/java/jackson
+
+Errata:
+* By "sub-class" I mean "inner-class"
+* By default jackson throw errors on normal json the fix is to call `mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);`

@@ -1,0 +1,1 @@
+This video tutorial demonstrates how one can implement his own java.util.ArrayList Implementation.

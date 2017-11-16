@@ -1,0 +1,5 @@
+Not only is Java very usefull in having fun, but so is JavaScript.
+
+This is a VisualBasic6 app I made in roughly 2 minutes that uses a formula and a series of loops to move images around in a random formation.
+
+Sorry about the bad quality in the vid, but I'm running tons of stuff at the moment.

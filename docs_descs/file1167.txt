@@ -1,0 +1,13 @@
+Bonjour à tous !
+
+Une petite vidéo rapide pour vous présenter les bases des listes de type ArrayList en Java.
+
+Merci !
+
+====================================
+Liens :
+
+Facebook : https://www.facebook.com/wRadion
+Twitter : https://twitter.com/wRadion
+Mail : wradion@gmail.com
+====================================

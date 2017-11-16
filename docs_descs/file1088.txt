@@ -1,0 +1,1 @@
+Hier wird eine Bespiel und die Funktion der Hashmap erklärt

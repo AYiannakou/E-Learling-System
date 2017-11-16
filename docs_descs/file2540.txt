@@ -1,0 +1,7 @@
+Checke meinen noch umfangreicheren und aktuelleren Java Kurs auf UDEMY aus  https://www.udemy.com/java-programmieren-fur-anfanger-der-ultimative-java-kurs/?couponCode=javaYoutube25
+Extra Übungen, Extra Inhalt, Extra Quizes!
+
+
+http://panjutorials.de/tutorials/java...
+
+In diesem Java Programmieren für Anfänger Tutorial geht es um Do While Schleifen. Diese werden benötigt, wenn etwas ausgeführt werden soll, solange eine Bedingung erfüllt ist. Do While Schleifen unterscheiden sich zu einfachen While Schleifen. Siehe in diesem Java Tutorial, worin sie sich unterscheiden.

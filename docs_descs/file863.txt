@@ -1,0 +1,3 @@
+Video tutorial para agregar una imagen a un reporte en iReport, se añade este mediante un parametro para despues, utilizando java/netbeans, mandarle la imagen al informe en tiempo de ejecución...
+
+el codigo del proyecto esta en mi blog

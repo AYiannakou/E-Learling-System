@@ -1,0 +1,1 @@
+This is a quick video on how to define integers with Java in Eclipse. Hope you guys find it very useful!

@@ -1,0 +1,3 @@
+Easy Java Arithmetic Operators: + - % / * ++ --
+
+In this tutorial I will be demonstrating the importance of knowing your arithmetic operators in java. It is important for you to be able to know the differences in the modulus operator and the division operator. The decrement and increment operators i++, i-- these java arithmetic operators are important to know. Start slow and easy making sure to understand at first and then explore with more complicated expressions. Java arithmetic operators learn + - % /.

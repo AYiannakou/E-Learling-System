@@ -1,0 +1,20 @@
+Complete Java Game Development Course now available at my website http://www.codingmadesimple.com/java-game-design-course/
+
+In this video we learn how to construct the main heart of any game, the key piece of code that keeps the engine running. That is the game loop. If you have any questions then be sure to leave a comment or contact me on twitter; realtutsgml. If you learned something then be sure to leave a like, comment, and favorite.
+
+Have you ever wanted to create games? Have you ever gotten fed up with it being to difficult? Well now is the time to thank me and possibly subscribe because you have just found the channel for you! Game Maker Tutorials, Java Game Programming, Unity3D Tutorials, Batch, C++ and much much more! This is the channel for you, the one stop shop for an exploration of your hidden talent as a game developer. Unleash your potential and go wild with imagination when you finally figure out how to make any game you want!
+
+Visit CodingMadeSimple for more exclusive tutorials and get the help you need to succeed as your very own indie game developer!
+http://www.codingmadesimple.com
+
+Follow me on twitter for exclusive content and interaction with me! 
+http://www.twitter.com/realtutsgml
+
+Game Maker Studio: Programming
+Game Maker Studio: Tutorial
+Java Programming
+Game Programming
+Game Tutorial
+Programming Tutorial
+
+https://www.youtube.com/watch?v=TNVHWROwYuM

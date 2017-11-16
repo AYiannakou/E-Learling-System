@@ -1,0 +1,9 @@
+In this tutorial we go over the various operators that are available inside of the Java language. These include operators for arithmetic expression evaluation, assignment operators, comparison operators, logical operators, and bit-wise operators. These will be explained in further detail when they are used in subsequent tutorials.
+This is series video #2
+
+Quick-Guide:
+Expressions: Basic Operators - 0:35
+Assignment Operators - 1:55 
+Comparison & Increment/Decrement Operators - 3:17 
+More Comparison Operators (Less-than/Greater-than) - 4:51 
+Logical Operators & Bitwise - 5:21

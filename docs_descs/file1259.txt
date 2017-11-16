@@ -1,0 +1,8 @@
+In this Java tutorial we will learn what a "while loop" is in java.  We will use this while loop to perform an action while a condition is true.
+
+Learn more in the blog post for this tutorial:
+http://bit.ly/18WU6Ww .
+
+Visit Our Friends @ Stone River E-Learning for Additional Tutorials - http://bit.ly/1fjsXTn
+
+Coupon 20% Off HTML & CSS for Beginners - http://bit.ly/1MmuYfw

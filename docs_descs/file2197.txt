@@ -1,0 +1,6 @@
+In this video we will mainly discuss how to work with loop statement in java and what are the usage in Selenium Webdriver
+
+-~-~~-~~~-~~-~-
+Please watch: "How to Handle Element is Not Clickable at Point Exception in Selenium Webdriver" 
+https://www.youtube.com/watch?v=XNwcGNLk3cE
+-~-~~-~~~-~~-~-

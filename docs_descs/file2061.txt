@@ -1,0 +1,14 @@
+Java Software Solutions Foundations of Program Design
+Java Programming Challenge 4-3: Creating Car Class  (Java OOP, Objects, Classes, Setters, Getters)
+
+Design and implement a class called Car that contains instance data that
+represents the make, model, and year of the car.
+Define the Car constructor to initialize these values.
+Include getter and setter methods for all instance data, and a toString method
+that returns a one-line description of the car.
+Create a driver class called CarTest whose main method instantiates and updates
+several car objects
+
+Learning to code? Follow my Java tutorials for beginners. I do a lot of Java programming challenges and Java projects as part of my homework - every day!
+If you are learning to program, nothing beats solving real programming exercises and coding challenges.
+So don't forget to subscribe, as I release new programming videos every day!

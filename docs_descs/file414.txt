@@ -1,0 +1,22 @@
+In this Java tutorial we will combine our knowledge of both arrays, and the for loop to add some values to each position in the array.  You should start to see how beneficial this concept is and how much time it will save you in writing a program.
+
+
+Source code | Additional Info for this tutorial:  http://bit.ly/11HlR0D
+Hit us up on G+, facebook, or twitter!
+
+Follow us!
+-------------
+Google +: http://bit.ly/1b6FeRV
+Facebook: http://on.fb.me/11sX40j
+Twitter: http://bit.ly/ZuuI4Y
+-------------
+Jake's G+ = http://bit.ly/14yuNTD
+Travis's G+ = http://bit.ly/11iPctT
+
+------------
+
+Donate: http://bit.ly/110go1C .
+
+Visit Our Friends @ Stone River E-Learning for Additional Tutorials - http://bit.ly/1fjsXTn
+
+Coupon 20% Off HTML & CSS for Beginners - http://bit.ly/1MmuYfw

@@ -1,0 +1,7 @@
+In this Java tutorial for beginners we will learn how to get user input.  We will use a scanner object to get the information that the user types with their keyboard.
+
+Learn more information and get the source code for this tutorial in our blog post: http://bit.ly/1b5cmtx .
+
+Visit Our Friends @ Stone River E-Learning for Additional Tutorials - http://bit.ly/1fjsXTn
+
+Coupon 20% Off HTML & CSS for Beginners - http://bit.ly/1MmuYfw

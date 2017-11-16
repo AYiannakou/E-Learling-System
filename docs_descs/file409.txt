@@ -1,0 +1,3 @@
+http://anderboy101.blogspot.com
+En este laboratorio hablaremos de la estructura Vector o Array. Explicaremos su funcionamiento, creacion y manejo..
+El proyecto para descargar estara en mi blog..

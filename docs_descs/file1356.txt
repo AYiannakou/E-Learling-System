@@ -1,0 +1,26 @@
+http://ItsMyAcademy.com/arithmetic-sequences/ For Free Complete Video Tutorial on Sequence & Series.
+ For more videos on sequence and series.
+To Find the sum of odd numbers we have to first make an arithmetic sequence or arithmetic series then we can easily find the sum of odd numbers from sum of n term formula of arithmetic sequence.
+its is simple . In this video we are dealing with such problems. Here we need to find the sum of odd numbers from 0 to50 using the sum of n term formula of arithmetic sequence.
+To do so we will first arrange the all odd numbers between 0 to 50 in increasing order then taking 1 as first term and 49 as last term we will make an arithmetic series. 
+By using nth term formula of arithmetic sequence we will get the total number of terms of the sequence and then by simply using
+sum of n term of an arithmetic sequence we can easily calculate the sum of odd numbers.
+In this way we can get the sum of any odd numbers or even numbers from any where to any where. Just we should know the trick. 
+Hope You learn how to find the sum of odd numbers using the n terms formula of arithmetic sequences.
+
+How to Find the Sum of odd Numbers - Using Sum of N terms Formula of Arithmetic Series
+In previous videos we learn to prove Arithmetic progression and then finding the sum.  You are good in such problems too. 
+Now friend in this video lesson we are learning to find the sum of odd numbers by the method of sequence and series specially applying the sum of arithmetic progression formula..
+Well let's start how to find sum of odd numbers. I hope you always sit with pen and notebook.
+
+
+Great ! How you are feeling now! It was quite easy right just few steps to find the sum of odd numbers between any two numbers.
+Steps to find Sum of Odd Numbers
+1.  First write the first term and last term of odd number. The form it as a AP.
+2. Apply the nth term formula of arithmetic progression on the last  term. 
+3. By doing so (step2) we will get  the value of total number of terms in that AP.
+4. Now since we know first term(a), last term (l), number of terms (n), we can easily apply the sum of arithmetic progression formula to get the sum of odd numbers.
+Cheers!
+Well friend here I have listed few exercise related to sum of Arithmetic progression just like above. Please try to solve these all. It will really help you.
+Q1.  Find the sum of all odd numbers between 100 to 200.   (ans = 7500)
+Q2. Find the sum of all odd integers between 2 and 100 divisible by 3.   (Ans = 867)

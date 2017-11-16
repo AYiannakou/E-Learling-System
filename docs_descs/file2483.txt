@@ -1,0 +1,3 @@
+Introduction to Java Strings, concept of immutability, creating string objects using the new or the assignment operator and understanding the String pool in Java.
+
+Visit us on http://facebook.com/unacademy

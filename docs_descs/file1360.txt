@@ -1,0 +1,3 @@
+http://allaboutee.com
+
+Learn the fast way to use two's complement to represent a negative binary number with any number of bits

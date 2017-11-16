@@ -1,0 +1,13 @@
+Berikut ini saya akan menjelaskan bagaimana cara penggunaan Looping menggunakan bahasa pemrograman Java menggunakan Eclipse. 
+
+Untuk sistem operasi disini saya menggunakan Mac OS X, namun apabila anda menggunakan Windows, tidak akan jauh berbeda dengan yang akan saya jelaskan
+
+Materi yang akan dibahas :
+- While
+-- Incerement
+-- Decrement
+- For
+-- Increment
+-- Decrement
+- Do While
+- Enhanced For

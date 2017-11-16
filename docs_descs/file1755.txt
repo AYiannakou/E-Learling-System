@@ -1,0 +1,6 @@
+Java Tutorial for Beginners - 2. Topics covered in this tutorial are:
+- Do ... While Loops
+- Switch
+- Arrays
+- Arrays of Strings
+- Multi-dimensional Arrays

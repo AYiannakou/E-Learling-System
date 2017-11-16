@@ -1,0 +1,8 @@
+Java anagram program is very important program asked in java interview for freshers and experienced.
+Two Strings are anagrams if they contain same characters but in different order.
+Here are the steps to be followed to check two Strings are anagrams or not :
+1) Take  two strings as input.
+2) convert first string to character array .
+3) Take each character from first string and get the index of that character in second string.If the index is present delete that character from second string.
+4) Repeat the same step for all characters in First string .
+5) Finally check the length of second string if the length is zero then both strings are anagrams else both are not anagrams.

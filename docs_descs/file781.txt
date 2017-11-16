@@ -1,0 +1,5 @@
+In this tutorial, I will teach you how to create subclasses in Java and how to restrict subclasses to use method in its super classes. 
+
+We will discuss the terms Inheritance and Encapsulation. If you have any problem understanding the concept please do send me a message.
+
+Please Rate, Comment and Subscribe.

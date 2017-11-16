@@ -1,0 +1,4 @@
+Want to execute thousands of statements without writing the code for each element? Use a for() loop. 
+Visit [ http://www.tigertutorials.com/java.php ] and find full textual/video tutorials on subjects ranging from website creation to game creation.
+
+Please subscribe, and visit:  http://www.tigertutorials.com

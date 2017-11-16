@@ -1,0 +1,1 @@
+The video looks at the length method of the String class.  It shows how the length differs from the a String's index.  It also shows how to find the last letter of a string using the length method.

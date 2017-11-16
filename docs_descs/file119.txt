@@ -1,0 +1,4 @@
+Very brief look at type polymorphism in Object-orientated programming.
+
+My blog/further information:
+https://blogs.blackmarble.co.uk/blogs/jfowler/

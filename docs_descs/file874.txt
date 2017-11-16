@@ -1,0 +1,5 @@
+This is part 1 of 2 videos recorded live while presenting the Tutorial: Java Lists - Sorting and Searching. 
+
+Learn how to do an efficient sort in order to speed searches through a huge array.  See some useful design techniques to help you develop prototype programs quickly and easily.
+
+Part of my Java course offered online by Computer Careers at South Central College, North Mankato, MN 56003 USA. http://cc.SouthCentral.edu

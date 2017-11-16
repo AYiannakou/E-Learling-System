@@ -1,0 +1,5 @@
+In this tutorial, I explain the basics of scope.
+
+A variable declared outside of any method with the static keyword is called a class variable, and is available to all methods in the class (variables without the static keyword are called instance variables, and will be covered with object-oriented programming in future tutorials).
+
+A variable that is declared inside of a method is local to that method, and only exists until that method is finished executing. It is not directly available to any other methods in the class.

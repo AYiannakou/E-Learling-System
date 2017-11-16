@@ -1,0 +1,1 @@
+In this video I show how to write for loops in jGrasp. Before I start to write the code I introduce a pattern that can be used when repeating a code segment, that is independent of the control variable.

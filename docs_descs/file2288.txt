@@ -1,0 +1,1 @@
+Learn how to plan and diagram Java classes. Then learn to write code for your own classes applying concepts of Object Oriented Programming. Learn to create a driver class. Parts 1, 2, & 3 are all available at www.MyIowaTech.com.

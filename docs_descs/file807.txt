@@ -1,0 +1,7 @@
+In this video I will give a brief introduction to ArrayList in Java for more information please reference the Java API
+
+Remember to follow me on Google+ https://plus.google.com/u/0/b/107161788880566180930/107161788880566180930/posts
+
+If you are new to Java go check out the playlist for the series, and get caught up on everything you need to know about Java: http://www.youtube.com/playlist?list=PLbjOkfqIeibi_rJSoDBKHFWxxVyJHj1Sa 
+
+Just a reminder that my website is currently not available.

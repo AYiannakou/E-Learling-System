@@ -1,0 +1,2 @@
+More videos like this online at http://www.theurbanpenguin.com
+Having looked at packages and imports we now move onto the class structure itself which includes the acsess modifiers,class, classname, extends, implements. Within the braces of the class we can create fields, constructors and methods. We will look at seeing how all classes will extends the class Object if no specific class is mention with the extends statement and how we can add constructors to force parameters through during instantiation of the class to poepulate fields or data members.

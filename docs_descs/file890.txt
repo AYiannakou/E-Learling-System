@@ -1,0 +1,1 @@
+This video is part of an online course, Intro to Java Programming. Check out the course here: https://www.udacity.com/course/cs046.

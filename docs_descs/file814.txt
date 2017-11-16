@@ -1,0 +1,2 @@
+This tutorial explains Difference between ArrayList and LinkedList in java.
+arraylist vs linkedlist,arraylist vs linked list in java,why is linked list better than array list,linkedlist vs arraylist

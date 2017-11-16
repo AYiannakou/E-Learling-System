@@ -1,0 +1,4 @@
+技術評論社『WEB+DB PRESS Vol.37』
+特集1「実演！ リファクタリング」のサポートムービーです。
+実際の実演ムービーは、以下のページで公開されています。
+http://gihyo.jp/magazine/wdpress/information/2007/vol37-refactoring

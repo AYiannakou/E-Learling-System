@@ -1,0 +1,1 @@
+This video will show you how to remove specified characters, alphabetic letter, numeric values and sub-strings from a string. In this video you will learn to either remove or replace the specified value.

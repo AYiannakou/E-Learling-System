@@ -1,0 +1,1 @@
+In this tutorial we take a look at classes and a rudimentary look at what methods are. The key thing to take away from this tutorial is a rudimentary understanding of what methods are as we will be building on what you learn today in the next set of chapters.

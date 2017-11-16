@@ -1,0 +1,4 @@
+In this tutorial we discuss void and return methods in Java in the broadest sense.
+Void has some nuances to it that we will discuss in later episodes.
+
+Please watch all the beginning Java tutorials at: https://www.youtube.com/playlist?list=PLr6-GrHUlVf9SIx5cDhoEMknias5Xyv67&action_edit=1

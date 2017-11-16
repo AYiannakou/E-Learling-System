@@ -1,0 +1,1 @@
+Es wird an einem sehr kleinem Beispiel gezeigt wie man eine ForEach-Schleife auf eine ArrayListe anwendet.

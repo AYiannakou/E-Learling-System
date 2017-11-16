@@ -1,0 +1,1 @@
+In Java we cannot override static methods we can just hide them

@@ -1,0 +1,1 @@
+Introduction to arihmetic operators + - * - and % (modulus). This video explains integer division  and demonstes the order in which operations are executed (operator precedence). It also provides some challenges for the user to solve - including solutions.

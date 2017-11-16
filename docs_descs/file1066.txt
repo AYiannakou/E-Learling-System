@@ -1,0 +1,5 @@
+Get the Code Here: http://goo.gl/srwIf
+
+Welcome to my Java Hash Table tutorial. A Hash Table is a data structure offers fast insertion and searching capabilities. The negative is that they are limited in size because they are based on arrays. They are also hard to order.
+
+People get confused about them because of the Hash Function. A hash function is used to generate a unique key for every item in the array. Since every item is entered using a calculation, this allows you to reverse the calculation to immediately find the proper index. This way you can find items without the need to search through the whole array.

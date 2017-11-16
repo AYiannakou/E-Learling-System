@@ -1,0 +1,2 @@
+Shifting operator consider only 5 left most bits of second operator.
+Maximum shifting is possible is 32 bits.

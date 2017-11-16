@@ -1,0 +1,14 @@
+this vedio will explain for loop in java language
+by the example
+public class loopdemo{
+ public static void main(String args[]){
+
+ for(int i = 1 ; i lt= 10 ; i= i+1 ){
+
+ System.out.println(i);
+
+ }
+ 
+ 
+}
+}

@@ -1,0 +1,30 @@
+Java Interview Question And Answer Iterator HashTable HashMap Vector ArrayList Explain With Example
+
+ "www.InterviewDOT.com - Job Portal"
+ ----------------------------------
+    Java Freshers - Core Java Interview Questions And Answers :
+    ----------------------------------------------------------
+
+ 1. Difference between ArrayList and Vector ?
+ Vector methods are synchronized while ArrayList methods are not
+
+ 2. Iterator a Class or Interface? What is its use ?
+ Iterator is an interface which is used to step through the elements of a Collection
+
+ 3. Difference between Hashtable and HashMap ?
+ Hashtable does not store null value, while HashMap does
+ Hashtable is synchronized, while HashMap is not 
+
+A Job Portal
+http://www.InterviewDot.com http://www.InterviewDot.com http://www.InterviewDot.com
+One Click Dream Job - http://www.interviewdot.com/upload-resume/uploadresume.htm
+
+Other Top Job Portals
+www.Naukri.com
+www.MonsterIndia.com
+www.TimesJobs.com
+
+Are you looking for a new Job ?
+InterviewDot.com - A Job Portal
+http://www.InterviewDot.com http://www.InterviewDot.com http://www.InterviewDot.com
+One Click Dream Job - http://www.interviewdot.com/upload-resume/uploadresume.htm

@@ -1,0 +1,1 @@
+4.3: Deleting objects from ArrayList - The Nature of Code

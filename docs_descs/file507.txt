@@ -1,0 +1,7 @@
+In this tutorial we learn how to instantiate objects from classes that we create. We learn about instance variables, instance methods, and constructors. Getters and setters are introduced and encouraged as good coding practice.
+
+The static modifier is also explained.
+
+You would usually make instance variables private when public getters/setters are provided as part of the interface, but access modifiers have not yet been covered in this series.
+
+You can also move the main method to the Person class and keep the program for this tutorial in one file, however, I thought it would better get the concept across by having the Person class be isolated from main.

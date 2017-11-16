@@ -1,0 +1,1 @@
+Well up to now we have been using object variables, it's time to give static variables a little love.  This was the hardest video I have done yet because static variables are really hard to explain, but I think you will find this video very useful (it may not seem like it but this video required a lot of planning).

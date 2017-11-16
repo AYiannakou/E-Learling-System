@@ -1,0 +1,1 @@
+This tutorial explains whether particular character  or group of characters exists in string or n ot.

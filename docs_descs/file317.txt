@@ -1,0 +1,7 @@
+Google TechTalks
+January 11, 2006
+
+Bil Lewis
+
+Bil Lewis is a computer scientist who has worked on natural language understanding, expert systems, language design, and programming tools. He studied at Ripon College, the University of Indiana, and Penn. He has taught at Stanford and for numerous companies. He has worked at Stanford Research Institute, the FMC AI Center, and Sun Microsystems. He wrote "GNU Emacs Lisp", the "Threads Primer", "Multithreaded Programming with PThreads", and "Multithreaded Programming with Java". ABSTRACT
+What if a debugger could allow you to simply step BACKWARDS? Instead of all that hassle with guessing where to put breakpoints and the fear of typing "continue" one too...

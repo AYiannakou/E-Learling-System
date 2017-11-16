@@ -1,0 +1,46 @@
+You can see the full screen, high resolution tutorial, here:
+
+http://www.thebookonhibernate.com/j2ee/index.jsp?link=03httpsessionswf
+
+State Management and the HttpSession
+
+This free, multimedia tutorial shows you how to use IBM's Rational Application Developer (IRAD) 6.0 to create a simple Servlet that takes advantage of the HttpSession object of the Servlet and JSP API. The simple Servlet uses a hitcounter to keep track of the number of times the petulant user refreshes the web page.
+
+If you found something helpful here, please do your part and help support the site. Link to us, buy some books, support our sponsors, tell your developer friends about us, and remember: Happy Java! 
+
+package com.examscam.servlet;
+
+import java.io.IOException;
+
+import javax.servlet.Servlet;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+public class SessionServlet extends HttpServlet implements Servlet {
+
+protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+HttpSession session = request.getSession(false);
+if (session == null){
+session = request.getSession(true);
+Integer hitCount = new Integer(0);
+session.setAttribute("count", hitCount);
+}
+Integer hitCount = (Integer)session.getAttribute("count");
+hitCount = new Integer(hitCount.intValue() + 1);
+session.setAttribute("count", hitCount);
+response.getWriter().print("Number of times at this page: " + hitCount.intValue());
+}
+}
+
+http://www.thebookonhibernate.com/j2e...
+
+Please check out my SCJA Java Certification Mock Exam website:
+
+http://www.scja.com/associate/
+
+And for Hibernate and JPA tutorials, check out: http://www.thebookonhibernate.com
+
+http://www.thebookonhibernate.com/j2ee/index.jsp?link=03httpsessionswf

@@ -1,0 +1,5 @@
+In diesem kurzen Video zeige ich euch, wie eine HashSet funktioniert und wie wir sie einfach in Java benutzen können.
+
+Weitere Videos findet ihr auf meinem Kanal: http://www.youtube.com/user/AngelusGer88
+Oder auch auf meinem Blog: http://javawebandmore.wordpress.com/
+Abonniert mich, um keines der Videos zu verpassen :)

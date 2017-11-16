@@ -1,0 +1,7 @@
+Java Array Tutorial for beginners. 
+
+Visit www.rithus.com for code examples.
+
+4. Length of an array: Property length
+5. Looping around an array - Enhanced for loop
+6. Fill array with a value Tutorial for beginners with examples, Interview Questions and Concepts. Udemy

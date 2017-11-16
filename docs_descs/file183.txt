@@ -1,0 +1,1 @@
+A sample from the Rubik's cube animations I've made using POV-Ray and a Java program I wrote to generate the scene files. This one solves a scrambled cube using the Petrus Method.

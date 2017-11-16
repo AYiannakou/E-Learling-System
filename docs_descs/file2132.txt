@@ -1,0 +1,14 @@
+In This Lecture Hashmap describe which is lie in collections.
+Java HashMap class. A HashMap contains values based on the key. It implements the Map interface and extends AbstractMap class. It contains only unique elements. It may have one null key and multiple null values.
+
+collections
+https://youtu.be/fis_3NCr0O0
+
+arraylist
+
+https://youtu.be/-qSbjEQr5w4
+
+► Click to see all our videos
+https://www.youtube.com/playlist?list=PLRcRGnkYc5H-JztfSHJFW98UMOM1kJuTw
+► Subscribe to our channel:
+https://www.youtube.com/playlist?list=PLRcRGnkYc5H-JztfSHJFW98UMOM1kJuTw

@@ -1,0 +1,1 @@
+La declaración de arrays en java es muy facil, un array nos permite almacenar diferentes valores, se puede decir que es una variable que almacena x datos.

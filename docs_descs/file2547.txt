@@ -1,0 +1,1 @@
+An introduction to using integers in Java programs. Integers in java are primitive data types that represent nondecimal numbers, both positive and negative and zero.

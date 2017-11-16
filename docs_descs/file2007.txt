@@ -1,0 +1,34 @@
+In this tutorial we're going to look at how to split a string in Java. We can split the string by character or split the string by words. We'll look at both!
+
+We're going to look at simple string manipulation because it's a very common task. Quite often we're going to be asked to take a string and manipulate it character by character. That means we need to know how to how to split a string character by character in Java.
+
+Or more often we'll be asked to split a Java string representing many words, and we'll need to look at it word by word. The classic example for this is CSV files. The CSV stands for "character separated values". Sometimes you'll hear it called "comma separated values". Either way, we need a method to split Java strings.
+
+#java #programming #tutorial
+
+▼
+Like the video? Don't forget to subscribe! ➜ http://www.deegeu.com/subscribe
+
+▼
+Keep up to date with the newsletter! ➜ http://www.deegeu.com/newsletter/
+
+▼
+Transcript ➜  http://www.deegeu.com/how-to-split-java-string/
+
+Concepts: Java strings, how to split a string in java
+
+Social Links: Don't hesitate to contact me if you have any further questions.
+WEBSITE : dj@deegeu.com
+TWITTER : http://www.twitter.com/deege
+FACEBOOK: https://www.facebook.com/deegeu.programming.tutorials
+GOOGLE+ : http://google.com/+Deegeu-programming-tutorials
+
+About Me: http://www.deegeu.com/about-programming-tutorial-videos/
+
+Related Videos:
+https://www.youtube.com/playlist?list=PLZlGOBonMjFWI_JOcZQJURzVZvaSWcA8m
+
+Media credits:  All images are owned by DJ Spiess or used under CC0 unless listed below
+
+Leslie's Strut
+John Deley and the 41 Players

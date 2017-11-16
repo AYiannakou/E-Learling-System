@@ -1,0 +1,15 @@
+Source code: http://www.mediafire.com/?yijbx58bmzi7f7u
+
+This is a basic CRUD application given the JDBC Resource was setup correctly, for database setup, kindly refer to my previous upload.
+
+Check this also. Setup workspace using Eclipse, Maven, and Tomcat
+https://www.youtube.com/watch?v=3lHpDV5ZLQU
+
+Creating Dynamic Web Module in Eclipse using Maven
+https://www.youtube.com/watch?v=fWATrhZcCNI
+
+A simple approach
+https://www.youtube.com/watch?v=_zW27Y2boCo
+
+by; Joseph Bagnes
+Java Developer

@@ -1,0 +1,9 @@
+Java Tutorial for Beginners - 2. Topics covered in this tutorial are:
+- Basic GUI Popup Windows
+- Array
+- Strings 
+- Basic introduction to Applets
+- How to write an Applet that displays lines and text
+- Simple bubble sort on an array of integers
+
+I created this video with the YouTube Video Editor (http://www.youtube.com/editor). The owner of this video is http://www.youtube.com/user/TheBestMacTutorials

@@ -1,0 +1,1 @@
+We discuss the difference between mutable and immutable classes, show a situation where editing a mutable object can lead to errors, and show how to create an immutable version of our class.

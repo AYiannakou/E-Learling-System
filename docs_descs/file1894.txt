@@ -1,0 +1,4 @@
+byte, short, int e long são tipos de dados primitivos da Linguagem Java usado para representar valores inteiros, a diferença entre eles está na faixa de valores que cada um pode representar nesse vídeos explico quais valores é possível representar com cada tipo.
+
+Acesse:
+http://stcds.blogspot.com.br/p/java.html

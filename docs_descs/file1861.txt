@@ -1,0 +1,1 @@
+In this tutorial, we will discuss datatypes and variables and discuss integers datatypes in details.

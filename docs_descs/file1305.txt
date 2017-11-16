@@ -1,0 +1,23 @@
+Java tutorial for beginners, using the BlueJ development environment.
+VIEW FULL PLAYLIST AT https://www.youtube.com/playlist?list=PLmLrDKA2m0amMGLNvZa18rtVsw2lP6k1E
+VISIT THE FACEBOOK PAGE at https://www.facebook.com/pages/Strawberry-Digital/456030027890458
+
+Learn about constructors and methods (accessors and mutators) and how they are implemented in a class, as well as variables and parameters. 
+
+A video by Strawberry Digital, visit www.strawberry.digital to learn more.
+
+java constructors
+java methods
+java accessor methods
+java mutator methods
+java examples for beginners
+java beginners tutorial
+java tutorials for beginners
+java tutorials
+java tutorials with examples
+java programming for beginners 
+java programming examples
+learn java for beginners
+learn java programming
+searches related to java programming for beginners
+java programming tutorial

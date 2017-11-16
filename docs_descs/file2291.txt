@@ -1,0 +1,3 @@
+Very Simple Java Class and Object use. 
+
+http://www.robkeplin.com/blog/view?category=java&title=beginning+classes+in+java

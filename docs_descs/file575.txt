@@ -1,0 +1,5 @@
+Oggi vediamo un argomento piuttosto fondamentale: gli array. Nel video sono spiegati in maniera abbastanza semplice, con un paio di esempi, e ne vengono illustrate alcune difficoltà che sono ricorrenti oltre ad un semplice modo per inizializzarli. 
+- SOTTOSCRIVETE AL CANALE per i prossimi tutorial
+- METTETE MI PIACE e CONDIVIDETE se lo trovate utile
+- VISITATE http://www.supernerd.it/2013/07/03/java-tutorial-10-gli-array/ per trovare il codice da copiare e tutti i link presenti nel video!
+- SEGUITEMI SU TWITTER @bigLiukTheory

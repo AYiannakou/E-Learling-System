@@ -1,0 +1,3 @@
+Hashmap en Java - Cómo utilizar hashmaps en java, y como recorrer un hashmap en Java. Utilizar diccionarios en java. Diccionarios, cómo usarlos en Java - Programación.
+Ejercicios de programacion sencillos. 
+Como utilizar hashmap.

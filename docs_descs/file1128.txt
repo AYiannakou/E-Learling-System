@@ -1,0 +1,3 @@
+In this tutorial I cover the use of a For loop, a simple factorial algorithm, and a slightly more complex factorial counting algorithm using a for and while loop.
+
+I apologize for the sloppy explanations in this tutorial, I had to rush through it because of other events. Regardless, if you have question feel free to comment or message me. Don't forget to subscribe for more tutorials!

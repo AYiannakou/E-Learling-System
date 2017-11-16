@@ -1,0 +1,20 @@
+Google Tech Talks
+September, 11 2007
+
+ABSTRACT
+
+The name Maple is synonymous with doing complex math on computers. Best known for its symbolic or algebraic computation abilities, Maple is one of the most important tools for the modern applied mathematician and scientist. Many of you are likely familiar with Maple from college but you've probably not kept up to date with latest developments. This presentation will present some of the latest product developments from Maplesoft. Topics include
+
+- developments in high performance numerical computation
+- recent advances in symbolic computing
+- new Maple libraries including graph theory, statistics, optimization, polynomial operations, and more
+- parallel and grid computing
+- knowledge capture for mathematical documents
+- the Maple programming language and application development
+- overview of new add-on products including global optimization, and modeling and simulation
+
+The presenter will be Mohamed Bendame, a senior engineer from Maplesoft. The presentations will include an open Q session.
+
+This talk will be taped by the engEDU Tech Talks Team. 
+
+Speaker: Mohamed Bendame

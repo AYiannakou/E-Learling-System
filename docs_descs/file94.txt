@@ -1,0 +1,1 @@
+A newer version of the old java game, JavaWars, that I made. This one runs unimaginably faster and is still, believe it or not, programmed in java.

@@ -1,0 +1,1 @@
+The video looks at the integer data type in Java.  It shows the difference between the four integer data types:  byte, short, int and long.  It also explains bits, bytes and the sign bit.

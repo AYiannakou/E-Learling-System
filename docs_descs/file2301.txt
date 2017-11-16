@@ -1,0 +1,1 @@
+Hello everyone, in this tutorial we are going to be looking at how to take in data from a CSV (comma separated values table) into our program ready for processing. We also learn how to throw exceptions (do not throw exceptions if you can help it, instead go to my 11th tutorial to learn how to handle exceptions properly)

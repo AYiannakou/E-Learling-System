@@ -1,0 +1,5 @@
+Get the Code: http://goo.gl/S8GBL
+
+Welcome to my Java Recursion tutorial. In this video, I'm going to cover java recursion in 5 different ways. I figured if I show it using many different diagrams that it will make complete sense.
+
+A recursive method is just a method that calls itself. As these calls are made the problem gets simpler until you reach a condition that leads to the method no longer making calls upon itself. This is known as the base case.

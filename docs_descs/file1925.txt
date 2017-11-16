@@ -1,0 +1,7 @@
+Define a key in the key space with type of String or Number (Integer, Float)
+Define a relation between this key and the real value (Any object).
+Use put() and get() methods to put or access to elements.
+Override hashCode() method of the class of the items.
+If key is a custom type, hashCode() method of the class must return as unique result as possible for each instance. Because evenly distributed keys mean high performance. You will learn the performance considerations of using a Map.
+Access the source codes, exercises and their solutions at
+https://www.udemy.com/java-8-core-training-/?couponCode=YOUTUBESPECIAL

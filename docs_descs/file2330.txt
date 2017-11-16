@@ -1,0 +1,21 @@
+Java Dukes-
+https://www.youtube.com/user/JavaDukes
+
+In this Video you will get to know about the data types which are available in java. Java is strict typed it means that we have to declare a java variable before we use it .Secondly we have to declare the data type of that variable and thirdly their is no automatic type conversion in java. Data types helps in determining that what kind of values a data type will contain like weather it will store integer type values or it will store character type values  etc.
+
+Java has eight data types that are categorized under six categories. These are
+1. Integer data type
+2. Floating point data type
+3. character data type
+4. Boolean data type  
+
+In this video i will cover integer data type and in the upcoming videos i will cover the rest of the data types. Java provides four integer data types that are used to store integer values . They are-
+1. byte
+2. short
+3. int
+4. long
+
+Byte is the smallest data type. Its size is 8 bits i.e. 1 byte. It is used when we are working on a stream of data. it ranges from -128 to 127 .the second smallest integer data type is Short. Its size is 16 bits i.e. 2 bytes it is not used so . the Next data type is int . It is the most commonly used data type its size is 32 bits i.e. 4 bytes . the last data type is long its size is 64 bits i.e. 8 bytes its used very rarely.
+
+Java Dukes
+https://www.youtube.com/user/JavaDukes

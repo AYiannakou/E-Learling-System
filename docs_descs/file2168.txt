@@ -1,0 +1,3 @@
+Hello Everyone, 
+
+I am continuing on with my video series on Java programming for beginners. In this video, I introduce the arithmetic operators and explain in detail with many examples how to use them. I also discuss and illustrate the importance of operator precedence and provide a detailed example of a common error trap that beginner programmers tend to make.

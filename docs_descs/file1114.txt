@@ -1,0 +1,1 @@
+We demonstrate how to write a program that calculates the minimum number of coins that add up to a given amount. We show two ways of solving this problem.

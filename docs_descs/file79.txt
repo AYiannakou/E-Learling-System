@@ -1,0 +1,15 @@
+Google Tech Talks
+November, 16 2007
+
+This talk describes techniques that use model checking and symbolic
+execution for test input generation. Abstract state matching is used
+to avoid generation of redundant inputs. The techniques handle complex
+data structures, arrays, as well as multithreading, and generate
+optimized test suites that satisfy user-specified testing coverage
+criteria. The techniques are applicable to both (executable) models
+and to code, and can be used in black box or white box fashion. We
+have applied the techniques to generate test sequences for
+object-oriented code and to generate test vectors for NASA software.
+
+Speaker: Corina Pasareanu
+Corina is a Research Scientist at NASA Ames Research Center, in the Robust Software Engineering Group, employed by Perot Systems Government Services.  She received her Ph.D. in Computer Science from Kansas State University.  She is currently investigating the use of abstraction and symbolic execution in the context of the Java PathFinder model checker, with applications in test input generation and error detection.  She is also working on using learning techniques for automating assume-guarantee compositional verification.  Her other research interests involve the design of a command execution language and the verification of the associated execution system (PLEXIL).

@@ -1,0 +1,2 @@
+How to read a string from keyboard and how to display it on the output console.
+Get the source code from here : http://easyway2in.blogspot.in/2013/12/how-to-read-a-string-in-java.html

@@ -1,0 +1,9 @@
+Get the Code: http://goo.gl/T40EF
+
+In this video, I'll cover how work with a linked list in java. I'll show you how they work in 4 different ways.
+
+We'll cover how to create them, what a link is, how to add and delete links, how to search through them and a whole bunch more. The basics you need to understand at the end are that: 
+
+1. A Link is an Object 
+2. Each Link has a reference to another Link in the List 
+3. The LinkedList has only a reference to the last Link added to it.

@@ -1,0 +1,8 @@
+This Java tutorial will discuss what implementing means, and introduce what an interface is.  When implementing and interface we HAVE to add all of the methods from the implemented interface
+
+Learn more and get the source code from mybringback's blog post:
+http://bit.ly/11lo52o .
+
+Visit Our Friends @ Stone River E-Learning for Additional Tutorials - http://bit.ly/1fjsXTn
+
+Coupon 20% Off HTML & CSS for Beginners - http://bit.ly/1MmuYfw

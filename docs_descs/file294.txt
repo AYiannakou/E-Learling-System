@@ -1,0 +1,15 @@
+An application I wrote, that looks like iTunes and runs on any phone that supports J2ME (CLDC 1.1, MIDP 2.0 with JSR 75 and JSR 135).
+
+Plays audio, video and displays images. The applicaton is running on a Motorola ROKR E2. In the video the following items are shown in order
+1. The main screen with the menu selector sliding in non-linear fashion (decelerates as it reaches the final location)
+2. Demonstrates viewing photos in the application. Important thing to understand is that MIDP 2.0 doe s not provide any capabilities to scale or rotate images, but the application manages to do all that. You can rotate, go fullscreen, scale etc.
+3. The application also can play you music (all the formats supported by the phone). Watch how long text scrolls back and forth. You can change tracks, seek and control volume.
+4. You can continue browsing while the music plays in the background.
+5. Next I demo how the player can be used to play videos. Of course you can control the videos the same ways audio playlists. That is you can change videos, seek and change volume.
+
+More information at 
+http://chandan-pitta.blogspot.com/2007/03/ctunes-here-we-go-live.html
+Available for download from 
+http://code.google.com/p/j2me-ctunes/
+
+http://www.motomodders.net/Default.aspx?tabid=55&forumid=80&postid=327888&view=topic&tpage=1

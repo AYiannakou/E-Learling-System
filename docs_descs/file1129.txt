@@ -1,0 +1,1 @@
+a multiplication table using for loop in java

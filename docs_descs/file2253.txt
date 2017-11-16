@@ -1,0 +1,3 @@
+Mehr auf | http://OrangeOnBlack.de | http://twitter.com/OrangeOnBlack
+Download: http://OrangeOnBlack.de/?p=767
+Oft möchte man bestimmte Programmteile mehr als einmal ausführen. Dafür gibt es in Java die sog. Schleifen. 2 Varianten stellen wir euch in diesem Video vor.

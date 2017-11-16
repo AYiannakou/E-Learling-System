@@ -1,0 +1,11 @@
+In this video, IBM InfoSphere Streams developer Alex Cook demonstrates how you can create a new Java operator in one minute. Learn more about the world of streaming analytics at http://ibm.co/streamcomputing, then explore IBM InfoSphere Streams at https://developer.ibm.com/streamsdev/.
+
+Subscribe to the IBM Analytics Channel: https://www.youtube.com/subscription_center?add_user=ibmbigdata
+
+The world is becoming smarter every day, join the conversation on the IBM Big Data & Analytics Hub:
+http://www.ibmbigdatahub.com
+https://www.youtube.com/user/ibmbigdata
+https://www.facebook.com/IBManalytics
+https://www.twitter.com/IBMbigdata | https://www.twitter.com/IBMAnalytics
+https://www.linkedin.com/company/ibm-big-data-&-analytics
+https://www.slideshare.net/IBMBDA

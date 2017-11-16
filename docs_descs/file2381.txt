@@ -1,0 +1,12 @@
+This is a basic introduction of Java Hashmap. The code can be find in the tutorial section in eeprogrammer.com. More engineering tutorial videos are available in eeprogrammer.com
+
+
+*************************************
+"Best engineering service at a low price"
+
+  We provide low cost and high quality engineering services to help you, your research team or your company increasing productivity and improving quality. If your company needs fast technical solutions, please contact us.
+
+No matter the scale of your project, we welcome your business. You can see different sizes and types of projects we did in our recent projects page.
+
+**Recent Projects
+http://eeprogrammer.com/pps/pps1.html

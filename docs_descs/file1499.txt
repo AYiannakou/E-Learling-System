@@ -1,0 +1,15 @@
+This lesson introduces Do while loop in java programming language. Do while loop differs from while loop that statements contained in Do while loop will be executed one time at least. To know more about Do while loop see this lecture. To know more about Java and other programming languages follow us at:
+=============================================
+Youtube: http://www,youtube.com/omdasharkawy
+Facebook: http://www.facebook.com/emadsaber2013
+Gmail: omda.sharkawy@gmail.com
+=============================================
+تتحدث هذه المحاضرة عن التفافة Do while في لغة الجافا
+تختلف التفافة Do while عن التفافة while في أن الجمل البرمجية الموجودة داخل التفافة Do while سيتم تنفيذها مرة واحدة على الأقل.
+لمعرفة المزيد عن التفافة Do while يرجي مشاهدة الحلقة
+لتصلك جديد فيديوهات تعليم الجافا ولغات البرمجة الأخرى يرجى متابعتنا على 
+=============================================
+Youtube: http://www,youtube.com/omdasharkawy
+Facebook: http://www.facebook.com/emadsaber2013
+Gmail: omda.sharkawy@gmail.com
+=============================================

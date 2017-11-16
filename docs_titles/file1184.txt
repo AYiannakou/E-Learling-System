@@ -1,0 +1,1 @@
+Remove Elements in an Array List (Java)

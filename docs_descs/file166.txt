@@ -1,0 +1,40 @@
+www.mylivelessons.com
+
+Stephen Walther, the world's leading ASP.NET authority introduces his new LiveLesson- DVD-ROM hands-on personal video instruction comprised of full motion video, audio and screencasts.
+
+SELF-PACED, PERSONAL VIDEO INSTRUCTIONS FROM THE WORLD'S LEADING ASP.NET Trainer
+
+4 + Hours
+ 
+http://www.informit.com/store/product.aspx?isbn=0672329522
+
+Data Access in the ASP.NET 2.0 Framework will show you everything you need to know to start building database-driven web applications using the Microsoft ASP.NET 2.0 framework and the Microsoft Visual Studio 2005 development environment. 
+
+Your instructor Stephen Walther--honored by Microsoft as both an ASP.NET MVP and "Software Legend"--guides you through building two fully functional, database-driven applications. Learn at your own pace with video lessons covering every main ASP.NET data access control: GridView, DetailsView, FormView, Repeater, DataList, and SqlDataSource.
+
+One step at a time, you'll learn how to build robust data access components, provide graceful error handling, handle user concurrency issues, and much more.
+
+Looking for a better way to master today's rapidly changing programming technologies? Want expert help, but don't have the time or energy to read a book? Can't find classroom training worth the money? Discover LiveLessons: self-paced, personal video instruction from the world's leading experts.
+
+LiveLessons are video courses, on DVD with a book supplement, that are organized into bite-sized, self-contained sessions--you'll learn key skills in as little as fifteen minutes! 
+
+Track your progress as you follow clearly defined learning objectives. 
+Follow along as your instructor shows exactly how to get great results in your real-world environment. 
+ 
+Professional author and instructor Stephen Walther provides an introduction to the core concepts of Data Access in the ASP.NET 2.0 Framework. Click play to follow along with Stephen as he explains the ins and outs of creating database-driven dynamic web applications in this LiveLesson.
+
+Workbook Introduction vii
+
+Module 1: Getting Familiar with the Visual Studio 2005 Development Environment 1
+
+Module 2: Creating an Employee Directory Application 7
+
+Module 3: Using the ASP.NET 2.0 Data Access Controls 17
+
+Module 4: Advanced Topics 39
+
+Module 5: Creating a Guestbook Application 43
+
+Bonus 1: An Introduction to SQL: The Language of Databases 49
+
+Bonus 2: An Introduction to the Microsoft ASP.NET Framework 71

@@ -1,0 +1,10 @@
+quick video about multi classes and multi objects...
+P.S : The last thing i showed in this video,  ie declaring methods within the same class as of the main method, ill be explaining more on that topic in the next tutorial and it was just a sneak of the next tutorial.
+
+and between what i meant by main class was the class in which main was defined, sorry :P
+
+Dont forget to subscribe for more videos :)
+My YouTube channel : http://www.youtube.com/user/nerdness3195
+My Facebook page: https://www.facebook.com/nerdnessvidoes
+My Google page: https://plus.google.com/u/0/b/114134624520275237910/114134624520275237910/
+My Twitter account: https://twitter.com/NerdNess3195

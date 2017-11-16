@@ -1,0 +1,10 @@
+Google Tech Talks
+August 8, 2007
+
+ABSTRACT
+
+Advanced Topics in Programming Languages: JSR-305: Java annotations for software defect detection
+
+This talk will describe the current status of JSR-305, Java annotations for software defect detection. This JSR will define several standard Java annotations for properties such as @Nonnegative and @Nonnull that can be used to document your design intentions in a way that be interpreted by multiple software tools (such as FindBugs and IntelliJ). In addition, the talk (and JSR) will discuss the need for inherited and default JSR-305 annotations and propose a way to provide them.
+
+We'll also discuss our proposal to define meta-annotations, that allow...

@@ -1,0 +1,8 @@
+Python Unconference Tokyo 1 の「Pylonsとその仲間たち」で見せる予定だったデモです。Paste のテンプレート作成機能を利用して、Pylons を拡張した開発スタイルをフレームワーク化しました。
+
+$ paster create -t trcms foo
+development.iniを編集
+$ paster setup-app development.ini
+$ paster serve development.ini
+
+でプロジェクトを作成して、DBを初期化、サーバを起動しています。

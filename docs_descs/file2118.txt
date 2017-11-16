@@ -1,0 +1,32 @@
+Download Code: http://java9s.com/core-java/map-in-java-hashmap-java-example
+Map in java has a key and value pair objects.
+The combination of this Key and value pair is called an ENTRY
+With respect to Hierarchy, Map does not come under normal collections.
+The reason is, All other collections like List, Set, Queue deal with elements where there is a single object at a level,
+Where as Map works with key value pairs. 
+Due to this new model, Map needs differnt set of methods to work with entries and this is the reason why Map does not
+extend collection interface.
+One of the Important rules we got to remember while using Map based datastructures is that
+- They do not allow duplicates as part of the keys.
+In this video tutorial, i have explianed the concept of Map and its concrete implementation with HashMap Example
+I have also mentiond about HashTable and how it is synchronized.
+
+Java Collections Tutorials Playlist:
+
+ Complete Java Beginners Tutorials:
+ https://www.youtube.com/playlist?list=PLkiVxfkxAYd1Typb8x-2nbzgsxdMQesKg
+
+ Multithreading in Java tutorial:
+ https://www.youtube.com/playlist?list=PLkiVxfkxAYd1i9eX9X74eoTjKZXzvITMX
+
+ Spring 3 MVC Framework tutorials:
+ https://www.youtube.com/playlist?list=PLA3AD4211EBE70E86
+
+ Spring Framework Tutorials:
+ https://www.youtube.com/playlist?list=PL2882729612B70122
+ 
+ Design Patterns in Java:
+ https://www.youtube.com/playlist?list=PLkiVxfkxAYd1xWYj9aOWoTevqok0VoYe7
+ 
+ Complete Generics Tutorials playlist 
+https://www.youtube.com/playlist?list=PLkiVxfkxAYd2TAn--1BH1ERvYbHxh11Qs

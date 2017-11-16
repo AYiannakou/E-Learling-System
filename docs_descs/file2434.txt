@@ -1,0 +1,1 @@
+Do while loops make sure the enclosed block of code is executed at least once before the while condition is checked.

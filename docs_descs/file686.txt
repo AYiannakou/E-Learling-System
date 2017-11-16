@@ -1,0 +1,5 @@
+This is the most important topic of Java... 
+
+Object - Objects have states and behaviors. Example: A dog has states-color, name, breed as well as behaviors -wagging, barking, eating. An object is an instance of a class.
+
+Class - A class can be defined as a template/ blue print that describe the behaviors/states that object of its type support.

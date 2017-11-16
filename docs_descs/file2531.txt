@@ -1,0 +1,3 @@
+Introduction to nested loop with a code example.
+This video starts with a walk-through on how to define an algorithm by breaking up a problem into smaller steps. Once all the steps have been specified it only takes a few minutes to translate them into Java code.
+After watching this video you should have a better understanding of how nested loops work, how to break up a problem into smaller steps, and how to translate such steps that were defined in pseudocode into Java.

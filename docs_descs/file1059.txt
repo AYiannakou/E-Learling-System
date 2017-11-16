@@ -1,0 +1,30 @@
+A best practice is to create our Java instances in a usable state. In this lesson we are going to look at Java class creation and learn how we can create Java instances in a useable state when we create them.
+
+Transcript and code: http://www.deegeu.com/never-create-java-objects-in-an-unknown-state/
+
+This video is part of a larger free online class called Free Java Course Online.  You can find more information about this class on http://www.deegeu.com/free-java-course-online/
+
+Concepts: Java, Programming, instanceof, class, instance
+
+Social Links: Don't hesitate to contact me if you have any further questions.
+WEBSITE : dj@deegeu.com
+TWITTER : http://www.twitter.com/deege
+FACEBOOK: https://www.facebook.com/deegeu.programming.tutorials
+GOOGLE+ : http://google.com/+Deegeu-programming-tutorials
+
+About Me: http://www.deegeu.com/about-programming-tutorial-videos/
+
+Related Videos:
+
+Free Java Course Online
+https://www.youtube.com/playlist?list=PLZlGOBonMjFVq9FF0eiS_emcFmP-0fSBe
+
+If You Watch 1 Playlist About Java Classes Watch this One!
+https://www.youtube.com/playlist?list=PLZlGOBonMjFXy0JzMIFQKw7BfhWdPivKM
+
+Media credits:  All images are owned by DJ Spiess unless listed below
+
+Background from pixabay.com
+
+Wheels by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Artist: http://audionautix.com/

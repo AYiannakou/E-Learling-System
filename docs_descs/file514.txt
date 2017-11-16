@@ -1,0 +1,1 @@
+In this video, you'll understand how to use multiple classes and combine them into one program. When I said Operator, I meant Object.

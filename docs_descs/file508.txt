@@ -1,0 +1,7 @@
+الدرس الخامس :
+توضيح الفرق بين الكائن و الكلاس 
+الكائن هو عباره عن نسخه من الكلاس و بامكاننا اخذ نسخه عديده من نفس الكلاس 
+The different between Object and Class
+
+رابط تحميل الدرس 
+http://abdullaheid.org/download/java101/5.Class-vs-Object.zip

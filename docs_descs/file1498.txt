@@ -1,0 +1,1 @@
+Este ejercicio muestra la sumatoria de números consecutivos, empleando el ciclo do-while.

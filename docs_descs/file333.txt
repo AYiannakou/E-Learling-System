@@ -1,0 +1,4 @@
+The function f is defined for positive integers n by:
+f(n)=n+3 if n is odd, f(n)=n/2 if n is even. Suppose k is an odd ineteger and that f(f(f(k)))=27. What is the sum of the digits of k?
+
+Check out www.gaussianmath.com for a more indepth explanation and other AMC problems.

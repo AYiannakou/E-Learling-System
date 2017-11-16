@@ -1,0 +1,1 @@
+In diesem Videotutorial wird gezeigt was eine Do-While-Schleife ist. Die Do-While Schleife bietet sich an wenn zuerst etwas ausführen werden soll bevor man entwas überprüfen will.

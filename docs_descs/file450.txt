@@ -1,0 +1,1 @@
+Arrays are just lists of variables of a certain data type. Well, they're not List lists, though. They're the fastest way to store data in Java. They're really annoyign to work with though, so that's why a lot of people don't use them.

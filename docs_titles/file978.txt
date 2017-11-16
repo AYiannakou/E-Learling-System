@@ -1,0 +1,1 @@
+Java Tutorial 8 - More Built-in Advanced Math Function with Scanner (Sqrt, Pow, etc)

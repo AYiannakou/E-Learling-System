@@ -1,0 +1,2 @@
+This is a filler episode between episode 2 (Guess the Number) and episode 3 (Tic Tac Toe) where we cover some of the essential functions needed to create Tic Tac Toe such as arrays, double arrays, for loops and nested for loops.
+Series Playlist:http://www.youtube.com/watch?v=jrypN2CpAy8&list=PLQEWImtzN6YkA3u17r8RygigzFaiXjzNm&feature=share

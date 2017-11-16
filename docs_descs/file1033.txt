@@ -1,0 +1,17 @@
+In this tutorial we explore the relationship between classes and objects in the Java programming language. We discuss common relationships between fields and methods, and present some example classes which will be turned into objects at run-time. As a core concept in object-oriented programming, a strong knowledge of classes and objects is essential for any Java programmer.
+
+-------- Footnotes--------
+We highly suggest you leave us any comments or feedback that would aid in bettering the production of these tutorials. Additionally, subscribing to us will help us to better engage you (the audience) such that we can improve our tutorials even further!
+
+Please Consider Supporting This Channel via Subscribing: http://goo.gl/HDo2G0
+
+Sign Up for Monthly (non-spam) updates: http://www.devfactor.io
+Support Us: https://www.patreon.com/devfactor
+Follow me on Twitter: http://www.twitter.com/andhofmt
+
+-------- Suggested Reading --------
+
+Book: "Clean Code" - Robert C. Martin -
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/?tag=devfactor-20
+
+#programming #code #java

@@ -1,0 +1,5 @@
+Code is Here: http://goo.gl/pp2RT
+
+Best Java Book : http://goo.gl/FtKp0m
+
+In this part of the Java Video Tutorial I cover most every method available for manipulating Strings and StringBuilders.

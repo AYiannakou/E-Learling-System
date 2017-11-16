@@ -1,0 +1,9 @@
+Learn how to truly understand Java and Bukkit plugin coding from the beginning. 
+If you're new to Java as well as Bukkit, then this series is for you.
+
+Episode 16 will teach you how to use the HashMap, one of the most useful data types. They're not as scary as they seem!
+
+Contact me on Skype with ANY questions or email me!
+
+Skype - Appljuze
+Email - appljuzeprogramming@gmail.com

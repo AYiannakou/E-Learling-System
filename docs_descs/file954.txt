@@ -1,0 +1,1 @@
+This tutorial is a continuation of the previous tutorial with our exercise which involved  creating two classes with the usage of Scanner nextInt() method to get user inputs. Enjoy!

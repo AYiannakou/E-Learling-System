@@ -1,0 +1,7 @@
+MsnRise is the most advance mobile msn client.It supports user display picture, personel messages, and ;
+-Incoming mail headers can be seen. 
+-Shows unread mails number. 
+-typing status 
+-file transfer
+
+Developed with Sun Java Wireless Toolkit

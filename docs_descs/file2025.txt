@@ -1,0 +1,47 @@
+Arrays sind Folgen von Werten eines bestimmten Typs. Wir erklären euch den Unterschied zwischen Array und Variable und was hier hier beim Programmieren in Java beachten müsst. Dazu gibt's ne Beispielaufgabe zu eindimensionalen Arrays.
+
+Übungsaufgaben & mehr auf www.thesimpleclub.de
+Unsere App für Apple downloaden: http://on.thesimpleclub.de/iosapp
+Die App für Android downloaden: http://on.thesimpleclub.de/googleplay
+Zur Windows Universal App :)
+http://bit.ly/TSCWindows
+
+Kategorie: Programmierung
+
+Hier kommst du direkt zu zweidimensionalen Arrays: Coming Soon :) 
+
+» ALLE KANÄLE
+
+Geschichte: http://www.youtube.com/thesimplehistory
+Informatik: http://www.youtube.com/thesimpleinformatics
+Erdkunde: http://www.youtube.com/thesimplegeography
+Physik: http://www.thesimplephysics.de
+Chemie: http://www.thesimplechemics.de
+Wirtschaft: http://www.youtube.com/thesimpleeconomics
+Mathe: https://www.youtube.com/TheSimpleMaths
+Biologie: http://www.thesimplebiology.de 
+
+» MEHR VON UNS ONLINE
+
+Twitter: http://twitter.com/thesimpleclub
+Facebook: http://fb.thesimpleclub.de
+Alex auf Instagram: http://alex.thesimpleclub.de
+Nico auf Instagram: http://nico.thesimpleclub.de
+TSC auf Instagram: http://instagram.com/thesimpleclubde
+
+» WAS IST THE SIMPLE CLUB?
+
+Wir sind der Meinung, dass Bildung Spaß machen muss. Deswegen bieten wir dir auf 8 Kanälen die beste und unterhaltsamste Online Nachhilfe die du im Netz finden kannst: Und das in Mathematik, Informatik, Geschichte, Geographie, Biologie, Chemie, Physik und Wirtschaft!
+
+In verschiedenen Kategorien und Schwierigkeitsgraden bereiten wir dich auf deine Prüfung vor. Egal ob Schüler oder Student, ob jung oder alt, bei uns findet jeder die passenden Videos.
+
+Und das Beste: TheSimpleClub ist und bleibt komplett kostenlos!
+
+» CREDITS
+
+Ein Konzept von Alexander Giesecke und Nicolai Schork
+
+Geschrieben von: Marcel Schubert
+Visuelle Konzeption: Nicolai Schork
+Ton: Alexander Giesecke
+Schnitt & Effekte: Ullrich Köhler

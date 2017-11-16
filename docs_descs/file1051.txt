@@ -1,0 +1,2 @@
+How to create an object in Java using an additional class file. Introduces concepts of instance variables and constructors.
+http://txtlearn.com/series/javaintro/topic07/2

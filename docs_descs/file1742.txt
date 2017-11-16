@@ -1,0 +1,4 @@
+How to work with table of multi-dimensional arrays in Java, including some tips on how to remember which index is which.
+
+Video By:  Niharika Varshney
+For More Videos visit : http://www.thenewboston.com

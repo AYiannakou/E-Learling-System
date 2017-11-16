@@ -1,0 +1,4 @@
+Java Tutorial 5
+Source Code: http://java-tutorial-source.blogspot.com/2012/12/java-tutorial-5-source-code.html
+
+After watching this video, you should learn how to use those statements, in addition, with the Scanner function.

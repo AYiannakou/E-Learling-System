@@ -1,0 +1,17 @@
+En este video vemos:
+
+1.- Creación de un ArrayList
+2.- Genéricos
+3.- Métodos del API ArrayList
+
+Si el método getObjetos() les da error, viertan el contenido del Arraylist dentro de un Object[] y retornen el arreglo.
+
+Más información en:
+Java APIs: http://java.sun.com
+
+IDE utilizado:
+BlueJ: http://www.bluej.org
+
+
+Saludos.
+Darío

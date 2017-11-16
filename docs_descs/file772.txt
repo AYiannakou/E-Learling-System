@@ -1,0 +1,5 @@
+In this tutorial we look at the difference between value types (primitives) and reference types (objects).
+
+Primitives are passed by value, so when passed to a method, you aren't manipulating the original data, but a copy of that data.
+
+Objects, on the other hand, are passed by reference, so you have the ability to change objects through that reference inside of methods.

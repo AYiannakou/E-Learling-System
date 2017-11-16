@@ -1,0 +1,5 @@
+My Java programming tutorial series. This video is about ArrayLists (dynamically sized arrays). How they're used, and a useful way to use them. Thanks for watching! As always, please leave a comment if you have any questions, and subscribe if you're interested.
+
+EXAMPLE CODES FROM PREVIOUS LESSONS ARE AVAILABLE FOR DOWNLOAD
+
+Visit my Facebook page: http://www.facebook.com/pages/John-Mcgiggles-the-Programmer/105004769580824

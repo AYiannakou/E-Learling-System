@@ -1,0 +1,1 @@
+A two-dimensional array is basically an array of single-dimensional arrays. Arrays are objects, so when you declare an array, you are creating a reference variable. There are a few different ways to declare an array reference variable:

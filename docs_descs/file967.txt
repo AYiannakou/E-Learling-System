@@ -1,0 +1,12 @@
+ICSE Java Programming Tutorials : 
+#7. Operators in Java
+
+The seventh in a series of tutorials being made to help those studying the ICSE Computer Applications curriculum.
+
+In this tutorial you will learn :
+a. Operators in Java
+b. Unary,Binary and Ternary operators
+c. Arithmetic,Logical and Relational operators
+
+I hope this helps anyone in need.
+Do subscribe/thumbs up/and all that good stuff. :)

@@ -1,0 +1,18 @@
+In this Android tutorial you will learn to:
+-set up a single item for our listview in xml
+-Create a String[]
+-Some other sweet stuff
+-subscribe
+-Thumbs up this video ;)
+
+This video is the 19th in a web series that I am creating to help you learn Android programming so you can create apps and eventually how to learn to write games for android phones.  I want to explain things in a way that everyone can understand, even if you have no experience with Java, XML, C++, OpenGL, or as a matter of fact, any other programming language.   
+
+If you do have a lot of experience with programming, these first videos will be really slow for you, but my goal is to get everyone sprinting, but for now we have learn to crawl.
+
+Follow me on twitter: @mybringback
+
+Get the source code and more information at : http://bit.ly/ZLEwKm .
+
+Visit Our Friends @ Stone River E-Learning for Additional Tutorials - http://bit.ly/1fjsXTn
+
+Coupon 20% Off HTML & CSS for Beginners - http://bit.ly/1MmuYfw

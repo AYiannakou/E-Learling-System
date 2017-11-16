@@ -1,0 +1,2 @@
+tutorial about how we can  using Array-list on Java with Net-beans.
+this tutorial consists of 3 parts.

@@ -1,0 +1,26 @@
+The for-loop is one of the most important Java control statements. You will be hard pressed to find an application that doesn't contain a for-loop. The Java for-loop syntax isn't rocket science. 
+
+You're telling Java I want you to loop over this block, and I want you to do it a set number of times. There's two ways to loop using the for loop, the basic way and the enhanced for loop. In this video I'm going to show you both, and by the end you should be a pro with the Java for-loop syntax.
+
+Transcript and code: http://www.deegeu.com/java-for-loop-syntax/
+
+This video is part of a larger free online class called Free Java Course Online.  You can find more information about this class on http://www.deegeu.com/free-java-course-online/.
+
+Concepts: #Java, Programming, java for loop syntax, java for loop, enhanced for loop, free java course online
+
+Next Video: "Fizz Buzz" on DeegeU.com
+
+Tools Used:  http://deegeu.com/java-tools
+
+Social Links: Don't hesitate to contact me if you have any further questions.
+WEBSITE : dj@deegeu.com
+TWITTER : http://www.twitter.com/deege
+FACEBOOK: https://www.facebook.com/deegeu.programming.tutorials
+GOOGLE+ : http://google.com/+Deegeu-programming-tutorials
+
+About Me: http://www.deegeu.com/about-programming-tutorial-videos/
+
+Related Videos:
+https://www.youtube.com/watch?v=yxwdKX7ErJ4&list=PLZlGOBonMjFVq9FF0eiS_emcFmP-0fSBe
+
+Media credits:  All images are owned by DJ Spiess unless listed below

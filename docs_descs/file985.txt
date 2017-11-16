@@ -1,0 +1,4 @@
+Java Tutorial 4
+Source Code: http://java-tutorial-source.blogspot.com/2012/12/java-tutorial-4-source-code.html
+
+In this video, I'll be teaching you how to use comments, Math operators and more scanner.

@@ -1,0 +1,1 @@
+The video looks at how unary operators work in programming.  It shows how a prefix and postfix operator differ.  It also shows the importance of order of operations with unary operators

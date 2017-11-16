@@ -1,0 +1,1 @@
+creating a Project and Java class in Eclipse. Difference between class and object. Part of JavaVids tutorials: http://www.javavids.com/

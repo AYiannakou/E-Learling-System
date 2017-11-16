@@ -1,0 +1,1 @@
+Java Eclipse Generate class methods and constructors

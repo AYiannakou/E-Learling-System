@@ -1,0 +1,1 @@
+The video looks at the difference between addition and concatenation.  It shows when concatenation will occur verus when addtion will occur in a programming statement.  It also looks at the duel nature (number/symbol) of the char data type.

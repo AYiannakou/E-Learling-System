@@ -1,0 +1,1 @@
+JDeveloper bug when auto-completing anonymous inner class

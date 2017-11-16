@@ -1,0 +1,11 @@
+JavaDay in Rome second edition is directly organized by Java User Group Rome, Java Portal Community and by the JIA.
+The target of this event is to promote the knowledge and the use of Java Technology.
+The event is focused on beginners and/or expert developers, managers or architects through the organization of different routes, each of them with its relative target.
+The different routes will be the following:
+1. Core Java, what's hot
+2. Next generation Web
+3. Java enterprise
+4. Open Source
+Speakers comes from Java User Groups or any other kind of Java realities involved in this project.
+They provide their expertise in the different topics and, last but not least, they don't receive any payment.
+The participation to JavaDay in Rome is completely free.

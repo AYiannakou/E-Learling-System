@@ -1,0 +1,14 @@
+In this beginners video tutorial you will learn about the not, and, or,exclusive or logical operators available in java programming language with example. 
+
+You will learn what are the logical operators available, how to use not ( ! ) operator, how to use and ( && ) operator, how to use or ( || ) operator, how to use exclusive or ( ^ ) operator in detail with examples.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

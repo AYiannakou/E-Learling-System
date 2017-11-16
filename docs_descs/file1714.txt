@@ -1,0 +1,1 @@
+This program shows you how to use an enhanced for loop with array lists.

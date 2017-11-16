@@ -1,0 +1,1 @@
+Early prototype of a JAVA interface (using OSC) to a C++ software synthesizer using additive synthesis. Made as a class project for MAT at UCSB: (http://www.create.ucsb.edu/240D/)

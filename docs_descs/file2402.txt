@@ -1,0 +1,1 @@
+This the first part of a two part java video tutorial discussing the usage of conditional and equality operators in java programming. All tutorials use the Eclipse IDE.

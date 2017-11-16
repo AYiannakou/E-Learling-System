@@ -1,0 +1,13 @@
+Java Tutorial Programmieren für Anfänger - Variablentyp Integer 
+http://panjutorials.de/tutorials/java-tutorial-programmieren-lernen-fuer-anfaenger/10899-datentyp-integer
+
+Dir gefallen meine Videos?
+Check doch meinen noch umfangreicheren und aktuelleren Java Kurs http://panjutorials.de/courses/der-ultimative-java-kurs/
+Extra Übungen, Extra Inhalt, Extra Quizes!
+
+http://panjutorials.de/
+
+Jetzt auch mit Übungsaufgaben!!!
+
+
+In diesem Tutorial, beschäftigen wir uns mit dem Variablentypen Integer. Lernt was es sich mit Integer in Java auf sich hat und wozu man ihn braucht.

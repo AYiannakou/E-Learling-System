@@ -1,0 +1,5 @@
+Este video explica el codigo de como se almacena un arraylist de objetos en un archivo
+
+descarga el codigo fuente: http://kanatajmusik.jimdo.com/ing-sistemas-programacion/java/?logout=1
+
+Tutoriales Katana: http://tutorialeskatana.blogspot.com/

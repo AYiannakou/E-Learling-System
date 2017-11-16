@@ -1,0 +1,1 @@
+Creating your first IBM Streams Java operator in 1 minute

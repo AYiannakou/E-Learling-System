@@ -1,0 +1,15 @@
+Serial.flush() has changed in Arduino 1.0.   You can use this instead:
+while(Serial.available()[GREATER-THAN]0)
+{
+  Serial.read();
+}
+
+You can download the parts list, code, and schematics from this episode on my website:
+http://jeremyblum.com/2011/02/07/arduino-tutorial-6-serial-communication-and-processing
+
+Submit your arduino project to element14's arduino contest for a chance to win a soldering station: http://www.youtube.com/watch?v=P5QpyIaycFo
+
+This tutorial series is sponsored by element14.  Check out their arduino group!
+http://www.element-14.com/community/groups/arduino
+
+Follow me on twitter: http://www.twitter.com/sciguy14

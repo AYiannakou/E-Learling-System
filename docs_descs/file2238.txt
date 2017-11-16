@@ -1,0 +1,1 @@
+In diesem Videotutorial wird gezeigt was man unter mehrdimensionalen Arrays versteht. Diese Arrays dienen dazu Matrizen abspeichern zu können. Außerdem braucht man sie für die meisten mathematischen Berechnungen.

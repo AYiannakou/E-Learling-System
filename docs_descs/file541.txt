@@ -1,0 +1,1 @@
+In this episode you will learn how to represent objects from the real world in your program. You will learn that when representing objects, you can set an access level (modifier) to that object, as well as defining attributes (fields) and behaviours (methods).

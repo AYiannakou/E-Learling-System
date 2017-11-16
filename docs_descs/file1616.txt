@@ -1,0 +1,1 @@
+Reading in a text file using the Scanner Class.  It specifically looks at taking in a line of data as a String object and converting its parts into their respective primitive data types, doubles and ints.  It shows the methods Double.parseDouble() and Integer.parseInt().

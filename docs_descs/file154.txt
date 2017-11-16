@@ -1,0 +1,3 @@
+Consisting of solid colored squares, rectangles and circles, its graphics barely match Pong-era games.  It lacks sounds effects.  It lacks music.  And, it only accepts keyboard input. But, this retro game parody, inspired by early side-scrolling shoot'em ups, makes up for what it lacks with awesome game play.
+
+http://meatfighter.com/squarius2/

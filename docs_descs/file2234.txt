@@ -1,0 +1,1 @@
+Here is another example on how arrays are made. Also the length attribute of array objects is introduced in this video.

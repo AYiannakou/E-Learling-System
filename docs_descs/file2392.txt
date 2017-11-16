@@ -1,0 +1,2 @@
+Downlaod the PPT and example code at http://java9s.com/core-java/java-operators-and-assignment-operators
+This video tutorial explains about the Java operators. This explains about the Arithmetic operators, Bitwise operators, Conditional operators, shift operators and Assignment operators. This video tutorial also explains about the short circuit AND and Short circuit OR operators

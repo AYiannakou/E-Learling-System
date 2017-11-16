@@ -1,0 +1,1 @@
+We show the difference between == and .equals in Java, and why you should not use == to compare Strings in Java.

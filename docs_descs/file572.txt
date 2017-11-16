@@ -1,0 +1,1 @@
+Se mostrará un código para entender con mayor facilidad los  arreglos en Netbeans

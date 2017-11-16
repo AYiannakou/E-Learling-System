@@ -1,0 +1,41 @@
+Imagine you're creating an class to represent coordinates.  The coordinates could be two numbers representing the x and y axis, or the two numbers can represent a length and angle. Think about that for a second. This breaks because your constructor will only have two numbers for parameters, and no way to guess which one you mean. You could say integers for one, and floats for another but that's ugly and puts artificial constraints on your class. A constructor isn't going to work. We could use a builder pattern, but it seems overkill for two parameters. Lets look at a new pattern in Java called the static factory.
+
+The static factory is a simple variation of the factory method pattern. The factory method pattern is a design pattern we'll cover later. The static factory method is simply a static method that returns an instance of a class. It might call a constructor to create an instance, or it might return an instance it already has created. Our next thought is, how does this help us?
+
+#java #programming #tutorial
+
+▼
+Like the video? Don't forget to subscribe! ➜ http://www.deegeu.com/subscribe
+
+▼
+Keep up to date with the newsletter! ➜ http://www.deegeu.com/newsletter/
+
+Transcript and code: : http://www.deegeu.com/static-factory-methods-in-java/
+
+Concepts: Java, classes, java constructor chaining, constructors
+
+Social Links: Don't hesitate to contact me if you have any further questions.
+WEBSITE : dj@deegeu.com
+TWITTER : http://www.twitter.com/deege
+FACEBOOK: https://www.facebook.com/deegeu.programming.tutorials
+GOOGLE+ : http://google.com/+Deegeu-programming-tutorials
+
+About Me: http://www.deegeu.com/about-programming-tutorial-videos/
+
+Related Videos:
+
+Hide your class details with Java Access Modifiers - 027
+https://youtu.be/JK7ltJLCgqM
+
+Free Java Course Online
+https://www.youtube.com/watch?v=yxwdKX7ErJ4&list=PLZlGOBonMjFVq9FF0eiS_emcFmP-0fSBe
+
+Media credits:  All images are owned by DJ Spiess unless listed below:
+
+Backgrounds
+https://pixabay.com/
+
+Music
+Just Nasty by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Source: http://incompetech.com/music/royalty-free/?keywords=Just+Nasty
+Artist: http://incompetech.com/

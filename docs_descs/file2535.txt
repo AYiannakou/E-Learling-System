@@ -1,0 +1,1 @@
+We show how to print out a multiplication table using nested for-loops.

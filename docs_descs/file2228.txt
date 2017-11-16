@@ -1,0 +1,1 @@
+Explains Arrays using pictures and 3 programs.  Deep dive into 3 different Java programs to understand declaration, initialization and accessing elements of array.  It also discusses simple syntax for declaring and initializing arrays.

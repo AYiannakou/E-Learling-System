@@ -1,0 +1,14 @@
+Array of objects and Multi Dimensional array - Java Programming 13
+Animal [] animals = new Animals[2];
+animals[0] = new Animal();
+animals[1] = new Animal();
+or we can use
+Animal [] animals = {new Animal();new Animal()}
+Multi Dimensional arrays
+int [][] arr = new int[2][2];
+arr[0][0] = 4;
+or else we can define
+int [][] arr = new int[2][];
+make second empty
+then arr[0] = new int[2];
+arr[1] = new int[2];

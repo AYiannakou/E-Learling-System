@@ -1,0 +1,2 @@
+Welcome to Coding Simplified. 
+In this tutorial, we'll learn the Logical operators used in Java Programming languages.

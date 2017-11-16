@@ -1,0 +1,2 @@
+In this video I introduce you to Java's foreach loop a.k.a. enhanced for loop. 
+I point out the similiarities and differences to the 'traditional' for loop and I show you how to use the foreach loop  with an integer and character array. Then I present you with a programming challenge. At the end I provide the solution.

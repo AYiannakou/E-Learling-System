@@ -1,0 +1,14 @@
+In this beginners video tutorial you will learn how to pass parameters or arguments to methods in java programming language in detail with example.
+
+This video lecture teaches how to create and use methods with parameters, how to call them, how to pass arguments to methods,how arguments are passed to methods, what is the use of them, where methods can be used in detail with example.
+
+Get the source code of this tutorial at our website
+http://www.LearningLad.com
+
+Watch Video tutorials in HINDI at
+http://www.youtube.com/user/LearningLadHindi
+
+LearningLad in social media
+facebook    http://www.facebook.com/LearningLad
+twitter         http://www.twitter.com/LearningLadEdu
+Google+     http://www.google.com/+LearningLad

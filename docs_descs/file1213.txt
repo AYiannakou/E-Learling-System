@@ -1,0 +1,2 @@
+A quick overview of the basic logical operators AND, OR, and NOT. Then a slightly more advanced topic - Bitwise functions - are described. This includes a brief overview of how the binary bits can be converted to decimal format using the powers of two and then dives into some diagrams showing how the left-shift bitwise function applies to transfer an integer value "9" into the value "36". Finally I show how the bitwise logical AND function (single ampersand) is applied.
+Series Video #8

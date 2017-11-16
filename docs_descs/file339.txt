@@ -1,0 +1,5 @@
+Joinmax doggy alternately sits down and stands up under control of  Warplan, a simple planner written in Prolog (author: David Warren 1975!).
+
+The method for standing up was discovered by accident. The servos on the bot are not strong enough to lift even 1/2 the dog directly off the ground. 
+
+An integer overflow showed me it was still possible to get up by drawing rear legs under body for leverage.

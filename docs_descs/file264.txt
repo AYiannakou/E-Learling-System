@@ -1,0 +1,1 @@
+tech vocabulary, concepts and themes from the Sun Java Composite Application Platform Suite (Java CAPS)

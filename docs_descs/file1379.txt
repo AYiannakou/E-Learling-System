@@ -1,0 +1,1 @@
+In this video introduce for loops in java and incorporate concepts that we already known such as system input, output and variables. We use these to create a program which outputs multiplication tables.

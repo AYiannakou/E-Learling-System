@@ -1,0 +1,7 @@
+In this tutorial I introduce data structures and we learn how to use one of the most basic structures, the array.
+
+We look at different ways we can initialize an array, how to set values to array elements, how to get values from array elements, and how to iterate over an array using loops.
+
+Be sure to remember that an array index starts at 0, so if you create an array of size 10, the indices will be 0-9. The last elements is always at the index size - 1.
+
+This introduction is in no way comprehensive--there is much more to learn about arrays, but it should get you familiar with seeing and experimenting with arrays.

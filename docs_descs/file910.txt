@@ -1,0 +1,1 @@
+Wie programmiert man in Java ein Array? Grundlegende Syntax zur Erzeugung eindimensionaler Arrays.

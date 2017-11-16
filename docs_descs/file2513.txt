@@ -1,0 +1,9 @@
+Code Here: http://goo.gl/v0M6t
+
+Best Java Book : http://goo.gl/FtKp0m
+
+In this part of my Java Video Tutorial I introduce Java collection classes. Specifically I cover how to use Java ArrayLists.
+
+Java ArrayLists make it easy to keep track of groups of objects. A Java ArrayList differs from a java array in that it automatically resizes itself when you add or remove values.
+
+I'll go over nearly every Java ArrayList method in this video.

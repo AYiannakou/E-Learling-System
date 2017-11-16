@@ -1,0 +1,1 @@
+This video discusses the process of using sentinel values to control user input in Java programming using loops

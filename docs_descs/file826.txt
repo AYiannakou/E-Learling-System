@@ -1,0 +1,102 @@
+JAVA物件導向程式設計課程上課影音(10)
+
+完整影音論壇：
+https://groups.google.com/forum/?hl=zh-TW#!forum/java_object
+完整影音：http://goo.gl/x1YdG
+智慧型手機開發實例與證照解析(Android)上課
+
+完整影音：https://groups.google.com/group/Android_Advanced?hl=zh-TW
+
+JAVA&Android課程理念
+Android智慧型手機以JAVA為基礎，已成為手機上最完整的開放開發平台之一，
+在手機已是人手必備的趨勢下，手機相關的應用，將會超越PC，比PC更智慧，更貼近個人使用習慣，未來APP將漸取代Web，成為各產業或政府對外窗口。
+以循序漸進的方式講授從JAVA入門到證照，再到Android應用程式架構、圖形介面開發、測試與除錯等，進而取得證照。
+使學生能開發APP遊戲、多媒體APP等各類型手機應用程式為目標。
+吳老師教學特色：
+1.影音複習分享(全程錄影)。
+2.能不硬code程式，有程式也會提供畫面。
+3.提供業界實務開發經驗。
+4.書上沒講到的操作，圖形化工具使用。
+5.隨時更新第一手資訊。
+
+章節大綱
+1　Android 導論與新版功能介紹 
+2　開發工具下載與安裝 
+3　Android 專案與系統架構 
+4　UI 設計基本概念 
+5　UI 進階設計 
+6　Activity 生命週期與平板電腦設計概念 
+7　資料存取
+8　行動資料庫 SQLite
+9　Google 地圖 
+10　感應器應用 
+11　多媒體與相機功能 
+12　手機實用功能開發 
+13　AdMob 廣告看板製作 
+14　發佈應用程式至 Google Play
+
+Android 教學研習心得分享懶人包：
+http://terry55wu.blogspot.com/p/android.html
+
+吳老師教學部落格：
+http://terry55wu.blogspot.com/
+Android論壇：
+https://groups.google.com/group/android_bisic?hl=zh-TW
+
+http://www.youtube.com/playlist?list=PLFBAB7C198182C71F&feature=view_all
+
+JAVA02_流程控制敘述
+http://www.youtube.com/playlist?list=PL0EADCF8F06B00BA4&feature=view_all
+
+JAVA03_舉範例說明
+http://www.youtube.com/playlist?list=PL64C8D9D3E8DD932D&feature=view_all
+
+AWT視窗窗物
+http://www.youtube.com/playlist?list=PLFBAB7C198182C71F&feature=view_all
+
+JAVA05_事件處理
+http://www.youtube.com/playlist?list=PLA7BC9C0DA74C9DA1&feature=view_all
+
+TQC_JAVA解題
+http://www.youtube.com/playlist?list=PLEAD98F19A4702915&feature=view_all
+
+android入門(淡江)
+http://www.youtube.com/playlist?list=PLFCA1F8C48C3FEDC9&feature=view_all
+
+1010109德明資科系TQC+ANDROID研習心得(學生)
+https://www.youtube.com/playlist?list=PLE4192ECF9FB645E7&feature=view_all
+
+JAVA證照考題解答分享，Android證照的跳板
+http://terry55wu.blogspot.com/2012/01/java.html
+
+JAVA程式設計總整理
+http://terry55wu.blogspot.com/2011/10/java.html
+
+湜憶電腦 TQC JAVA進階級先修課程
+http://terry55wu.blogspot.com/2010/08/tqc-java.html
+
+最近的生活很JAVA兼分享GOOGLE服務在教學上的應用
+http://terry55wu.blogspot.com/2010/05/javagoogle.html
+
+文化大學推廣部JAVA程式設計第 2 次上課
+http://terry55wu.blogspot.com/2010/05/java-2.html
+
+文化大學推廣部JAVA程式設計第 3 次上課
+http://terry55wu.blogspot.com/2010/05/java-3.html
+
+文化大學推廣部JAVA程式設計第 4 次上課
+http://terry55wu.blogspot.com/2010/05/java-4.html
+
+文化大學推廣部JAVA程式設計第 5 次上課
+http://terry55wu.blogspot.com/2010/05/java-5.html
+
+Java、VisualBasic、Visual C++有什麼不一樣呢?
+http://terry55wu.blogspot.com/2009/03/javavisualbasicvisual-c.html
+
+程式語言排行榜，C語言居冠，JAVA次之
+http://terry55wu.blogspot.com/2010/05/cjava.html
+
+Android程式開發證照教學懶人包
+http://terry55wu.blogspot.com/p/android.html
+
+e化創新, Google Andriod, TQC PLUS, 吳清輝老師, 吳老師提供, 銘傳資訊學院, 湜憶電腦, 程式開發, 線上教學, 資訊應用系, 雲端計算 ,TQC,JAVA,電腦證照,JAVA工程師,AWT類別,線上教學,雲端計算

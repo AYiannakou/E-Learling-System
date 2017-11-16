@@ -1,0 +1,5 @@
+Hello Everyone and Welcome,
+
+I am continuing on with my video series on Java programming for beginners.  In this video I introduce and illustrate how to write a For loop in Java.  I explain step by step exactly how to write them, how they are processed and I also highlight several pitfalls (such as infinite loops) that beginner programmer usual make and show you how to avoid making them.
+
+I hope you enjoy the video and find it beneficial.  Thank you for watching.  If you have any feedback or questions, please enter them as comments below.

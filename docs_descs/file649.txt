@@ -1,0 +1,10 @@
+Everything that u must know about structures, arraylist and how to use both in your code to get the best results.
+I'm also gonna teach how to save/load an arraylist and also how to save a structure in an arraylist.
+
+Thanks for watching and hopefully you guys will subscribe.
+
+Here is the blog with a written tutorial on the same and many other tutorial of vb.net.
+
+http://mrvbdude.blogspot.com/
+Facebook: http://facebook.com/groups/204954786200526/
+Add me on SKYPE where I can help you with your codes : IloveProgramming4u

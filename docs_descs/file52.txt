@@ -1,0 +1,8 @@
+DigInfo - http://movie.diginfo.tv
+
+Want to make programs for KDDI cell phones? Then Star Game's J2B Translator may be for you. 
+The J2BTranslator automatically converts Java Apli into Brew Apli for KDDI mobile phones. All you need are images used for DoJa (as gifs and pngs) and audio (in the midi format and spf formats). Your Java byte code should be using the Java class library specified by Star Game's.
+
+"So this is a Java Application and here the same one converted into Brew. You can see that the Java functions have been recreated in Brew. Not only that but its functions meet KDDI's stringent inspection standards."
+
+The J2BTranslator is compatible with Brew 3.1.  Through this easy conversion, the cost required for development of Brew Apli has been cut drastically and Java programmers dont also need to be Brew experts.

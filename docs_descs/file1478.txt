@@ -1,0 +1,1 @@
+Java Script allows us to create an array of arrays. Doing so we can get n-dimension arrays we can later use in our code.

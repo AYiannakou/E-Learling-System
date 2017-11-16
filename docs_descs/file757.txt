@@ -1,0 +1,1 @@
+Hoje vou mostrar com fazemos para ler-mos strings e guarda-las numa variavel!

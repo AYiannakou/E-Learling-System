@@ -1,0 +1,1 @@
+Java Tutorial: Using Static Methods of Another Class

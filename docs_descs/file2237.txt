@@ -1,0 +1,1 @@
+Describes how to declare an array in Java and shows how to input numbers in an array, and find the maximum value of an array.  Download source-code from http://java.martincarlisle.com

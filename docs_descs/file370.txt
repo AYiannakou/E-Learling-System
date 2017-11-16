@@ -1,0 +1,29 @@
+Please check the description for more information and detailed explanation.
+
+Converting an integer to a string is a common practice when programming. For some application processes, it's necessary to manipulate the format. Java makes converting an integer to a string easy through one of its internal functions.
+
+In this example : Class name is InttoStingConversionExample1 and first we have to declare an integer  and i have assigned 10 to that.
+
+Declare a string and the string variable is mystring and i have assigned empty string that " ".
+
+Next is how to convert. mystring = Integer.toString(myinteger);
+we have to convert the interger 10 to string and we have to print it.
+
+myinteger is 10 and its converted to string and the string value is printed , that is the same value 10 which is in string format.
+
+Theory explanation.  
+
+1. Declare the integer variable. Before using any variable, you need to declare it for the compiler. Below is an example of a defined integer set to the value of 1.
+int myInteger = 1;
+
+2 .  Declare the string variable. A string variable needs to be defined to save the converted integer. You can't save a string to a declared integer variable, so there needs to be a second variable for the conversion. Below is an example of a declared variable set to a value of an empty string.
+
+String myString = "";
+
+3 . Convert the integer to a string. Now the integer can be converted. The next line of code converts the myInteger variable and saves it to the myString value.
+myString = Integer.toString(myInteger);
+
+4 . Print the variable in the edit plus tool. To verify the conversion, print to the screen. To print in Java, use the code below.
+System.out.println(myString);
+
+Please feel free to comment!!!!!!!!!!!!!!!!!!!!!!!

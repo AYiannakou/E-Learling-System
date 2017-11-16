@@ -1,0 +1,3 @@
+In this tutorial we talk about arrays and arraylists. We go over the fundamentals and try to find instances for which they might save us time and prove to be a more eloquent solution than the alternatives.
+
+In the next tutorial we will put this to practice and read a CSV file and then parse that CSV file into our array for processing.

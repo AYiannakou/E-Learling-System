@@ -1,0 +1,1 @@
+Simple Hello World in Java 1.6 with NetBeans 5.5.1 beta

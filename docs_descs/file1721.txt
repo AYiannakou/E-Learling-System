@@ -1,0 +1,6 @@
+its a 4 by 4 array 
+here  -%10s- is being used for the gaps 
+between the arrays element....
+
+its just like a matrix 
+hope u will like it....

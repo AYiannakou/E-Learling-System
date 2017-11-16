@@ -1,0 +1,10 @@
+Hey,  today we will talk about array and how arrays is helpful in Selenium as well.
+
+We will also discuss 2 D array which we will use in data-driven testing in Selenium.
+
+The array has certain limitation like type and size so we have ArrayList as well which we will discuss in future.
+
+-~-~~-~~~-~~-~-
+Please watch: "How to Handle Element is Not Clickable at Point Exception in Selenium Webdriver" 
+https://www.youtube.com/watch?v=XNwcGNLk3cE
+-~-~~-~~~-~~-~-

@@ -1,0 +1,7 @@
+Humans are social creatures, but robots, for the most part, are not. To help emergency response personnel in the trenches, a team of researchers is writing the playbook to turn a group of robots into a single well-oiled machine.
+
+Led by Nikos Papanikolopoulos, researchers at the University of Minnesota, the University of Pennsylvania and Caltech are devising software that will allow small robots to coordinate their actions and carry out complex commands from a human operator. The work is supported by a $2.6 million Information Technology Research award from the National Science Foundation (NSF), an independent federal agency that supports fundamental research and education across all fields of science and engineering.
+
+Robots need far more than the team-building exercises offered by corporate consultants. To be a useful tool at disaster sites, robot teams need software for collaborative sensing, for distributed exploration and mapping, for reliable team coordination independent of a human operator and for effective communication with their operators.
+
+Called Scouts and built with off-the-shelf electronics, the robots have been designed to withstand a lot of punishment. Scouts can survive a six-story drop into a collapsed building or a 100-foot throw into unfamiliar territory.

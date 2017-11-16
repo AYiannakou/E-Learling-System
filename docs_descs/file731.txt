@@ -1,0 +1,10 @@
+Aprenda a inverter Strings em Java, seja ela textos ou palavras.
+Na programação de computadores, uma String é tradicionalmente uma sequência de caracteres, como uma constante literal ou como algum tipo de variável. Este último pode permitir aos seus elementos a ser mutado e o comprimento alterado, ou pode ser fixa (após a criação). Uma String é geralmente entendida como um tipo de dados e é frequentemente implementada como uma matriz de bytes (ou palavras) que armazena uma sequência de elementos, tipicamente caracteres, usando algum codificação de caracteres. A cadeia também pode denotar matrizes mais gerais ou outra sequência (ou lista) tipos de dados e estruturas.
+Dependendo de linguagem de programação e tipo de dados específica utilizada, uma variável declarada como sendo uma string pode ou armazenamento causa na memória para ser estaticamente alocado para um comprimento máximo predeterminado ou empregar alocação dinâmica para permitir que ele mantenha número variável de elementos.
+
+Quando uma seqüência aparece literalmente no código-fonte, é conhecida como uma string literal ou um texto anónimo
+
+Canal do Código
+
+Siga nosso canal!
+Ficou com dúvida? Comente no vídeo!

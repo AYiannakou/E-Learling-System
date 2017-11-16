@@ -1,0 +1,4 @@
+This video describes the adjacency linked lists storage for various types of graphs, and compares its space usage with that of the adjacency matrix storage scheme. The video also shows how to write a Java program to read a graph from a text file, and store it in adjacency linked lists. This video is part of a series on data structures and algorithms by Sesh Venugopal. http://www.cs.rutgers.edu/~venugopa
+Code and data links: https://www.dropbox.com/s/cn2u1qjuo9nhslv/Graph.java,
+https://www.dropbox.com/s/p7fogs05qreiqp1/friendship.txt,
+https://www.dropbox.com/s/v9l6envcyqpdxud/website.txt

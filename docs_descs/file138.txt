@@ -1,0 +1,6 @@
+The 2nd Annual Google Test Automation Conference (GTAC) in our New York office on August 23 and 24, 2007
+
+Simon Stewart - Web Driver
+Faster than a speeding bullet! Easier to maintain than something that's really easy to maintain! Reliable! That's what we want from our tests, but how do we get there? This presentation covers key strategies and patterns for writing test suites using WebDriver, a developer focused tool for web application testing similar in spirit to Selenium RC. We'll cover why it was written, the problems it addresses and how to integrate it into your projects and testing process.
+
+Simon Stewart lives in London and works as a developer for ThoughtWorks, specialising in Agile development and Test Driven Development. His Open Source contributions include the original integration of WebWork and Spring as well as WebDriver. He enjoys writing better software and beer, sometimes at the same time.

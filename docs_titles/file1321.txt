@@ -1,0 +1,1 @@
+Java static variable, method, block, static inner class, interface static method

@@ -1,0 +1,2 @@
+Get complete courses at http://courses.caveofprogramming.com
+A tutorial on arrays of Strings in Java, plus another way to iterate through an array, and more stuff on the difference between values and references.

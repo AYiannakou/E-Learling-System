@@ -1,0 +1,1 @@
+This video looks at how the compareTo() method is used within the String class of Java.  It explains lexicographic ordering and special cases in Java.

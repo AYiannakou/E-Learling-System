@@ -1,0 +1,17 @@
+Get the Source Code: https://github.com/TheCodingWombat/code/blob/master/YouTube/Java/JavaTutorial5.java
+
+Install IntelliJ IDEA for Free: https://youtu.be/66bDNYfp-Dc
+Learn about the while and do while loops in Java, two tools that will help you tremendously in all sorts of situations.
+I talk about infinite loops using the true keyword, managing loops using the break and continue keywords, boolean tests as a condition in while loops, and do while loops that guarantee that your code runs at least once even if the condition is false.
+Watch this tutorial and learn everything you need to know about these concepts in the Java programming language.
+
+Don't understand something I show in this video, or want to learn something else? Please leave a comment and I'd be more than happy to help you!
+
+0:22 The while statement
+1:00 Infinite loop using the while statement
+1:26 The break keyword
+1:56 The continue keyword
+2:52 Using expressions other than true or false
+3:25 The do-while statement
+
+Want to learn more about Java? Watch the entire playlist: https://www.youtube.com/watch?v=vCM7PG_b6VE&list=PLSILUKOfS5g3i6xC14jSPzKQaaj-OhcYQ&index=5

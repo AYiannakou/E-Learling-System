@@ -1,0 +1,1 @@
+Finding the average using simple Java Programming.

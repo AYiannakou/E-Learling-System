@@ -1,0 +1,1 @@
+you have to  send synchronized 8 bits to show number.

@@ -1,0 +1,3 @@
+This little video details the differences between the two functions of '==' and '.equals' and how they work in java.
+In short, == compares the literal object and not the object value. 
+.equals searches for the object's value, then does the comparison.

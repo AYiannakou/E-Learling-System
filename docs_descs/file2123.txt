@@ -1,0 +1,23 @@
+Java 
+======================
+How HashMap works in java
+https://youtu.be/nrdhrA8Tpag
+
+Android
+====================
+Android Content Provider
+https://www.youtube.com/watch?v=RWwNWyIXfhI
+
+Android Fragment
+https://www.youtube.com/watch?v=_mUyTUEf0q4
+
+AIDL Demo
+https://www.youtube.com/watch?v=1enuYzGMOXE
+
+Android BroadcastReceiver
+https://www.youtube.com/watch?v=NbXvhw749_c
+
+Mathematical Algo
+====================
+Factorial of a large number
+https://www.youtube.com/watch?v=bC-YTVm4kXw

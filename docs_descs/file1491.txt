@@ -1,0 +1,5 @@
+Questo tutoria spiega in maniera semplice e comprensibile da tutti i cicli while e do-while, le differenze tra di essi e le insidie che possono avere. È stato fatto un esempio molto semplice, veloce e pratico per aiutare la comprensione. Ho usato ECLIPSE come IDE.
+- SOTTOSCRIVETE AL CANALE per i prossimi tutorial
+- METTETE MI PIACE e CONDIVIDETE se lo trovate utile
+- VISITATE http://www.supernerd.it/2013/07/01/java-tutorial-8-i-cicli-while-e-do-while/ per trovare il codice da copiare e tutti i link presenti nel video!
+- SEGUITEMI SU TWITTER @bigLiukTheory

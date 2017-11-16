@@ -1,0 +1,8 @@
+Powerpoint from the video:
+http://www.mediafire.com/?2ws67f8x5u0q8fm
+Source code from the video:
+http://www.mediafire.com/?k1nwah5qvwx6zci
+------------------------------------------------
+Short video discussing random access files in Java. If you have any questions or comments feel free to post them in the comments section below. Also be sure to like the video if it's helped you at all and remember to subscribe if you'd like to be notified when a new video is posted.
+
+Also, I'm looking for new topics to make videos on. If you're struggling with a concept in Java or C++ (or any other language) send me a message or comment and I'll do my best to get a video out about it!

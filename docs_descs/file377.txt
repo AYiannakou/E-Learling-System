@@ -1,0 +1,4 @@
+Follow more CS videos @ http://hackercs.com...
+Please like, comment and subscribe so we can make more free CS videos :)
+
+Write a method in Java that converts a String to an int

@@ -1,0 +1,1 @@
+Example in which the output produced by a while loop is mimicked using a for loop in Java. Explanation about the scope of a loop control variable defined in the for loop heading is also discussed.

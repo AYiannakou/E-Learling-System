@@ -1,0 +1,1 @@
+A simple Student class is created with multiple fields and their appropriate accessors and mutators.  Then a driver program to instantiate a student object and display it to the command prompt.

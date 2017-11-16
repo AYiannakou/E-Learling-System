@@ -1,0 +1,19 @@
+For more: http://redstagdigital.com/
+
+Next Video: http://youtu.be/vivNoObXuH4
+Java API Arrays: http://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
+
+____________________________________________________
+Objective
+Write a Java program called PrintNumberInLetters that prompts the user to enter a 
+whole number between 1 and 10 inclusive. Print out the number in word format. If a 
+user enters a number less than 1 or greater than 10, inform the user that the number 
+is invalid.
+For example, if a user enters 2, the output displayed on screen is “Two”. 
+
+Java Strings
+Java Arrays
+Java Tutorials
+Java For Beginners
+Java Integers
+Java Statements

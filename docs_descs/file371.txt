@@ -1,0 +1,7 @@
+View the previous part: https://www.youtube.com/watch?v=ZiqRTSlobL8
+View the next part: https://www.youtube.com/watch?v=wtwiPCs7Q0E
+
+In this tutorial I discuss how to create custom methods in Java, and use them to do things like compare strings.
+
+Thanks for watching!
+http://brandonsoft.com

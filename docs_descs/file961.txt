@@ -1,0 +1,1 @@
+Introduction to Java Collections Class. Explore and try some of the methods from this class.

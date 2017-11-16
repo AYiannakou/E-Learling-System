@@ -1,0 +1,6 @@
+This video describes:
+1. What is Java method
+2. How to write java methods
+3. Java Method access modifier
+4. Java Method return type
+5. Example of Java Methods

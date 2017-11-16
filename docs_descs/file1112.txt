@@ -1,0 +1,1 @@
+We show how a for loop works and how to add up all the numbers between 1 and 1000000.

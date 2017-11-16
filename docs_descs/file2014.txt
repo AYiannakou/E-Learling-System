@@ -1,0 +1,12 @@
+This video will have information about String class in Java and how we can take help of String class in Selenium.
+
+String class has so many methods which will help you to perform many operations.
+
+For example- compare, split, trim and so on.
+
+Watch out the complete video for more details.
+
+-~-~~-~~~-~~-~-
+Please watch: "How to Handle Element is Not Clickable at Point Exception in Selenium Webdriver" 
+https://www.youtube.com/watch?v=XNwcGNLk3cE
+-~-~~-~~~-~~-~-

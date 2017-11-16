@@ -1,0 +1,1 @@
+In this video, you should learn how to use user inputs with the advance math functions. In addition, you should know more about assignment operators after watching this video.

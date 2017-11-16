@@ -1,0 +1,6 @@
+(Watch in full screen mode)
+jEdit is a cross platform GNU-licensed programmer's text editor written in Java customizable with plugins.
+SuperAbbrevs Plugin provides code snippet handling. Enables inserting custom code blocks on pressing preferred keyboard combination.
+
+http://www.jedit.org
+http://taat.pl/en/jedit/

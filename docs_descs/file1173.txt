@@ -1,0 +1,3 @@
+En este vídeo vemos cómo utilizar Iteradores para recorrer colecciones como por ejemplo el ArrayList de vídeos anteriores.
+
+Para más cursos, ejercicios y manuales visita: http://www.pildorasinformaticas.com

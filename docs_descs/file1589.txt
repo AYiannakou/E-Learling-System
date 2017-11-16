@@ -1,0 +1,10 @@
+in this video are going to see and learn how various assignment operators are used, we are going to see simple operators like 
+=(equal to) 
++= (plus equal to)
+-= (minus equal to)
+/= (divide equal to)
+*= (multiply equal to)
+
+as usual everything explained in hind, you can find source files on this link
+
+hassle-free shopping with www.wahapar.com

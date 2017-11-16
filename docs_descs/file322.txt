@@ -1,0 +1,7 @@
+Thank you
+Below is the C2F conversion calculator, keep in mind it is only 4 lines long.
+
+def C2F():
+Celsius    = input('Enter degrees in Celsius: ');
+Fahrenheit = (9.0 / 5.0) * Celsius +32;
+print Celsius, 'Celsius =', Fahrenheit, 'Fahrenheit';

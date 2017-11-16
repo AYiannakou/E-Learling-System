@@ -1,0 +1,9 @@
+There may be a situation when we need to execute a block of code several number of times, and is often referred to as a loop 
+
+In this video , i will review the three looping mechanisms which are the while Loop , do...while Loop , and the for Loop
+
+More information provided here: http://www.tutorialspoint.com/java/pdf/java_loop_control.pdf 
+
+If you have any questions , put them in the comment's section and i will be there to answer them.
+
+Rate , Comment , and Subscribe to my YouTube Channel to keep up to date with my videos.

@@ -1,0 +1,1 @@
+This video explain what is ArrayList, when to use ArrayList and Demo on how to implement using String objects and real time use defined objects

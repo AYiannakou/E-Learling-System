@@ -1,0 +1,2 @@
+This video is for BEGINNERS.  It helps beginners understand how to work with multiple data types and arrays.
+Grab the source from: https://github.com/gentryh/YouTubeTutorials/tree/master/BasketballStats

@@ -1,0 +1,1 @@
+Second episode of my programming series dedicated to teaching you Java! This episode is dedicated to teaching you about Java's primitive data types, and the special set of objects, Strings. Please enjoy, subscribe, like, and favorite if you enjoyed the lesson. And always, leave a comment and tell me how you feel.

@@ -1,0 +1,1 @@
+An example program that determines whether a word is a palindrome using the Java String Class.

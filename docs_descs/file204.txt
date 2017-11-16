@@ -1,0 +1,9 @@
+Google TechTalks
+May 31, 2006
+
+Narayanan Shivakumar
+
+Shivakumar is a Google Distinguished Entrepreneur. Earlier, he was a Director of Engineering responsible for many of Google's advertising products and Google Search Appliances. Before Google, he cofounded Gigabeat ('99), a startup in the online music space, and later acquired by Napster. He graduated with a BS '94 (Summa Cum Laude) from UCLA in Computer Science and PhD '99 in Computer Science from Stanford University.
+
+ABSTRACT
+Google deals with large amounts of data and millions of users. We'll take a behind-the-scenes look at some of the distributed systems and computing platform that power Google's various products, and make the products...

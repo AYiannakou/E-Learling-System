@@ -1,0 +1,16 @@
+Click Here To Subscribe! ► http://bit.ly/JoinMyFun
+
+In this tutorial. We are introduced to Objects and Classes. Ok, it's time for us to make our own class and we'll call it the rectangle class. We'll then call that class in our main program. Let the fun begin.
+
+
+Get your JDK here: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+Get eclipse here: https://www.eclipse.org/downloads/
+
+-------------------------------------------------------------------------------------------------
+Beside making tutorials, I also enjoy live stremaing on Twitch.tv
+
+Wanna see more? 
+Head over to http://www.twitch.tv/lincxx 
+
+Also follow me on Twitter
+https://twitter.com/MrJeremyLincoln

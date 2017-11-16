@@ -1,0 +1,5 @@
+In this programming exercise I`m trying to figure out how to sort arraylist and save its contents into text file. So, we have 3 major tasks:  1) Reading input from text file and filling arrayList with it;  2) Sort our arrayList using Collections.sort method; 3) and finally - save sorted arrayList into another text file as output. 
+=====================================
+SUBSCRIBE FOR MORE:
+http://www.youtube.com/subscription_center?add_user=UC4_BmI7ztL9eJC4liCp0qjQ
+=====================================

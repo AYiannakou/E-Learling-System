@@ -1,0 +1,2 @@
+Tim presents the architecture that he designed for one of his clients. The system collects data from thousands of cell phones and matches the data acoustically with reference data that is collected via a different process.
+The requirements include data integrity but not high availability, so he was able to compromise in a way that significantly reduced cost and complexity.

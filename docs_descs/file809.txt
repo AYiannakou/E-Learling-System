@@ -1,0 +1,21 @@
+Java Interview Question And Answer Collection API Explain HashSet,HashMap,LinkedList,ArrayList
+The Collection API is a set of classes and interfaces that support operation on collections of objects. 
+     These classes and interfaces are more flexible, more powerful, and more regular than the vectors, arrays, 
+     and hashtables if effectively replaces.
+               
+           Example of classes: HashSet, HashMap, ArrayList, LinkedList, TreeSet and TreeMap.
+     Example of interfaces: Collection, Set, List and Map.
+
+A Job Portal
+http://www.InterviewDot.com http://www.InterviewDot.com http://www.InterviewDot.com
+One Click Dream Job - http://www.interviewdot.com/upload-resume/uploadresume.htm
+
+Other Top Job Portals
+www.Naukri.com
+www.MonsterIndia.com
+www.TimesJobs.com
+
+Are you looking for a new Job ?
+InterviewDot.com - A Job Portal
+http://www.InterviewDot.com http://www.InterviewDot.com http://www.InterviewDot.com
+One Click Dream Job - http://www.interviewdot.com/upload-resume/uploadresume.htm

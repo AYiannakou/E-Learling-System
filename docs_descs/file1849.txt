@@ -1,0 +1,12 @@
+The Integer class is wrapper class that wraps a value of primitive int data type into an object. I highly recommend watching both my Primitive Wrapper Classes Tutorial and my Autoboxing Tutorial before continuing with this tutorial. You will need to understand certain concepts from both of them in order to fully comprehend the material in this tutorial. It is important to note that the Integer class is immutable.
+Fields (Constants)
+
+The Integer class contains a total of five class variables that are essentially constants: BYTES, MAX_VALUE, MIN_VALUE, SIZE, and TYPE. I will show examples of how to access these members, but TYPE is beyond the scope of this tutorial series thus far - so no go.
+Constructors
+
+The Integer class does not have a no-argument constructor. The class has two public constructors:
+Integer(int value)
+Integer(String s)
+Methods
+
+The Integer class has over 3 dozen methods so I won't list all of them here. I will demonstrate how to use some of the method in the example code. A few of the methods will require their own separate tutorials.

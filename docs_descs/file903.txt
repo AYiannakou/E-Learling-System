@@ -1,0 +1,42 @@
+Full Java tutorial playlist in order: http://java.coursegrinder.com
+
+Welcome to the first video of my Java series. I will be teaching this programming language as if it were your first.
+
+A lot of people like to teach Java based off its differences with C++. I am not one of those people.
+
+=====
+
+If you have a question please write it in the comments of this video. I will respond to you within a few hours.
+
+=====
+
+Check out more of my videos:
+http://videos.coursegrinder.com
+
+If you need immediate help, contact me on Twitter:
+http://twitter.coursegrinder.com
+
+Donate with PayPal:
+http://donate.coursegrinder.com
+
+Donate with Bitcoin:
+12BgPR3zZmELL4He1Lwirm6UNQgKANAty6
+
+Course Grinder is a free service that aims to make education enjoyable and comprehensive. This entire channel is ran by one University student. 
+
+I have included a PayPal donation link / Bitcoin address in the event that my content has helped you and you wish to assist me on my own educational journey.
+
+All contributions go towards tuition. I will send a personal thank-you e-mail to each donor. 
+
+=====
+
+Course Grinder is a member of the Broadband TV Corporation through TGN.
+
+General inquiries: 
+contact@coursegrinder.com
+
+Business inquiries: 
+business@coursegrinder.com
+
+Donation address:
+donate@coursegrinder.com Video tutorial created by Casey Bazergui. Video tutorial created by Casey Bazergui.

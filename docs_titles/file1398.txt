@@ -1,0 +1,1 @@
+Java tutorial for beginners - 24 - Multiplication table example using for loop

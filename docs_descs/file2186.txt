@@ -1,0 +1,1 @@
+This is a java video tutorial covering the basics of how to use Strings in java programming. This tutorial uses the Eclipse IDE.

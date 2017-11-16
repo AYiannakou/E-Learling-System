@@ -1,0 +1,23 @@
+Ever wondered what differences exist between Java and PHP?
+In order to show the many similarities between Java and PHP, I created a learning series.
+Part one is available at http://ojambo.com/learn-java-and-php-part-1.
+Part two is available at http://ojambo.com/primitive-data-types-of-java-and-php-part-2.
+Part three is available at http://ojambo.com/arithmetic-operators-of-java-and-php-part-3.
+Part four is available at http://ojambo.com/string-objects-of-java-and-php-part-4.
+Part five is available at http://ojambo.com/control-structures-of-java-and-php-part-5.
+Part six is available at http://ojambo.com/iteration-loops-of-java-and-php-part-6.
+
+In the seventh part, I will show you array types in Java and PHP.
+Four lessons will be about array syntax, array initializers, multi-dimensional arrays and printing arrays.
+The seventh part ends after the "Array Types" program is compiled and executed.
+
+Important Links:
+* Ojamboshop http://ojamboshop.com
+* Ojambo http://ojambo.com
+* Java & PHP Part 1 http://ojambo.com/learn-java-and-php-part-1
+* Java & PHP Part 2 http://ojambo.com/primitive-data-types-of-java-and-php-part-2
+* Java & PHP Part 3 http://ojambo.com/arithmetic-operators-of-java-and-php-part-3
+* Java & PHP Part 4 http://ojambo.com/string-objects-of-java-and-php-part-4
+* Java & PHP Part 5 http://ojambo.com/control-structures-of-java-and-php-part-5
+* Java & PHP Part 6 http://ojambo.com/iteration-loops-of-java-and-php-part-6
+* Java & PHP Part 7 http://ojambo.com/array-types-of-java-and-php-part-7

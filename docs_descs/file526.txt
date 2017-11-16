@@ -1,0 +1,29 @@
+Course Title: Object-Oriented Programming
+
+Course Code: CBOP3203
+
+Course Description:
+
+CBOP3203 Object-Oriented Programming,This course is a three-credit, middle-level course on 
+
+computer programming within the Bachelor of Information Technology and other IT-related programs 
+
+offered by the faculty. This is a self-contained course. Thus, you are not required to have basic 
+
+knowledge in programming.
+
+Part 1 - http://www.youtube.com/watch?v=NSk1d8a0zSI
+
+Part 2 - http://www.youtube.com/watch?v=RTi_QGhP8-c
+
+Part 3 - http://www.youtube.com/watch?v=CODTjouAVf4
+
+Part 4 - http://www.youtube.com/watch?v=6bvM5mKl24w
+
+Part 5 - http://www.youtube.com/watch?v=S95IiBWf-1w
+
+Part 6 - http://www.youtube.com/watch?v=uVmxSNkUmns
+
+Part 7 - http://www.youtube.com/watch?v=lkYqmSU00-s
+
+Part 8 - http://www.youtube.com/watch?v=AMdG9RY6yiM

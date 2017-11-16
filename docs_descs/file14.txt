@@ -1,0 +1,89 @@
+159-04
+Episode #1594
+http://www.g4tv.com/screensavers/episodes/1720/15904.html
+
+Top Features
+
+Be a Robot Builder
+Gareth Branwyn, author of "The Absolute Beginner's Guide to Building Robots" discusses the basic schools of robotic thought. You can purchase Branwyn's book online.  
+Dark Deals
+Kevin finds great prices on great products. Act now before the deals run out. 
+
+
+
+
+More From This Episode
+Today's hosts
+Your hosts for the show are Patrick Norton and Kevin Rose. 
+
+TSS Robot Week
+Robots, destruction, and mayhem meet 'The Screen Savers.' Find out what else is in store for this week. 
+
+Today's news
+Gates Targets 2006 for Longhorn Release
+Wal-Mart Sells PCs With Sun's Java Desktop System
+
+
+Biped robots
+Dan Gates and Jon Peterman of the Southern Oregon Robotics Club talk about biped robots. For more information about robots, click the links below. 
+
+SORC store
+Topaz Robot Room
+SmallBotics
+Wild Robots
+
+
+
+Join our LAN party! 
+Frag fellow fans and staff members in the only live, televised LAN party in the world. Our LAN party is held every Thursday, but you must register to participate.
+
+
+
+Patrick's DARPA memories
+Cool pictures from the DARPA Grand Challenge. 
+
+Sarah's tip: clean up the Windows System Tray
+The more clutter you have in your Windows System Tray, the longer it takes to boot Windows. Often these items are placed in the Tray during a software installation. Learn how you can prevent System Tray clutter by stopping errant installations. 
+
+Leo's tip: beef up your email links
+Automatically fill in subject lines, copy messages to recipients, and add body text with simple HTML code. 
+
+
+
+Tune in tomorrow
+
+Ted Larson and Bob Allen's self-balancing robot
+More coverage of the ROBOlympics
+Windows Tweak: lock your homepage forever
+
+
+
+
+Answers to live calls
+Heard what Leo, Patrick and the gang had to say, and now you want to offer your advice? Click on the link and offer your two cents on the following topics.
+
+Windows automation
+Windows viruses
+
+
+Windows Automation, Viruses
+written by Roman Loyola on Wednesday, March 31, 2004
+
+Answers to live calls for the March 31 show.
+Call No. 1: Windows automation
+Greg in Houston yearns for the days of Windows 3.1 and 95, when the operating system used to include a macros editor. Windows XP doesn't have a macros editor. What can he use to create Windows macros?
+
+Sounds like you need a scripting tool. There isn't a built-in tool in XP. Microsoft has left that feature up to third-party companies. Windows comes with a Scheduler, http://www.iopus.com/guides/winscheduler.htm but it's limited in its functions.
+
+Kevin says you should take a look at AutoMate. http://www.unisyn.com/automate/ It's an expensive solution -- $395. If it's out of your price range, do a search at your favorite download site for "Windows scripting."
+
+Discuss this topic and offer your tech advice.
+
+Call No. 2: Windows in the crosshairs
+Mark in Martinez, Calif., wants to know why Windows is the main target of virus creators.
+
+Windows is a target because it has the largest installed base. Virus creators want to affect as many machines as possible. With Windows, you're talking about hundreds of millions of computers.
+
+Windows is also a target because many people have found holes in the operating system. Microsoft is often slow when it comes to patching the holes.
+
+That's not to say that Linux and Mac don't have holes. It's just that people are paying more attention to Windows. Sure, you can attack Linux and Mac computers, but you're going after the minority of the population.

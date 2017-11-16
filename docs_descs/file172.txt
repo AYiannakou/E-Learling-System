@@ -1,0 +1,2 @@
+This video shows an model refinement within MacMas methodology using EOL.
+ArgoUML has been tailored to support the MacMas diagrams

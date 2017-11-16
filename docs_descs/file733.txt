@@ -1,0 +1,2 @@
+In this tutorial we will be learning a bit about how Java works and also about classes and methods in Java. Please feel free to ask any questions you may have in the comments section or send me a personal message.
+Please subscribe and I thank you all for your support.

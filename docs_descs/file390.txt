@@ -1,0 +1,1 @@
+Este video mostra um exemplo simples de como transformar Int em String, e como limpar os campos aonde são inseridos os dados,  que são utilizados em muitas aplicações graficas no jFrame, esse tutorial java é feito na IDE netbeans 6.9.1.

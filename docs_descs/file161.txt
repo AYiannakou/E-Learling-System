@@ -1,0 +1,1 @@
+This video explains how to import array data into the application.

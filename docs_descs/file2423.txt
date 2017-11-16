@@ -1,0 +1,1 @@
+This is the first part of a two part java video tutorial discussing the usage of arithmetic and unary operators in java programming. All tutorials use the Eclipse IDE.

@@ -1,0 +1,7 @@
+Our Excel training videos on YouTube cover formulas, functions and VBA. Useful for beginners as well as advanced learners. New upload every Thursday.
+For details you can visit our website:
+http://www.familycomputerclub.com
+Using loops or looping you can automate calculations and analysis of data in Microsoft Excel Common loops or looping processes are a 'do while' loop or a 'for next' loop.
+
+For more knowledge read the book Excel 2016 Power Programming with VBA: http://amzn.to/2kDP35V
+If you are from India you can get this book here: http://amzn.to/2jzJGqU

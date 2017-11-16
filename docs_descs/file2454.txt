@@ -1,0 +1,1 @@
+Aprenda a utilizar uma estrutura de repetição DO WHILE, faça com que uma parte do seu aplicativo se repita, ou o aplicativo todo, de acordo com a condição que você irá definir.

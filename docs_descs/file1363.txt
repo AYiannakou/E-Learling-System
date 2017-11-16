@@ -1,0 +1,1 @@
+This tree was made in an effort to provide visualizations to accompany integer sequences at OEIS.org. This was written in Java using the StdDraw library code of Sedgewick and Wayne, who have generously StdDraw and StdAudio under GPLv3 so that an open source project can be started to make more such videos. Stay tuned.

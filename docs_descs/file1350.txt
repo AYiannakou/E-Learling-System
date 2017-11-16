@@ -1,0 +1,4 @@
+Java Programming
+by: John Paul Custodio
+
+Write a program to read a list of exams score (integer percent scores, in the range 0-100) and output the total number of grades and each letter grade category (90-100=A, 80-89=B, 70-79=C, 60-69=D and 0-59=F). The end of the input is indicated by entering a negative score as a sentinel value (the negative value is issue only to end the loop, so do not use it in the calculations).

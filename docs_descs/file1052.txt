@@ -1,0 +1,53 @@
+In the Java polymorphism tutorial video, we look at a new concept called polymorphism, and how we can treat different sub classes as the same super class.
+
+http://www.deegeu.com/java-polymorphism-tutorial/
+
+Transcript :
+One of my favorite video games ever is Sinestar.  The game requires you to fly around in space, mine crystals from asteroids to build bombs while fighting other workers and space tanks, and use these bombs to ultimately battle against the Sinestar. Think about how we would model this game with what we know so far.
+
+We might have classes for the workers, tanks, asteroids, player ship, and Sinistar. Each one of these classes is a sprite that we draw on the game screen. They would all inherit from the game sprite class and all have a draw method. It would be nice to have one collection of sprites when we draw our game screen.
+
+The problem we have is, we have several different classes all with the same behavior, draw(). An array can be only one type, so do we need 6 sprite arrays? That's the problem we're going to solve. In this lesson I will explain a new concept called polymorphism, and show you how we can treat different sub classes as the same super class.
+
+Polymorphism is derived from the Greek words poly and morph.  Poly meaning many, and morph meaning form. That's it in a nutshell. Polymorphism means many forms. In Java this means an object can have different forms or types.
+
+In our game, the sprite is our base class and every type of sprite is a subclass. We've seen this in previous lessons, and we've also hinted at what's coming next.  Now it would be nice if we could put all of the sprites in one sprite array. The advantage being that we could just run through each object in the array and draw it.
+
+The polymorphic ability of a class means we can create a list of sprites like this , but we can fill it with the different subclasses. The key here is every class is a sprite. When we iterate  over our list of sprites, Java treats each one as a sprite. The method called is the draw() method specific to the derived class.
+
+Any class in Java that passes the "is-a" test is polymopophic. And that's every class,  because every class has Object as a superclass.  We could create a list of Objects and hold any class, but we could only call methods available in the Object class. So our draw() method would not be available.
+
+And that's polymorphism. When you're asked in an interview what are the 3 important concepts of object oriented programming, the answer is inheritance, encapsulation and polymorphism. We've now covered all three. It's an important concept, so if you have any questions let me know in the comments. If you liked this video, make sure you like and share. This helps get the video in front of other viewers!
+
+We'll start diving deeper into more advanced class concepts in the next few lessons. New videos come out each week, so make sure you subscribe. You don't want to miss a video! Thanks for watching, and I'll see you in the next video!
+
+This video is part of a larger free online class called Free Java Course Online.  You can find more information about this class on http://www.deegeu.com/free-java-course-online/.
+
+Concepts: Java, Programming, polymorphism, object oriented programming
+
+Social Links: Don't hesitate to contact me if you have any further questions.
+WEBSITE : dj@deegeu.com
+TWITTER : http://www.twitter.com/deege
+FACEBOOK: https://www.facebook.com/deegeu.programming.tutorials
+GOOGLE+ : http://google.com/+Deegeu-programming-tutorials
+
+About Me: http://www.deegeu.com/about-programming-tutorial-videos/
+
+Related Videos:
+
+Free Java Course Online
+https://www.youtube.com/playlist?list=PLZlGOBonMjFVq9FF0eiS_emcFmP-0fSBe
+
+If You Watch 1 Playlist About Java Classes Watch this One!
+https://www.youtube.com/playlist?list=PLZlGOBonMjFXy0JzMIFQKw7BfhWdPivKM
+
+Media credits:  All images are owned by DJ Spiess unless listed below
+
+Sinister owned by Williams Electronics
+
+Background image (dancing-156041.png) from pixabay.com
+
+Music:
+Killing Time by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100570
+Artist: http://incompetech.com/

@@ -1,0 +1,1 @@
+After watching this, you'll learn how to use arrays and you'll also learn how to output it. Also, with the usage of the for-loop.

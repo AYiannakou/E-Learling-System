@@ -1,0 +1,1 @@
+This video looks at how the compareTo() method of a class determines the priority for a priority queue.

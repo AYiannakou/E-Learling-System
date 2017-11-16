@@ -1,0 +1,16 @@
+The equals() method compares the value of the parameter to the value of the current Integer object, if the value is the same, the method will return true, otherwise it will return false. For example,
+Integer ref1 = new Integer( 419 );
+Integer ref2 = new Integer("419");
+Integer ref3 = 419;
+ref1.equals( ref2 ); // true
+ref1.equals( ref3 ); // true
+ref1.equals( 419 ); // true
+ref1.equals( 612 ); // false
+Integer cache
+
+It is very easy to confuse the functionality of the == equality operator and the .equals() method; the == equality operator has some super strange behavior relating to the Integer class. Recall that a reference variable holds a reference to an object located on the heap memory. Normally the == equality operator will determine if a reference variable refers to the same object on the heap.
+Integer ref1 = new Integer( 419 );
+Integer ref2 = new Integer( 419);
+Integer ref3 = ref1;
+ref1 == ref2; // false, they each point to separate instances (objects) on the heap.
+ref1 == ref3; // true, they point to the same instance (object) on the heap.

@@ -1,0 +1,5 @@
+Bob Lee, CTO of Square Inc. and former lead of Android's core library development, helps us wrap our minds around the mysterious - yet extremely useful - world of Java references.
+
+Ever wondered whether you should use a weak reference or a phantom reference? If you answered "yes" or "phantom who?", this is the talk for you.
+
+**Head over to http://marakana.com/techtv for more educational resources on Java, mobile, and open source development.

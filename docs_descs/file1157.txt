@@ -1,0 +1,3 @@
+Vemos en este vídeo la clase ArrayList. Con esta clase podremos almacenar en una lista dinámica objetos de diferentes tipos. Es algo relacionado con la programación genérica que comenzaremos a ver en breve.
+
+Para más cursos, ejercicios y manuales visita: http://www.pildorasinformaticas.com

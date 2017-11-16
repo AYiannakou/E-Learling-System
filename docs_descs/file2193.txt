@@ -1,0 +1,2 @@
+Download a file used in this tutorial from http://goo.gl/ozSm2t
+การใช้คำสั่ง for loop เพื่อทำงานชุดคำสั่งซ้ำตามจำนวนรอบที่ต้องการ ตอนที่ 1

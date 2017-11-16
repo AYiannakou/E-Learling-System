@@ -1,0 +1,4 @@
+This tutorial covers how to work with Java for loops in finding the smallest of a series of integer values.
+
+
+If you are interested in personalized training videos, contact Cyberpipeline today! Heidi will be happy to develop customized training to support your needs! Contact http://www.cyberpipeline.com today!

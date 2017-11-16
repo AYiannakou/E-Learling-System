@@ -1,0 +1,1 @@
+How to Validate input or Check Input Data Type In Java is Integer Only or Validating User Input

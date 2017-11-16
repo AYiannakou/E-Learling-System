@@ -1,0 +1,2 @@
+Zweiter Teil der C# Videoreihe über verkettete Listen. Zeigt deren Implementierung in objektorientierter Form mit dem Sharp Developer 2.0
+Bitte im Vollbildmodus betrachten

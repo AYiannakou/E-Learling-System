@@ -1,0 +1,1 @@
+This method shows how we can make an array and fill in all the values right of the bat.

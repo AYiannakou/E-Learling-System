@@ -1,0 +1,1 @@
+We describe the selection sort (but, I keep calling it 'insertion sort' in the video, sorry, I messed up) and implement it for an array of integers in Java. We also talk about how arrays are passed by reference in Java.

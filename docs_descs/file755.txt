@@ -1,0 +1,6 @@
+Removing Characters from a String using StringBuffer.
+
+This problem has been asked in many technical interviews.
+This video provides a solution on how can we remove character from string using StringBuffer.
+
+StringBuffer object is mutable i.e it is modifiable and String object is immutable i.e string cannot be modified.

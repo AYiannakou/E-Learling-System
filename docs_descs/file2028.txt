@@ -1,0 +1,1 @@
+In this live stream, I'll be working through some examples of simple loops and arrays in Java.

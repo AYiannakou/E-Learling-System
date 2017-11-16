@@ -1,0 +1,10 @@
+Snapshot Crapshot is a piece of software that creates pulsating videos composed entirely of images from the Internet, created with Max/MSP/Jitter and Java. The software starts at a user supplied URL and uses the following algorithm to create a video
+
+1. Download the web page at the specified URL
+2. Parse the web page for a random image
+3. Download the image 
+4. Add the image to the video
+5. Parse the web page for a random link
+6. Repeat the process with the new link's URL
+
+The process repeats until the program hits a dead end, a loop or when the user clicks "Stop." The resulting video is a quick snapshot of the images that make up a website and its neighbors at that moment in time.

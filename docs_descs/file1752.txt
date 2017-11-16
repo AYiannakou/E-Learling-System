@@ -1,0 +1,12 @@
+See  complete series on pointers here:
+http://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_
+
+In this lesson, we will see how we can work with multidimensional array in general using pointers.  We have also explained how multidimensional arrays can be passed as arguments to functions. 
+
+For more such videos and updates, you may subscribe to our channel.
+
+For practice problems and more, visit: http://www.mycodeschool.com 
+
+Like us on Facebook:  https://www.facebook.com/MyCodeSchool
+
+Follow us on twitter:  https://twitter.com/mycodeschool

@@ -1,0 +1,4 @@
+printf is a handy method provided to turn your output from crap to crazy in no time at all!
+
+Facebook: https://www.facebook.com/pages/CSharpDemos/242297469145720
+Twitter: https://twitter.com/csharpdemos

@@ -1,0 +1,10 @@
+╚►tous les exemples sur arraylist : http://www.codeurjava.com/p/java-arraylist.html
+╚►Page Facebook : https://www.facebook.com/pages/Comput...
+╚►Google+ : https://plus.google.com/u/0/108434496...
+╚►Twitter : https://twitter.com/wikicoding
+
+In this tutorial we will show you some java arraylist basic operation to element add, remove, modify and search.
+
+╚► Merci de m'avoir lu et regardé.
+╚► Cliquez sur j'aime si la vidéo vous a aidé et n'hésitez pas à commenter.
+╚► N'oubliez pas de vous abonner pour suivre de nouveaux tutoriels et informations.

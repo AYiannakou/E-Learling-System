@@ -1,0 +1,1 @@
+A simple looping algorithm to help you find the maximum and minimum numbers from a sequence.

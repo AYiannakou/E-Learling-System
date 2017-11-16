@@ -1,0 +1,1 @@
+This is a longer example where I build an immutable Java class for distances. The class is immutable: it uses only 'final' data member. We show how to build various methods, how to initialize 'final' variables in the constructor, and how to write simple unit tests using 'assert'. Also, we show how to enable assertions in eclipse.
